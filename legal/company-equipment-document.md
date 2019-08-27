@@ -1,2 +1,2 @@
-# Company equipment document
+# Acknowledgement of Receipt of Company Equipment
 
