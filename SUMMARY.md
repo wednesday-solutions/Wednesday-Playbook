@@ -9,6 +9,7 @@
     * [Dress Code](employee-handbook/hiring-at-wednesday/dress-code.md)
     * [Work Hours](employee-handbook/hiring-at-wednesday/work-hours.md)
   * [Leave Policy](employee-handbook/leave-policy.md)
+  * [Holiday List](employee-handbook/holiday-list.md)
   * [Benefits and Perks](employee-handbook/benefits-and-perks.md)
 * [Legal](legal/README.md)
   * [Offer letter](legal/offer-letter.md)
