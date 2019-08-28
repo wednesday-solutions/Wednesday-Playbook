@@ -13,7 +13,7 @@ We prefer to use the pod structure. A large part of this decision is because it 
 
 _Note: With the module unification_ [_RFC_](https://github.com/emberjs/rfcs/pull/143) _being merged it seems the larger audience prefers the pods approach as well._
 
-### Naming conventions
+### Nomenclature
 
 
 
