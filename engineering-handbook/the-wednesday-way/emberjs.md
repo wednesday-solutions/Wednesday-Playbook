@@ -77,7 +77,7 @@ Use lower camel case for all variable names. Declare all variables with `let`
 
 ### Variable Assignment
 
-1. Don't chain variable assignment
+* Don't chain variable assignment
 
 **Preferred**
 
@@ -89,7 +89,7 @@ Use lower camel case for all variable names. Declare all variables with `let`
 
 `let a = 1, b = a;`
 
-2. Always define variables in a new line
+* Always define variables in a new line
 
 **Preferred**
 
@@ -162,7 +162,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
 ### Functions
 
-1. Use named functions
+* Use named functions
 
 **Preferred**
 
@@ -172,7 +172,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
 `export default function() {}`
 
-2. Use default parameter syntax rather than mutating function arguments
+* Use default parameter syntax rather than mutating function arguments
 
 **Preferred**
 
@@ -187,7 +187,7 @@ function myFunc(name) {
 }
 ```
 
-3. Always put default parameters last
+* Always put default parameters last
 
 **Preferred**
 
@@ -197,7 +197,7 @@ function myFunc(name) {
 
 `function myFunc(name='Ali', lastName) {}`
 
-4. When using anonymous functions always use arrow functions
+* When using anonymous functions always use arrow functions
 
 **Preferred**
 
@@ -209,7 +209,7 @@ function myFunc(name) {
 
 ### Classes
 
-1. Avoid manipulating the prototype or defining variables in the prototype
+* Avoid manipulating the prototype or defining variables in the prototype
 
 **Preferred**
 
@@ -230,7 +230,7 @@ EmberObject.extend({
 });
 ```
 
-1. Always declare variables that the class uses
+* Always declare variables that the class uses
 
 **Preferred**
 
@@ -288,15 +288,15 @@ Prefer to always use a data down actions up approach. Here are some things to ke
 
 Testing is a joy with Emberjs. Ember enables you to write deterministic tests. We expect every emberjs application to have a minimum of 70% code-coverage.
 
-1. Unit Tests
+* Unit Tests
 
 Write unit tests for all the helper methods, macros and template helpers you write.
 
-1. Integration tests
+* Integration tests
 
 Write integration tests that ensure a component works correctly under different input criteria. Also ensure you test all the actions a component sends.
 
-1. Acceptance tests
+* Acceptance tests
 
 Every feature you build needs acceptance tests. Some areas that you need to mandatorily test for are:
 
