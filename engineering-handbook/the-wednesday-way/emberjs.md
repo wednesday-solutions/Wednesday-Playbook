@@ -107,39 +107,30 @@ Use object destructing when accessing and using multiple properties of an object
 
 **Preferred**
 
-\`function getCompanyDetails\(company\) {
-
-```text
-let { name, address } = company;
-
-return ${name} ${address};
 ```
-
-}\`
+function getCompanyDetails(company) {
+  let { name, address } = company;
+  return ${name} ${address};
+}
+```
 
 Better than the above
 
-\`function getCompanyDetails\({ name, address }\) {
-
-```text
-return ${name} ${address};
 ```
-
-}\`
+function getCompanyDetails({ name, address }) {
+  return ${name} ${address};
+}
+```
 
 **Not Preferred**
 
-\`function getCompanyDetails\(company\) {
-
-```text
-let name = company.name;
-
-let address = company.address;
-
-return ${name} ${address}
 ```
-
-}\`
+function getCompanyDetails(company) {
+  let name = company.name;
+  let address = company.address;
+  return ${name} ${address}
+}
+```
 
 ### Strings
 
@@ -157,11 +148,17 @@ Strings that extend 120 characters should **NOT** be split into multiple lines. 
 
 **Preferred**
 
-`let loremIpsum = Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley';`
+```
+let loremIpsum = Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley';
+```
 
 **Not Preferred**
 
-`let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.' + 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown' + 'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five';`
+```
+let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.' + 
+'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown' + 
+'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five';
+```
 
 ### Functions
 
@@ -183,15 +180,12 @@ Strings that extend 120 characters should **NOT** be split into multiple lines. 
 
 **Not Preferred**
 
-`function myFunc(name) {`
-
-```text
-`name = name | 'Ali;`
-
-`...`
 ```
-
-`}`
+function myFunc(name) {
+  `name = name | 'Ali;`
+  ...
+}
+```
 
 3. Always put default parameters last
 
@@ -219,60 +213,44 @@ Strings that extend 120 characters should **NOT** be split into multiple lines. 
 
 **Preferred**
 
-`EmberObject.extend({`
-
-```text
-`variable: null`
-
-`init() {`
-
-   `this.variable = EmberObject.create();`
 ```
-
-`}`
-
-`});`
+EmberObject.extend({
+  variable: null,
+  init() {
+    this.variable = EmberObject.create();
+  }
+});
+```
 
 **Not Preferred**
 
-`EmberObject.extend({`
-
-```text
-`variable: EmberObject.create()`
 ```
-
-`});`
+EmberObject.extend({
+  variable: EmberObject.create()
+});
+```
 
 1. Always declare variables that the class uses
 
 **Preferred**
 
-`EmberObject.extend({`
-
-```text
-`variable: null,`
 ```
+EmberObject.extend({
+  variable: null,
 
-`testFunction() {`
-
-```text
-    `... this.variable.get('#something')`
+  testFunction() {
+    ... this.variable.get('#something');
+  }
+});
 ```
-
-`}`
-
-`});`
 
 **Not Preferred**
 
-`EmberObject.extend({`
-
-```text
-`testFunction() {`
-
-    `... this.variable.get('#something');`
-
-`}`
+```
+EmberObject.extend({
+  testFunction() {
+    ... this.variable.get('#something');
+}
 ```
 
 `});`
