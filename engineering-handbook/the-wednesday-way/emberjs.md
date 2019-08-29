@@ -1,159 +1,20 @@
 # Emberjs Styleguide
 
-* [Project Structure](#project-structure)
-* [Nomenclature](#nomenclature)
-  * [Class Names](#class-names)
-  * [Function Names](#function-names)
-  * [Variable Names](#variables-names)
-  * [Variable Assignment](#variable-assignment)
-  * [Destructuring](#destructuring)
-  * [Strings](#strings)
-  * [Functions](#functions)
-  * [Classes](#classes)
-  * [Class Structure](#class-structure)
-  * [Get and Set notation](#get-and-set-notation)
-* [Best Practices](#best-practices)
-
-### Variable Assignment
-
-1. Don't chain variable assignment
-
-**Preferred**
-
-`let a = 1;`
-
-`let b = a;`
-
-**Not Preferred**
-
-`let a = 1, b = a;`
-
-2. Always define variables in a new line
-
-**Preferred**
-
-`let a = 1;`
-
-`let b = 2;`
-
-**Not Preferred**
-
-`let a = 1, b = 2;`
-
-### Destructuring
-
-### Functions
-
-1.Use named functions
-
-**Preferred**
-
-`export const myFunc = function() {}`
-
-**Not Preferred**
-
-`export default function() {}`
-
-2. Use default parameter syntax rather than mutating function arguments
-
-**Preferred**
-
-`function myFunc(name='Ali') {}`
-
-**Not Preferred**
-
-`function myFunc(name) {`
-
-    `name = name | 'Ali;`
-
-    `...`
-
-`}`
-
-3. Always put default parameters last
-
-**Preferred**
-
-`function myFunc(lastName, name =  'Ali') {}`
-
-**Not Preferred**
-
-`function myFunc(name='Ali', lastName) {}`
-
-4. When using anonymous functions always use arrow functions
-
-**Preferred**
-
-`array.mapBy((item) => {})`
-
-**Not Preferred**
-
-`array.mapBy(function(item) {})`
-
-### Classes
-
-1. Avoid manipulating the prototype or defining variables in the prototype
-
-**Preferred**
-
-`EmberObject.extend({`
-
-    `variable: null`
-
-    `init() {`
-
-       `this.variable = EmberObject.create();`
-
-   `}`
-
-`});`
-
-**Not Preferred**
-
-`EmberObject.extend({`
-
-    `variable: EmberObject.create()`
-
-`});`
-
-2. Always declare variables that the class uses
-
-**Preferred**
-
-`EmberObject.extend({`
-
-    `variable: null,`
-
-   `testFunction() {`
-
-        `... this.variable.get('#something')`
-
-   `}`
-
-`});`
-
-**Not Preferred**
-
-`EmberObject.extend({`
-
-    `testFunction() {`
-
-        `... this.variable.get('#something');`
-
-    `}`
-
-`});`
-
-### Class Structure
-
 We love Ember. It is one of the most opinionated frameworks we have used.
 
 * [Project Structure](emberjs.md#project-structure)
-* Nomenclature
-  * Class Names
-  * Function Names
-  * Variable Names
-  * Destructuring
+* [Nomenclature](emberjs.md#nomenclature)
+  * [Class Names](emberjs.md#class-names)
+  * [Function Names](emberjs.md#function-names)
+  * [Variable Names](emberjs.md#variables-names)
+  * [Variable Assignment](emberjs.md#variable-assignment)
+  * [Destructuring](emberjs.md#destructuring)
+  * [Strings](emberjs.md#strings)
+  * [Functions](emberjs.md#functions)
+  * [Classes](emberjs.md#classes)
+  * [Class Structure](emberjs.md#class-structure)
+  * [Get and Set notation](emberjs.md#get-and-set-notation)
+* [Best Practices](emberjs.md#best-practices)
 
 ## Project Structure
 
@@ -213,6 +74,32 @@ Use lower camel case for all variable names. Declare all variables with `let`
 `var myVar;`
 
 `const my_var;`
+
+### Variable Assignment
+
+1. Don't chain variable assignment
+
+**Preferred**
+
+`let a = 1;`
+
+`let b = a;`
+
+**Not Preferred**
+
+`let a = 1, b = a;`
+
+2. Always define variables in a new line
+
+**Preferred**
+
+`let a = 1;`
+
+`let b = 2;`
+
+**Not Preferred**
+
+`let a = 1, b = 2;`
 
 ### Destructuring
 
@@ -276,26 +163,128 @@ Strings that extend 120 characters should **NOT** be split into multiple lines. 
 
 `let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.' + 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown' + 'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five';`
 
-### // fix below this
+### Functions
 
-### **Architecture decisions**
+1. Use named functions
 
-### **Tests**
+**Preferred**
 
-### **Continuous Deployment and Integration**
+`export const myFunc = function() {}`
 
-\*\*\*\*
+**Not Preferred**
+
+`export default function() {}`
+
+2. Use default parameter syntax rather than mutating function arguments
+
+**Preferred**
+
+`function myFunc(name='Ali') {}`
+
+**Not Preferred**
+
+`function myFunc(name) {`
+
+```text
+`name = name | 'Ali;`
+
+`...`
+```
+
+`}`
+
+3. Always put default parameters last
+
+**Preferred**
+
+`function myFunc(lastName, name = 'Ali') {}`
+
+**Not Preferred**
+
+`function myFunc(name='Ali', lastName) {}`
+
+4. When using anonymous functions always use arrow functions
+
+**Preferred**
+
+`array.mapBy((item) => {})`
+
+**Not Preferred**
+
+`array.mapBy(function(item) {})`
+
+### Classes
+
+1. Avoid manipulating the prototype or defining variables in the prototype
+
+**Preferred**
+
+`EmberObject.extend({`
+
+```text
+`variable: null`
+
+`init() {`
+
+   `this.variable = EmberObject.create();`
+```
+
+`}`
+
+`});`
+
+**Not Preferred**
+
+`EmberObject.extend({`
+
+```text
+`variable: EmberObject.create()`
+```
+
+`});`
+
+1. Always declare variables that the class uses
+
+**Preferred**
+
+`EmberObject.extend({`
+
+```text
+`variable: null,`
+```
+
+`testFunction() {`
+
+```text
+    `... this.variable.get('#something')`
+```
+
+`}`
+
+`});`
+
+**Not Preferred**
+
+`EmberObject.extend({`
+
+```text
+`testFunction() {`
+
+    `... this.variable.get('#something');`
+
+`}`
+```
+
+`});`
+
+### Class Structure
 
 Every class should follow the following order
 
 1. Define all variables that the classes uses first
-
 2. Define all computed properties next
-
 3. Define all lifecycle methods
-
 4. Define other methods
-
 5. Define actions
 
 ### Get and Set Notation
@@ -306,18 +295,16 @@ Although, the get notation is not needed we still find ourselves using it for pr
 
 ## Best Practices
 
-### Data Down Actions Up 
+### Data Down Actions Up
 
-A large number of new ember enhancements have got quite a resemblance with concepts used in frameworks like React. 
+A large number of new ember enhancements have got quite a resemblance with concepts used in frameworks like React.
 
 What React calls _Uni-Directional Data Flow_ is what Ember calls _Data Down Actions Up_. As your application grows and the state that is managed increases managing dependencies becomes very difficult.
 
 Prefer to always use a data down actions up approach. Here are some things to keep in mind:
 
 1. Data passed to a component should not be modified with in it. Raise an action to tell the consumer about the modification.
-
 2. It's okay to raise multiple actions if your component has multiple child components.
-
 3. Use actions to communicate between parent and child routes.
 
 ### Test Practices
@@ -328,11 +315,11 @@ Testing is a joy with Emberjs. Ember enables you to write deterministic tests. W
 
 Write unit tests for all the helper methods, macros and template helpers you write.
 
-2. Integration tests
+1. Integration tests
 
 Write integration tests that ensure a component works correctly under different input criteria. Also ensure you test all the actions a component sends.
 
-3. Acceptance tests
+1. Acceptance tests
 
 Every feature you build needs acceptance tests. Some areas that you need to mandatorily test for are:
 
