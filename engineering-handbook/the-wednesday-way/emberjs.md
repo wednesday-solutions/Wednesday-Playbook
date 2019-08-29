@@ -114,7 +114,7 @@ function getCompanyDetails(company) {
 }
 ```
 
-Better than the above
+**Best**
 
 ```
 function getCompanyDetails({ name, address }) {
