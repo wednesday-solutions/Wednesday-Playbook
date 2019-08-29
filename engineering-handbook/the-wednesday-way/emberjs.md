@@ -1,18 +1,18 @@
 # Emberjs Styleguide
 
-* Project Structure
-* Nomenclature
-  * Class Names
-  * Function Names
-  * Variable Names
-  * Variable Assignment
-  * Destructuring
-  * Strings
-  * Functions
-  * Classes
-  * Class Structure
-  * Get and Set notation
-* Best Practices
+* [Project Structure](#project-structure)
+* [Nomenclature](#nomenclature)
+  * [Class Names](##class-names)
+  * [Function Names](##function-names)
+  * [Variable Names](##variables-names)
+  * [Variable Assignment](##variable-assignment)
+  * [Destructuring](##destructuring)
+  * [Strings](##strings)
+  * [Functions](##functions)
+  * [Classes](##classes)
+  * [Class Structure](##class-structure)
+  * [Get and Set notation](##get-and-set-notation)
+* [Best Practices](#best-practices)
 
 ### Variable Assignment
 
