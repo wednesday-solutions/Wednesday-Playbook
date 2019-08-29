@@ -250,10 +250,9 @@ EmberObject.extend({
 EmberObject.extend({
   testFunction() {
     ... this.variable.get('#something');
-}
+  }
+});
 ```
-
-`});`
 
 ### Class Structure
 
