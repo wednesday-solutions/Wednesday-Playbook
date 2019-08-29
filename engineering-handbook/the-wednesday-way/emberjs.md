@@ -74,33 +74,33 @@ Use object destructing when accessing and using multiple properties of an object
 
 **Preferred**
 
-`function getCompanyDetails(company) {`
+`function getCompanyDetails(company) {
 
-    `let { name, address } = company;`
+    let { name, address } = company;
 
-    ``return ${name} ${address}```
+    return ${name} ${address};
 
-`}`
+}`
 
 Better than the above
 
-`function getCompanyDetails({ name, address }) {`
+`function getCompanyDetails({ name, address }) {
 
-    ``return ${name} ${address}```
+    return ${name} ${address};
 
-`}`
+}`
 
 **Not Preferred**
 
-`function getCompanyDetails(company) {`
+`function getCompanyDetails(company) {
 
-    `let name = company.name;`
+    let name = company.name;
 
-    `let address = company.address;`
+    let address = company.address;
 
-    ``return ${name} ${address}```
+    return ${name} ${address}
 
-`}`
+}`
 
 ### Strings
 
@@ -118,15 +118,13 @@ Strings that extend 120 characters should **NOT** be split into multiple lines. 
 
 **Preferred**
 
-`let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley`**`';`**
+`let loremIpsum = Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley';`
 
 **Not Preferred**
 
-`let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.' +` 
-
-`'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown' +` 
-
-`'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five';`
+`let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.' +
+'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown' +
+'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five';`
 
 ### // fix below this
 
