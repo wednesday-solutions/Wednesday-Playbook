@@ -2,7 +2,7 @@
 
 We love Ember. It is one of the most opinionated frameworks we have used.
 
-* Project Structure
+* [Project Structure](#project-structure)
 * Nomenclature
   * Class Names
   * Function Names
