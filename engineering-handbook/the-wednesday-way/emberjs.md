@@ -172,7 +172,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
   `export default function() {}`
 
-  * Use default parameter syntax rather than mutating function arguments
+* Use default parameter syntax rather than mutating function arguments
 
   **Preferred**
 
