@@ -164,95 +164,95 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
 * Use named functions
 
-**Preferred**
+  **Preferred**
 
-`export const myFunc = function() {}`
+  `export const myFunc = function() {}`
 
-**Not Preferred**
+  **Not Preferred**
 
-`export default function() {}`
+  `export default function() {}`
 
-* Use default parameter syntax rather than mutating function arguments
+  * Use default parameter syntax rather than mutating function arguments
 
-**Preferred**
+  **Preferred**
 
-`function myFunc(name='Ali') {}`
+  `function myFunc(name='Ali') {}`
 
-**Not Preferred**
+  **Not Preferred**
 
-```
-function myFunc(name) {
-  `name = name | 'Ali;`
-  ...
-}
-```
+  ```
+  function myFunc(name) {
+    `name = name | 'Ali;`
+    ...
+  }
+  ```
 
 * Always put default parameters last
 
-**Preferred**
+  **Preferred**
 
-`function myFunc(lastName, name = 'Ali') {}`
+  `function myFunc(lastName, name = 'Ali') {}`
 
-**Not Preferred**
+  **Not Preferred**
 
-`function myFunc(name='Ali', lastName) {}`
+  `function myFunc(name='Ali', lastName) {}`
 
 * When using anonymous functions always use arrow functions
 
-**Preferred**
+  **Preferred**
 
-`array.mapBy((item) => {})`
+  `array.mapBy((item) => {})`
 
-**Not Preferred**
+  **Not Preferred**
 
-`array.mapBy(function(item) {})`
+  `array.mapBy(function(item) {})`
 
 ### Classes
 
 * Avoid manipulating the prototype or defining variables in the prototype
 
-**Preferred**
+  **Preferred**
 
-```
-EmberObject.extend({
-  variable: null,
-  init() {
-    this.variable = EmberObject.create();
-  }
-});
-```
+  ```
+  EmberObject.extend({
+    variable: null,
+    init() {
+      this.variable = EmberObject.create();
+    }
+  });
+  ```
 
-**Not Preferred**
+  **Not Preferred**
 
-```
-EmberObject.extend({
-  variable: EmberObject.create()
-});
-```
+  ```
+  EmberObject.extend({
+    variable: EmberObject.create()
+  });
+  ```
 
 * Always declare variables that the class uses
 
-**Preferred**
+  **Preferred**
 
-```
-EmberObject.extend({
-  variable: null,
+  ```
+  EmberObject.extend({
+    variable: null,
 
-  testFunction() {
-    ... this.variable.get('#something');
-  }
-});
-```
+    testFunction() {
+      ... this.variable.get('#something');
+    }
+  });
+  ```
 
-**Not Preferred**
+  **Not Preferred**
 
-```
-EmberObject.extend({
-  testFunction() {
-    ... this.variable.get('#something');
-  }
-});
-```
+  ```
+  EmberObject.extend({
+    testFunction() {
+      ... this.variable.get('#something');
+    }
+  });
+  ```
 
 ### Class Structure
 
@@ -290,19 +290,19 @@ Testing is a joy with Emberjs. Ember enables you to write deterministic tests. W
 
 * Unit Tests
 
-Write unit tests for all the helper methods, macros and template helpers you write.
+  Write unit tests for all the helper methods, macros and template helpers you write.
 
 * Integration tests
 
-Write integration tests that ensure a component works correctly under different input criteria. Also ensure you test all the actions a component sends.
+  Write integration tests that ensure a component works correctly under different input criteria. Also ensure you test all   the actions a component sends.
 
 * Acceptance tests
 
-Every feature you build needs acceptance tests. Some areas that you need to mandatorily test for are:
+  Every feature you build needs acceptance tests. Some areas that you need to mandatorily test for are:
 
-* API requests: Ensure that a page is sending the right API requests.
-* Test for all business conditions a feature should support.
-* Test any local data that needs to be stored and if it is stored correctly.
+  * API requests: Ensure that a page is sending the right API requests.
+  * Test for all business conditions a feature should support.
+  * Test any local data that needs to be stored and if it is stored correctly.
 
 ### Continuous Integration and Deployment
 
@@ -313,4 +313,3 @@ Every project we build should use Circle CI to automate builds and tests. The in
 * Test if the entire test suite passes
 
 When a branch is merged to develop it should trigger a deployment.
-
