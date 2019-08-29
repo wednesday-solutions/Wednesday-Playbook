@@ -20,7 +20,7 @@
   * [Release and delivery](engineering-handbook/release-and-delivery/README.md)
     * [Git-flow](engineering-handbook/release-and-delivery/git-flow.md)
     * [Code reviews](engineering-handbook/release-and-delivery/code-reviews.md)
-    * [Deployment and continuous integration](engineering-handbook/release-and-delivery/deployment-and-continuous-integration.md)
+    * [Continuous Integration and Delivery](engineering-handbook/release-and-delivery/deployment-and-continuous-integration.md)
   * [The Wednesday Way](engineering-handbook/the-wednesday-way/README.md)
     * [React](engineering-handbook/the-wednesday-way/react.md)
     * [React-Native](engineering-handbook/the-wednesday-way/react-native.md)

@@ -107,7 +107,7 @@ Use object destructing when accessing and using multiple properties of an object
 
 **Preferred**
 
-```
+```text
 function getCompanyDetails(company) {
   let { name, address } = company;
   return ${name} ${address};
@@ -116,7 +116,7 @@ function getCompanyDetails(company) {
 
 **Best**
 
-```
+```text
 function getCompanyDetails({ name, address }) {
   return ${name} ${address};
 }
@@ -124,7 +124,7 @@ function getCompanyDetails({ name, address }) {
 
 **Not Preferred**
 
-```
+```text
 function getCompanyDetails(company) {
   let name = company.name;
   let address = company.address;
@@ -148,13 +148,13 @@ Strings that extend 120 characters should **NOT** be split into multiple lines. 
 
 **Preferred**
 
-```
+```text
 let loremIpsum = Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley';
 ```
 
 **Not Preferred**
 
-```
+```text
 let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.' + 
 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown' + 
 'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five';
@@ -180,7 +180,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
   **Not Preferred**
 
-  ```
+  ```text
   function myFunc(name) {
     `name = name | 'Ali;`
     ...
@@ -213,7 +213,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
   **Preferred**
 
-  ```
+  ```text
   EmberObject.extend({
     variable: null,
     init() {
@@ -224,7 +224,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
   **Not Preferred**
 
-  ```
+  ```text
   EmberObject.extend({
     variable: EmberObject.create()
   });
@@ -234,7 +234,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
   **Preferred**
 
-  ```
+  ```text
   EmberObject.extend({
     variable: null,
 
@@ -246,7 +246,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
   **Not Preferred**
 
-  ```
+  ```text
   EmberObject.extend({
     testFunction() {
       ... this.variable.get('#something');
@@ -294,7 +294,7 @@ Testing is a joy with Emberjs. Ember enables you to write deterministic tests. W
 
 * Integration tests
 
-  Write integration tests that ensure a component works correctly under different input criteria. Also ensure you test all   the actions a component sends.
+  Write integration tests that ensure a component works correctly under different input criteria. Also ensure you test all the actions a component sends.
 
 * Acceptance tests
 
@@ -313,3 +313,4 @@ Every project we build should use Circle CI to automate builds and tests. The in
 * Test if the entire test suite passes
 
 When a branch is merged to develop it should trigger a deployment.
+
