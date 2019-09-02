@@ -1,22 +1,22 @@
 # React Styleguide
 
-We love React. It's one of the msot performant and fastest growing web frameworks, it's got an amazing, super helpful community who are always ready to help.
+It is the fastest growing web framework and has an amazing community of developers supporting it.
 
-* [The Stack](react.js.md#the-stack)
-* [Project Structure](react.js.md#project-structure)
-* [Nomenclature](react.js.md#nomenclature)
-  * [Class Names](react.js.md#class-names)
-  * [Function Names](react.js.md#function-names)
-  * [Variable Names](react.js.md#variables-names)
-  * [Variable Assignment](react.js.md#variable-assignment)
-  * [Destructuring](react.js.md#destructuring)
-  * [Strings](react.js.md#strings)
-  * [Functions](react.js.md#functions)
-  * [Classes](react.js.md#classes)
-  * [Class Structure](react.js.md#class-structure)
-* [Best Practices](react.js.md#best-practices)
+* [Setup](react.md#setup)
+* [Project Structure](react.md#project-structure)
+* [Nomenclature](react.md#nomenclature)
+  * [Class Names](react.md#class-names)
+  * [Function Names](react.md#function-names)
+  * [Variable Names](react.md#variables-names)
+  * [Variable Assignment](react.md#variable-assignment)
+  * [Destructuring](react.md#destructuring)
+  * [Strings](react.md#strings)
+  * [Functions](react.md#functions)
+  * [Classes](react.md#classes)
+  * [Class Structure](react.md#class-structure)
+* [Best Practices](react.md#best-practices)
 
-## The Stack
+## Setup
 
 At Wednesday we rely heavily on the following battle tested libraries while building React projects.
 
@@ -29,25 +29,25 @@ At Wednesday we rely heavily on the following battle tested libraries while buil
 * [React Intl](https://github.com/formatjs/react-intl/tree/master/docs) for localisation and formatting text.
 * [Ant Design](https://ant.design/) for beautiful components cause we don't believe in reinventing the wheel.
 
-At Wednesday building top quality code is the number one priority.
-In order to be able to produce **readable**, **well documented** and **maintainable code** confidently we use the following linters and testing frameworks
-
-The following libraries are used for linting:
+Use the following linting libraries:
 
 * [ES Lint](https://eslint.org/) 
-* [Prttier-standard](https://github.com/sheerun/prettier-standard)
+* [Prettier-standard](https://github.com/sheerun/prettier-standard)
+
+Use the following testing libraries:
+
 * [Jest](http://facebook.github.io/jest/) 
 * [React Testing Library](https://github.com/testing-library/react-testing-library)
-* [React Generator](https://github.com/wednesday-solutions/react-generator): Our very own home-bred cli tool to generate tests, components, containers and more!
+* [React Generator](https://github.com/wednesday-solutions/react-generator): A tool to generate tests for components, containers and more. (This is all us! Pull requests are always welcome)!
 
 ## Project Structure
 
-Code organisation is one of the most important things in a project and plays a paramount role in writing well architected scalable projects.
+Code organization is one of the most important things in a project and plays a paramount role in writing well architected, organized and easy to maintain code.
 
-* The application code is writen in the ```app``` folder.
-  * We follow the container/component architecture where components are basically dumb React components. They are not connected to the Redux store and do not produce side effects either.
-  * Container components are connected to the Redux store and perform side effects. 
-  * Container components are responsible for the business logic whereas the dumb components are only responsible for visuals.
+* Write the application code in the ```app``` folder.
+  * We use the container/component architecture. Components are just presentational without any side-effects. They are not connected to the Redux store and do not produce side effects either.
+  * Container components are connected to the Redux store and perform side effects.
+  * Container components are responsible for the business logic whereas the components are only responsible for visuals.
   * Example project structure
     ```
     app/
@@ -101,19 +101,19 @@ Use lower camel case for function names.
 
 ### **Variable Names**
 
-Use lower camel case for all variable names. 
-For variables who's value doesn't change we use the kyeword `const` and for those variables that have changing values we use `let`
+Use `lowerCamelCase` for all variable names.
+Values that changed should be assigned to `let`. For all other purposes use `const`
 
-If you have an application constant use UPPER_SNAKE_CASE
+If you have an application constant use `UPPER_SNAKE_CASE`
 
 For example
 
-```MEANING_OF_LIFE = "https://wednesday.is"```
+```const MEANING_OF_LIFE = "https://wednesday.is"```
 
-If you have an application constant that is an Object then the Object will be in UPPER_SNAKE_CASE and the properties will be in lowerCamelCase
+If you have an application constant that is an Object then the Object will be in `UPPER_SNAKE_CASE` and the properties will be in `lowerCamelCase`
 
 ```
-COMPANY_DETAILS = {
+const COMPANY_DETAILS = {
     name: "Wednesday",
     properties: ["Passionate", "dedicated", "and", "hardworking", "team",
                  "producing", "quality", "software"],
@@ -248,28 +248,51 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 Every class should follow the following order
 
 1. Define all variables that the classes uses first
-2. Define all computed properties next
-3. Define all lifecycle methods
-4. Define other methods
-5. dispatchStateToProps and mapStateToProps
-6. Compose component with all the injections
-7. Export component
+2. Define all lifecycle methods
+3. Define other methods
+4. dispatchStateToProps and mapStateToProps
+5. Compose component with all the injections, HoCs
+6. Export component
 
 ## Best Practices
 
 ### Side effect free component
 
-* All of the components need to be side effect free. Any and all interaction with the redux store or the sagas must take place in containers
+* Components should be free of side-effects. Containers should be responsible for modifications to the redux store
 
 ### Localisation
 
 * No string literals should be used in components, all displayed text should come through translations
+  
+  Eg:
+
+    * `intl.formatMessage({id: 'search_details'});`
+    * `<FormattedMessage id={'repo_details'} values={{repoName}} />`    
+
+### Routing
+
+* All routes should be in `kebab-case`
+  
+  Eg: [https://wednesday.is/awesome/partners-with-fanjam/](https://wednesday.is/awesome/partners-with-fanjam/)
+
+### Actions
+
+* When dispatching an for an API call the action will always be preceeded with a `REQUEST`
+
+    Eg: `REQUEST_GET_GITHUB_REPOS`
+
+* If the API is successful the dipatched action will be preceeded with `SUCCESS`
+
+    Eg: `SUCCESS_GET_GITHUB_REPOS`
+
+* If the API is successful the dipatched action will be preceeded with `FAILURE`
+
+    Eg: `FAILURE_GET_GITHUB_REPOS`
 
 ### Test Practices
 
-Testing with react is pretty straight forward.
-We add a `tests` folder to each of the component folder.
-For example
+Add a `tests` folder to each of the component folder.
+Eg:
 ```
 ...
     containers/
@@ -286,28 +309,18 @@ For example
 ...
 ```
 
-* Unit Tests
+*  **Unit Tests**
 
   Write unit tests for all the helper methods, components, comtainers, reducers, actions and sagas.
 
-* Integration tests
+* **Integration tests**
 
   Write integration tests that ensure a component works correctly under different input criteria. Also ensure you test all the actions a component sends.
 
-* Acceptance tests
+* **Acceptance tests**
 
   Every feature you build needs acceptance tests. Some areas that you need to mandatorily test for are:
 
   * API requests: Ensure that a page is sending the right API requests.
   * Test for all business conditions a feature should support.
   * Test any local data that needs to be stored and if it is stored correctly.
-
-### Continuous Integration and Deployment
-
-Every project we build should use Circle CI to automate builds and tests. The integration process should have these steps:
-
-* Test if the application can be built
-* Test if the application passes all lint checks
-* Test if the entire test suite passes
-
-When a branch is merged to develop it should trigger a deployment.
