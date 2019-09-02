@@ -20,7 +20,7 @@ It is the fastest growing web framework and has an amazing community of develope
 
 At Wednesday we rely heavily on the following battle tested libraries while building React projects.
 
-* [Redux](https://redux.js.org/introduction/getting-started) for global state management.
+* [Redux Sauce](https://github.com/infinitered/reduxsauce) for global state management.
 * [Redux-Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html) to make handling side effects easier.
 * [Reselect](https://github.com/reduxjs/reselect) to make it easier to select state from redux.
 * [React Router](https://github.com/ReactTraining/react-router) for routing of your SPA.
@@ -59,7 +59,6 @@ Code organization is one of the most important things in a project and plays a p
         containers/
             SampleContainer/
                 index.js
-                action.js  (if required)
                 reducer.js  (if required)
                 saga.js  (if required)
                 selectors.js (if required)
@@ -301,7 +300,6 @@ Eg:
                 index.test.js
                 saga.test.js
                 reducer.test.js
-                actions.test.js
                 selectors.test.js
             ...
         ...
@@ -311,7 +309,7 @@ Eg:
 
 *  **Unit Tests**
 
-  Write unit tests for all the helper methods, components, comtainers, reducers, actions and sagas.
+  Write unit tests for all the helper methods, components, containers, reducers, and sagas.
 
 * **Integration tests**
 
