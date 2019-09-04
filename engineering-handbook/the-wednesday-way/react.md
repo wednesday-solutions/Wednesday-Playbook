@@ -1,6 +1,6 @@
 # React Styleguide
 
-It is the fastest growing web framework and has an amazing community of developers supporting it.
+React is the fastest growing web framework. It has an amazing community of developers and we try are best to keep up with all the updates.
 
 * [Setup](react.md#setup)
 * [Project Structure](react.md#project-structure)
