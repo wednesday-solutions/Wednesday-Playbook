@@ -45,7 +45,8 @@ Use the following testing libraries:
 Code organization is one of the most important things in a project and plays a paramount role in writing well architected, organized and easy to maintain code.
 
 * Write the application code in the ```app``` folder.
-  * We use the container/component architecture. Components are just presentational without any side-effects. They are not connected to the Redux store and do not produce side effects either.
+  * We use the container/component architecture. 
+  * Components are just presentational without any side-effects. They are not connected to the Redux store and do not produce side effects either.
   * Container components are connected to the Redux store and perform side effects.
   * Container components are responsible for the business logic whereas the components are only responsible for visuals.
   * Example project structure
@@ -276,7 +277,7 @@ Every class should follow the following order
 
 ### Actions
 
-* When dispatching an for an API call the action will always be preceeded with a `REQUEST`
+* When dispatching an action for an API call the action will always be preceeded with a `REQUEST`
 
     Eg: `REQUEST_GET_GITHUB_REPOS`
 
