@@ -197,7 +197,7 @@ String concatenation, Here, we want to add a space after a name so we use interp
 
 `let description = 'is Awesome';`
 
-`console.log(${name} ${description});`
+console.log(`${name} ${description}`);
 
 **Not Preferred**
 
