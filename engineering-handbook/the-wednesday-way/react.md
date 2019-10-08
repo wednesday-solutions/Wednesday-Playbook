@@ -189,7 +189,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five';
 ```
 
-String concatenation, here, we want to add a space after a name so we use interpolation `${variable}` so this will help us directly inject variables into a string.
+String interpolation, here, we want to add a space after a name so we use interpolation `${variable}` so this will help us directly inject variables into a string.
 
 **Preferred**
 
