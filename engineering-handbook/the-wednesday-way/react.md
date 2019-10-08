@@ -2,7 +2,6 @@
 
 React is the fastest growing web framework. It has an amazing community of developers and we try our best to keep up with all the updates.
 
-
 * [Setup](react.md#setup)
 * [Project Structure](react.md#project-structure)
 * [Nomenclature](react.md#nomenclature)
@@ -20,7 +19,6 @@ React is the fastest growing web framework. It has an amazing community of devel
 
 At Wednesday we rely on the following battle tested libraries.
 
-
 * [Redux Sauce](https://github.com/infinitered/reduxsauce) for global state management.
 * [Redux-Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html) to make handling side effects easier.
 * [Reselect](https://github.com/reduxjs/reselect) to make it easier to select state from redux.
@@ -37,7 +35,6 @@ Use the following linting libraries:
 
 Use the following testing libraries:
 
-
 * [Jest](http://facebook.github.io/jest/) 
 * [React Testing Library](https://github.com/testing-library/react-testing-library)
 * [React Generator](https://github.com/wednesday-solutions/react-generator): A tool to generate tests for components, containers and more. \(This is all us! Pull requests are always welcome\)
@@ -45,7 +42,6 @@ Use the following testing libraries:
 ## Project Structure
 
 How to group files, containers, components, API calls? Thinking about this plays an important role in building a project that stands the test of time.
-
 
 * Write the application code in the `app` folder.
 
@@ -106,7 +102,6 @@ Use lower camel case for function names.
 `function _myFunction()`
 
 ### **Variable Names**
-
 
 Use `lowerCamelCase` for all variable names. Values that change should be assigned to `let`. For all other purposes use `const`
 
@@ -246,7 +241,6 @@ function myFunc(name) {
 
 `function myFunc(lastName, name = 'Ali') {}`
 
-
 **Not Preferred**
 
 `function myFunc(name='Ali', lastName) {}`
@@ -258,7 +252,6 @@ function myFunc(name) {
 **Preferred**
 
 `array.mapBy((item) => {})`
-
 
 **Not Preferred**
 
@@ -298,7 +291,6 @@ Every class should have the following order
   Eg: [https://wednesday.is/awesome/partners-with-fanjam/](https://wednesday.is/awesome/partners-with-fanjam/)
 
 ### Actions
-
 
 * When dispatching an API call the action should always be preceded with a `REQUEST`
 
