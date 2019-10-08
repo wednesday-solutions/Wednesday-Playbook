@@ -1,4 +1,4 @@
-# React
+# React Styleguide
 
 React is the fastest growing web framework. It has an amazing community of developers and we try our best to keep up with all the updates.
 
@@ -30,8 +30,8 @@ At Wednesday we rely on the following battle tested libraries.
 
 Use the following linting libraries:
 
-* [ES Lint](https://eslint.org/) 
-* [Prettier-standard](https://github.com/sheerun/prettier-standard)
+- [ES Lint](https://eslint.org/)
+- [Prettier-standard](https://github.com/sheerun/prettier-standard)
 
 Use the following testing libraries:
 
@@ -113,7 +113,7 @@ For example
 
 If you have an application constant that is an Object then the Object will be in `UPPER_SNAKE_CASE` and the properties will be in `lowerCamelCase`
 
-```text
+```
 const COMPANY_DETAILS = {
     name: "Wednesday",
     properties: ["Passionate", "dedicated", "and", "hardworking", "team",
@@ -140,7 +140,7 @@ const COMPANY_DETAILS = {
 
 ### Variable Assignment
 
-* Don't chain variable assignment
+- Don't chain variable assignment
 
 **Preferred**
 
@@ -152,7 +152,7 @@ const COMPANY_DETAILS = {
 
 `let a = 1, b = a;`
 
-* Always define variables in a new line
+- Always define variables in a new line
 
 **Preferred**
 
@@ -187,14 +187,28 @@ let loremIpsum = Lorem Ipsum is simply dummy text of the printing and typesettin
 **Not Preferred**
 
 ```text
-let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.' + 
-'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown' + 
+let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.' +
+'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown' +
 'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five';
 ```
 
+String interpolation, here, we want to add a space after a name so we use interpolation `${variable}` so this will help us directly inject variables into a string.
+
+**Preferred**
+
+`let name = 'Wednesday';`
+
+`let description = 'is Awesome';`
+
+console.log(`${name} ${description}`);
+
+**Not Preferred**
+
+`console.log(name + ' ' + description);`
+
 ### Functions
 
-* Use named functions
+- Use named functions
 
 **Preferred**
 
@@ -204,7 +218,7 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
 `export default function() {}`
 
-* Use default parameter syntax rather than mutating function arguments
+- Use default parameter syntax rather than mutating function arguments
 
 **Preferred**
 
@@ -219,7 +233,7 @@ function myFunc(name) {
 }
 ```
 
-* Always put default parameters last
+- Always put default parameters last
 
   \*\*\*\*
 
@@ -259,20 +273,20 @@ Every class should have the following order
 
 ### Side effect free component
 
-* Components should be free of side-effects. Containers should be responsible for modifications to the redux store
+- Components should be free of side-effects. Containers should be responsible for modifications to the redux store
 
 ### Localisation
 
-* No string literals should be used in components, all displayed text should come through translations
+- No string literals should be used in components, all displayed text should come through translations
 
   Eg:
 
-  * `intl.formatMessage({id: 'search_details'});`
-  * `<FormattedMessage id={'repo_details'} values={{repoName}} />`    
+  - `intl.formatMessage({id: 'search_details'});`
+  - `<FormattedMessage id={'repo_details'} values={{repoName}} />`
 
 ### Routing
 
-* All routes should be in `kebab-case`
+- All routes should be in `kebab-case`
 
   Eg: [https://wednesday.is/awesome/partners-with-fanjam/](https://wednesday.is/awesome/partners-with-fanjam/)
 
@@ -292,9 +306,10 @@ Every class should have the following order
 
 ### Test Practices
 
-Add a `tests` folder to each of the component folder. Eg:
+Add a `tests` folder to each of the component folder.
+Eg:
 
-```text
+```
 ...
     containers/
         SampleContainer/
@@ -309,19 +324,18 @@ Add a `tests` folder to each of the component folder. Eg:
 ...
 ```
 
-* **Unit Tests**
+- **Unit Tests**
 
   Write unit tests for all the helper methods, components, containers, reducers, and sagas.
 
-* **Integration tests**
+- **Integration tests**
 
   Write integration tests that ensure a component works correctly under different input criteria. Also, ensure you test all the actions a component sends.
 
-* **Acceptance tests**
+- **Acceptance tests**
 
   Every feature you build needs acceptance tests. Some areas that you need to mandatorily test for are:
 
-  * API requests: Ensure that a page is sending the right API requests.
-  * Test for all business conditions a feature should support.
-  * Test any local data that needs to be stored and if it is stored correctly.
-
+  - API requests: Ensure that a page is sending the right API requests.
+  - Test for all business conditions a feature should support.
+  - Test any local data that needs to be stored and if it is stored correctly.
