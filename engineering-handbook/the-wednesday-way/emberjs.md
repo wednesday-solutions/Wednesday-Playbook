@@ -164,95 +164,97 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
 * Use named functions
 
-  **Preferred**
+**Preferred**
 
-  `export const myFunc = function() {}`
+`export const myFunc = function() {}`
 
-  **Not Preferred**
+**Not Preferred**
 
-  `export default function() {}`
+`export default function() {}`
 
 * Use default parameter syntax rather than mutating function arguments
 
-  **Preferred**
+  \*\*\*\*
 
-  `function myFunc(name='Ali') {}`
+**Preferred**
 
-  **Not Preferred**
+`function myFunc(name='Ali') {}`
 
-  ```text
-  function myFunc(name) {
-    `name = name | 'Ali;`
-    ...
-  }
-  ```
+**Not Preferred**
+
+```text
+function myFunc(name) {
+  `name = name | 'Ali;`
+  ...
+}
+```
 
 * Always put default parameters last
 
-  **Preferred**
+**Preferred**
 
-  `function myFunc(lastName, name = 'Ali') {}`
+`function myFunc(lastName, name = 'Ali') {}`
 
-  **Not Preferred**
+**Not Preferred**
 
-  `function myFunc(name='Ali', lastName) {}`
+`function myFunc(name='Ali', lastName) {}`
 
 * When using anonymous functions always use arrow functions
 
-  **Preferred**
+**Preferred**
 
-  `array.mapBy((item) => {})`
+`array.mapBy((item) => {})`
 
-  **Not Preferred**
+**Not Preferred**
 
-  `array.mapBy(function(item) {})`
+`array.mapBy(function(item) {})`
 
 ### Classes
 
 * Avoid manipulating the prototype or defining variables in the prototype
 
-  **Preferred**
+**Preferred**
 
-  ```text
-  EmberObject.extend({
-    variable: null,
-    init() {
-      this.variable = EmberObject.create();
-    }
-  });
-  ```
+```text
+EmberObject.extend({
+  variable: null,
+  init() {
+    this.variable = EmberObject.create();
+  }
+});
+```
 
-  **Not Preferred**
+**Not Preferred**
 
-  ```text
-  EmberObject.extend({
-    variable: EmberObject.create()
-  });
-  ```
+```text
+EmberObject.extend({
+  variable: EmberObject.create()
+});
+```
 
 * Always declare variables that the class uses
 
-  **Preferred**
+**Preferred**
 
-  ```text
-  EmberObject.extend({
-    variable: null,
+```text
+EmberObject.extend({
+  variable: null,
 
-    testFunction() {
-      ... this.variable.get('#something');
-    }
-  });
-  ```
+  testFunction() {
+    ... this.variable.get('#something');
+  }
+});
+```
 
-  **Not Preferred**
+**Not Preferred**
 
-  ```text
-  EmberObject.extend({
-    testFunction() {
-      ... this.variable.get('#something');
-    }
-  });
-  ```
+```text
+EmberObject.extend({
+  testFunction() {
+    ... this.variable.get('#something');
+  }
+});
+```
 
 ### Class Structure
 
@@ -306,7 +308,7 @@ Testing is a joy with Emberjs. Ember enables you to write deterministic tests. W
 
 ### Continuous Integration and Deployment
 
-Every project we build should use Circle CI to automate builds and tests. The integration process should have these steps:
+Every project we build should use Circle-CI to automate builds and tests. The integration process should have these steps:
 
 * Test if the application can be built
 * Test if the application passes all lint checks

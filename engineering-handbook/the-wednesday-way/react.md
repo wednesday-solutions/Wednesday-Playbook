@@ -1,6 +1,6 @@
-# React Styleguide
+# React
 
-React is the fastest growing web framework. It has an amazing community of developers and we try are best to keep up with all the updates.
+React is the fastest growing web framework. It has an amazing community of developers and we try our best to keep up with all the updates.
 
 * [Setup](react.md#setup)
 * [Project Structure](react.md#project-structure)
@@ -12,20 +12,19 @@ React is the fastest growing web framework. It has an amazing community of devel
   * [Destructuring](react.md#destructuring)
   * [Strings](react.md#strings)
   * [Functions](react.md#functions)
-  * [Classes](react.md#classes)
   * [Class Structure](react.md#class-structure)
 * [Best Practices](react.md#best-practices)
 
 ## Setup
 
-At Wednesday we rely heavily on the following battle tested libraries while building React projects.
+At Wednesday we rely on the following battle tested libraries.
 
 * [Redux Sauce](https://github.com/infinitered/reduxsauce) for global state management.
 * [Redux-Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html) to make handling side effects easier.
 * [Reselect](https://github.com/reduxjs/reselect) to make it easier to select state from redux.
-* [React Router](https://github.com/ReactTraining/react-router) for routing of your SPA.
+* [React Router](https://github.com/ReactTraining/react-router) for routing.
 * [Api Sauce](https://github.com/infinitered/apisauce#readme) for making API calls.
-* [Styled Components](https://www.styled-components.com/) for styling.
+* [Styled Components](https://www.styled-components.com/)
 * [React Intl](https://github.com/formatjs/react-intl/tree/master/docs) for localisation and formatting text.
 * [Ant Design](https://ant.design/) for beautiful components cause we don't believe in reinventing the wheel.
 
@@ -38,36 +37,39 @@ Use the following testing libraries:
 
 * [Jest](http://facebook.github.io/jest/) 
 * [React Testing Library](https://github.com/testing-library/react-testing-library)
-* [React Generator](https://github.com/wednesday-solutions/react-generator): A tool to generate tests for components, containers and more. (This is all us! Pull requests are always welcome)!
+* [React Generator](https://github.com/wednesday-solutions/react-generator): A tool to generate tests for components, containers and more. \(This is all us! Pull requests are always welcome\)
 
 ## Project Structure
 
-Code organization is one of the most important things in a project and plays a paramount role in writing well architected, organized and easy to maintain code.
+How to group files, containers, components, API calls? Thinking about this plays an important role in building a project that stands the test of time.
 
 * Write the application code in the ```app``` folder.
   * We use the container/component architecture. 
   * Components are just presentational without any side-effects. They are not connected to the Redux store and do not produce side effects either.
   * Container components are connected to the Redux store and perform side effects.
-  * Container components are responsible for the business logic whereas the components are only responsible for visuals.
+  * Containers are where the business logic lives.
   * Example project structure
-    ```
-    app/
-        components/
-            SampleComponent/
-                index.js
-                tests/
-                    index.test.js
-        containers/
-            SampleContainer/
-                index.js
-                reducer.js  (if required)
-                saga.js  (if required)
-                selectors.js (if required)
-        assets/
-            sample-image.png
-        translations/
-            en.json
-    ```
+
+
+
+  ```text
+  app/
+      components/
+          SampleComponent/
+              index.js
+              tests/
+                  index.test.js
+      containers/
+          SampleContainer/
+              index.js
+              reducer.js  (if required)
+              saga.js  (if required)
+              selectors.js (if required)
+      assets/
+          sample-image.png
+      translations/
+          en.json
+  ```
 
 ## Nomenclature
 
@@ -101,18 +103,17 @@ Use lower camel case for function names.
 
 ### **Variable Names**
 
-Use `lowerCamelCase` for all variable names.
-Values that changed should be assigned to `let`. For all other purposes use `const`
+Use `lowerCamelCase` for all variable names. Values that change should be assigned to `let`. For all other purposes use `const`
 
 If you have an application constant use `UPPER_SNAKE_CASE`
 
 For example
 
-```const MEANING_OF_LIFE = "https://wednesday.is"```
+`const MEANING_OF_LIFE = "https://wednesday.is"`
 
 If you have an application constant that is an Object then the Object will be in `UPPER_SNAKE_CASE` and the properties will be in `lowerCamelCase`
 
-```
+```text
 const COMPANY_DETAILS = {
     name: "Wednesday",
     properties: ["Passionate", "dedicated", "and", "hardworking", "team",
@@ -120,6 +121,7 @@ const COMPANY_DETAILS = {
     workWthUs: "hello@wednesday.is"
 }
 ```
+
 **Preferred**
 
 `let myVar;`
@@ -194,65 +196,64 @@ let loremIpsum = 'Lorem Ipsum is simply dummy text of the printing and typesetti
 
 * Use named functions
 
-  **Preferred**
+**Preferred**
 
-  `export const myFunc = function() {}`
+`export const myFunc = function() {}`
 
-  **Not Preferred**
+**Not Preferred**
 
-  `export default function() {}`
+`export default function() {}`
 
 * Use default parameter syntax rather than mutating function arguments
 
-  **Preferred**
+**Preferred**
 
-  `function myFunc(name='Ali') {}`
+`function myFunc(name = 'Ali') {}`
 
-  **Not Preferred**
+**Not Preferred**
 
-  ```text
-  function myFunc(name) {
-    `name = name | 'Ali;`
-    ...
-  }
-  ```
+```text
+function myFunc(name) {
+  `name = name | 'Ali;`
+  ...
+}
+```
 
 * Always put default parameters last
 
-  **Preferred**
+  \*\*\*\*
 
-  `function myFunc(lastName, name = 'Ali') {}`
+**Preferred**
 
-  **Not Preferred**
+`function myFunc(lastName, name = 'Ali') {}`
 
-  `function myFunc(name='Ali', lastName) {}`
+**Not Preferred**
+
+`function myFunc(name='Ali', lastName) {}`
 
 * When using anonymous functions always use arrow functions
 
-  **Preferred**
+  \*\*\*\*
 
-  `array.mapBy((item) => {})`
+**Preferred**
 
-  **Not Preferred**
+`array.mapBy((item) => {})`
 
-  `array.mapBy(function(item) {})`
+**Not Preferred**
 
-### Classes
-
-* Decstructing the props
-
-    `const { name, companyName, handleOnClick } = this.props`
+`array.mapBy(function(item) {})`
 
 ### Class Structure
 
-Every class should follow the following order
+Every class should have the following order
 
-1. Define all variables that the classes uses first
-2. Define all lifecycle methods
-3. Define other methods
-4. dispatchStateToProps and mapStateToProps
-5. Compose component with all the injections, HoCs
-6. Export component
+1. All variables declarations
+2. Lifecycle methods
+3. Public methods
+4. Private methods
+5. `dispatchStateToProps` and `mapStateToProps`
+6. Injections and HoCs declaration.
+7. Export component
 
 ## Best Practices
 
@@ -263,37 +264,38 @@ Every class should follow the following order
 ### Localisation
 
 * No string literals should be used in components, all displayed text should come through translations
-  
+
   Eg:
 
-    * `intl.formatMessage({id: 'search_details'});`
-    * `<FormattedMessage id={'repo_details'} values={{repoName}} />`    
+  * `intl.formatMessage({id: 'search_details'});`
+  * `<FormattedMessage id={'repo_details'} values={{repoName}} />`    
 
 ### Routing
 
 * All routes should be in `kebab-case`
-  
+
   Eg: [https://wednesday.is/awesome/partners-with-fanjam/](https://wednesday.is/awesome/partners-with-fanjam/)
 
 ### Actions
 
 * When dispatching an action for an API call the action will always be preceeded with a `REQUEST`
 
-    Eg: `REQUEST_GET_GITHUB_REPOS`
 
-* If the API is successful the dipatched action will be preceeded with `SUCCESS`
+  Eg: `REQUEST_GET_GITHUB_REPOS`
 
-    Eg: `SUCCESS_GET_GITHUB_REPOS`
+* If the API is successful the dispatched action should be preceded with `SUCCESS`
 
-* If the API is successful the dipatched action will be preceeded with `FAILURE`
+  Eg: `SUCCESS_GET_GITHUB_REPOS`
 
-    Eg: `FAILURE_GET_GITHUB_REPOS`
+* If the API is successful the dispatched action should be preceded with `FAILURE`
+
+  Eg: `FAILURE_GET_GITHUB_REPOS`
 
 ### Test Practices
 
-Add a `tests` folder to each of the component folder.
-Eg:
-```
+Add a `tests` folder to each of the component folder. Eg:
+
+```text
 ...
     containers/
         SampleContainer/
@@ -308,13 +310,13 @@ Eg:
 ...
 ```
 
-*  **Unit Tests**
+* **Unit Tests**
 
   Write unit tests for all the helper methods, components, containers, reducers, and sagas.
 
 * **Integration tests**
 
-  Write integration tests that ensure a component works correctly under different input criteria. Also ensure you test all the actions a component sends.
+  Write integration tests that ensure a component works correctly under different input criteria. Also, ensure you test all the actions a component sends.
 
 * **Acceptance tests**
 
@@ -323,3 +325,4 @@ Eg:
   * API requests: Ensure that a page is sending the right API requests.
   * Test for all business conditions a feature should support.
   * Test any local data that needs to be stored and if it is stored correctly.
+
