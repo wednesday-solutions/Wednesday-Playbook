@@ -43,9 +43,9 @@ Use the following testing libraries:
 
 How to group files, containers, components, API calls? Thinking about this plays an important role in building a project that stands the test of time.
 
-* Write the application code in the `app` folder.
-
-  * Use the container/component architecture. Components are presentational without any side-effects. They are not connected to the Redux store and do not produce side effects.
+* Write the application code in the ```app``` folder.
+  * We use the container/component architecture. 
+  * Components are just presentational without any side-effects. They are not connected to the Redux store and do not produce side effects.
   * Container components are connected to the Redux store and perform side effects.
   * Containers are where the business logic lives.
   * Example project structure
@@ -278,7 +278,7 @@ Every class should have the following order
 
 ### Actions
 
-* When dispatching an API call the action should always be preceded with a `REQUEST`
+* When dispatching an action for an API call the action will always be preceeded with a `REQUEST`
 
   Eg: `REQUEST_GET_GITHUB_REPOS`
 
