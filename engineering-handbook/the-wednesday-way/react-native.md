@@ -1,6 +1,6 @@
 # React-Native
 
-React-Native is fast becoming the go-to framework for mobile application development. Given the ability to create both Android and iOS applications using the same code base it is definitely one of our favourite frameworks for mobile app development.
+React-native is growing fast. We've been actively using the framework in production since the initial days. Here are a set of conventions we like to follow across all of our projects.
 
 * [Setup](react-native.md#setup)
 * [Project Structure](react-native.md#project-structure)
@@ -331,11 +331,3 @@ Eg:
 - **Integration tests**
 
   Write integration tests that ensure a component works correctly under different input criteria. Also, ensure you test all the actions a component sends.
-
-- **Acceptance tests**
-
-  Every feature you build needs acceptance tests. Some areas that you need to mandatorily test for are:
-
-  - API requests: Ensure that a page is sending the right API requests.
-  - Test for all business conditions a feature should support.
-  - Test any local data that needs to be stored and if it is stored correctly.
