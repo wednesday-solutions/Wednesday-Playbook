@@ -37,7 +37,7 @@ Use the following linting libraries:
 Use the following testing libraries:
 
 * [Jest](http://facebook.github.io/jest/) 
-* [Testing Library React Native](@testing-library/react-native)
+* [Testing Library React Native](https://github.com/callstack/react-native-testing-library)
 
 ## Project Structure
 
