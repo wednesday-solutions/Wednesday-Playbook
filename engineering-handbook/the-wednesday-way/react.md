@@ -1,4 +1,4 @@
-# React Styleguide
+# React
 
 React is the fastest growing web framework. It has an amazing community of developers and we try our best to keep up with all the updates.
 
@@ -30,8 +30,8 @@ At Wednesday we rely on the following battle tested libraries.
 
 Use the following linting libraries:
 
-- [ES Lint](https://eslint.org/)
-- [Prettier-standard](https://github.com/sheerun/prettier-standard)
+* [ES Lint](https://eslint.org/)
+* [Prettier-standard](https://github.com/sheerun/prettier-standard)
 
 Use the following testing libraries:
 
@@ -43,16 +43,14 @@ Use the following testing libraries:
 
 How to group files, containers, components, API calls? Thinking about this plays an important role in building a project that stands the test of time.
 
-* Write the application code in the ```app``` folder.
+* Write the application code in the `app` folder.
   * We use the container/component architecture. 
   * Components are just presentational without any side-effects. They are not connected to the Redux store and do not produce side effects.
   * Container components are connected to the Redux store and perform side effects.
   * Containers are where the business logic lives.
   * Example project structure
 
-
-
-  ```text
+```text
   app/
       components/
           SampleComponent/
@@ -69,7 +67,7 @@ How to group files, containers, components, API calls? Thinking about this plays
           sample-image.png
       translations/
           en.json
-  ```
+```
 
 ## Nomenclature
 
@@ -113,7 +111,7 @@ For example
 
 If you have an application constant that is an Object then the Object will be in `UPPER_SNAKE_CASE` and the properties will be in `lowerCamelCase`
 
-```
+```text
 const COMPANY_DETAILS = {
     name: "Wednesday",
     properties: ["Passionate", "dedicated", "and", "hardworking", "team",
@@ -140,7 +138,7 @@ const COMPANY_DETAILS = {
 
 ### Variable Assignment
 
-- Don't chain variable assignment
+* Don't chain variable assignment
 
 **Preferred**
 
@@ -152,7 +150,7 @@ const COMPANY_DETAILS = {
 
 `let a = 1, b = a;`
 
-- Always define variables in a new line
+* Always define variables in a new line
 
 **Preferred**
 
@@ -200,7 +198,7 @@ String interpolation, here, we want to add a space after a name so we use interp
 
 `let description = 'is Awesome';`
 
-console.log(`${name} ${description}`);
+console.log\(`${name} ${description}`\);
 
 **Not Preferred**
 
@@ -208,7 +206,7 @@ console.log(`${name} ${description}`);
 
 ### Functions
 
-- Use named functions
+* Use named functions
 
 **Preferred**
 
@@ -218,7 +216,7 @@ console.log(`${name} ${description}`);
 
 `export default function() {}`
 
-- Use default parameter syntax rather than mutating function arguments
+* Use default parameter syntax rather than mutating function arguments
 
 **Preferred**
 
@@ -233,7 +231,7 @@ function myFunc(name) {
 }
 ```
 
-- Always put default parameters last
+* Always put default parameters last
 
   \*\*\*\*
 
@@ -273,20 +271,20 @@ Every class should have the following order
 
 ### Side effect free component
 
-- Components should be free of side-effects. Containers should be responsible for modifications to the redux store
+* Components should be free of side-effects. Containers should be responsible for modifications to the redux store
 
 ### Localisation
 
-- No string literals should be used in components, all displayed text should come through translations
+* No string literals should be used in components, all displayed text should come through translations
 
   Eg:
 
-  - `intl.formatMessage({id: 'search_details'});`
-  - `<FormattedMessage id={'repo_details'} values={{repoName}} />`
+  * `intl.formatMessage({id: 'search_details'});`
+  * `<FormattedMessage id={'repo_details'} values={{repoName}} />`
 
 ### Routing
 
-- All routes should be in `kebab-case`
+* All routes should be in `kebab-case`
 
   Eg: [https://wednesday.is/awesome/partners-with-fanjam/](https://wednesday.is/awesome/partners-with-fanjam/)
 
@@ -306,10 +304,9 @@ Every class should have the following order
 
 ### Test Practices
 
-Add a `tests` folder to each of the component folder.
-Eg:
+Add a `tests` folder to each of the component folder. Eg:
 
-```
+```text
 ...
     containers/
         SampleContainer/
@@ -324,18 +321,19 @@ Eg:
 ...
 ```
 
-- **Unit Tests**
+* **Unit Tests**
 
   Write unit tests for all the helper methods, components, containers, reducers, and sagas.
 
-- **Integration tests**
+* **Integration tests**
 
   Write integration tests that ensure a component works correctly under different input criteria. Also, ensure you test all the actions a component sends.
 
-- **Acceptance tests**
+* **Acceptance tests**
 
   Every feature you build needs acceptance tests. Some areas that you need to mandatorily test for are:
 
-  - API requests: Ensure that a page is sending the right API requests.
-  - Test for all business conditions a feature should support.
-  - Test any local data that needs to be stored and if it is stored correctly.
+  * API requests: Ensure that a page is sending the right API requests.
+  * Test for all business conditions a feature should support.
+  * Test any local data that needs to be stored and if it is stored correctly.
+
