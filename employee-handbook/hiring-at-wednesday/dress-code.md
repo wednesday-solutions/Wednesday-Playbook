@@ -1,6 +1,6 @@
 # Dress Code
 
-Our matra here is **be** **presentable**.
+Our mantra here is **be** **presentable**.
 
 We don't force anyone to wear a specific attire but we expect you to use your best judgement and dress well.
 
