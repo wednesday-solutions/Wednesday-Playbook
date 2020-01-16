@@ -42,7 +42,7 @@ The financial year i.e. starting 1st April to 31st March is what we use to track
 * When working from home if deliverables are not met the manager can mark you for half the day. This will however be communicated with you.
 * Any planned leave will not be permitted during the notice period.
 * It's important that you get maximum overlap with you team. If you're later than 12:30pm to come to the office it will be marked as a half day.
-* Unused leaves will not be encashed.
+* Unused leaves will not be encashed or forwarded to the next cycle.
 
 We're flexible. The above are policies that we have found well both for Wednesday and the people who make it. If there are any special cases please talk to us and we're happy to help.
 
