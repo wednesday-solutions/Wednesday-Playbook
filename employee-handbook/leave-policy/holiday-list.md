@@ -3,7 +3,7 @@
 | 1 | New Years Day | 01-Jan-2021 |
 | :--- | :--- | :--- |
 | 2 | Republic Day | 26-Jan-2020 |
-| 3 | Holi | 09-Mar-2020 |
+| 3 | Holi | 10-Mar-2020 |
 | 4 | Ambedkar Jayanti | 14-Apr-2020 |
 | 5 | Independence Day | 15-Aug-2020 |
 | 6 | Deepawali | 13-Nov-2020 |
