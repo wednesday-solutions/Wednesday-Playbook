@@ -11,7 +11,6 @@
   * [Leave Policy](employee-handbook/leave-policy/README.md)
     * [Holiday List](employee-handbook/leave-policy/holiday-list.md)
   * [Benefits and Perks](employee-handbook/benefits-and-perks.md)
-* [Untitled](untitled.md)
 
 ## Legal Templates
 
