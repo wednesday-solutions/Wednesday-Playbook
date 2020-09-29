@@ -20,8 +20,10 @@
   * [Offer Letter](legal-templates/legal/offer-letter-1/README.md)
     * [Offer Cum Acceptance Letter Template](legal-templates/legal/offer-letter-1/offer-letter.md)
     * [Annexure 1](legal-templates/legal/offer-letter-1/annexure-1.md)
-  * [Vendor/Contractor Agreement Template](legal-templates/legal/vendor-contractor-agreement-template.md)
-  * [Acknowledgment of receipt of Playbook](legal-templates/legal/acknowledgment-of-receipt-of-playbook.md)
+    * [Acknowledgment of receipt of Playbook](legal-templates/legal/offer-letter-1/acknowledgment-of-receipt-of-playbook.md)
+  * [Contractor Agreement](legal-templates/legal/contractor-agreement/README.md)
+    * [Contractor Agreement Template](legal-templates/legal/contractor-agreement/vendor-contractor-agreement-template.md)
+    * [Annexure A](legal-templates/legal/contractor-agreement/annexure-a.md)
 
 ## Engineering Playbook
 
