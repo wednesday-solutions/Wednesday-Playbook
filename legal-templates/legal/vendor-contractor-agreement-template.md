@@ -8,13 +8,13 @@ a. **Wednesday Solutions**, a registered proprietorship firm, with its registere
 
 _and_
 
-b. **Name of the individual/company**, &lt;insert PAN No.&gt;, residing at &lt;insert address&gt; \(**Consultant**\) which expression unless repugnant to its context shall mean and include their successors, assigns, affiliates and related entities, of the Second Part.
+b. **Name of the individual/company**, &lt;insert PAN No.&gt;, residing at &lt;insert address&gt; \(**Consultant**\) which expression unless repugnant to its context shall mean and include their successors, assigns, affiliates, and related entities, of the Second Part.
 
 **Wednesday** and **Consultant** shall be referred to individually as Party, and jointly as Parties, where the context so requires.
 
 Whereas:
 
-1. Wednesday in engaged in the business of providing software and technological advisory and consulting services.
+1. Wednesday in engaged in the business of providing software and technology advisory and consulting services.
 2. Relying on representation made by the Consultant about their previous experience, trainings and qualifications, Wednesday has agreed to engage the Consultant as &lt;**Designation**&gt; with effect from _**XX XXXX, 2019**_ \(Effective Date\), and on the terms and conditions contained in this Agreement;
 3. The Parties agree and undertake that they shall abide by the terms and conditions contained in this Agreement and therefore agree to sign this Agreement confirming their commitment and intention
 
