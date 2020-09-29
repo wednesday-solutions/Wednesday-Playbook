@@ -17,7 +17,9 @@
 * [Client Contracts](legal-templates/client-contracts/README.md)
   * [Master Services Agreement](legal-templates/client-contracts/master-services-agreement.md)
 * [Employee Contracts](legal-templates/legal/README.md)
-  * [Offer Cum Acceptance Letter Template](legal-templates/legal/offer-letter.md)
+  * [Offer Letter](legal-templates/legal/offer-letter-1/README.md)
+    * [Offer Cum Acceptance Letter Template](legal-templates/legal/offer-letter-1/offer-letter.md)
+    * [Annexure 1](legal-templates/legal/offer-letter-1/annexure-1.md)
   * [Vendor/Contractor Agreement Template](legal-templates/legal/vendor-contractor-agreement-template.md)
   * [Acknowledgment of receipt of Playbook](legal-templates/legal/acknowledgment-of-receipt-of-playbook.md)
 
