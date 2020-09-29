@@ -6,11 +6,11 @@ Project Details, Terms, And Conditions Between &lt;&lt;CLIENT&gt;&gt; & Wednesda
 
 This Master Services Agreement \(**Agreement**\) is entered into and made effective on &lt;&lt;DATE&gt;&gt; by and between
 
-1. **Wednesday Solutions**, a proprietorship firm, with its registered office at Block No 6, Safe Housing Society, BT Kawade Road, Pune 411013 which expression unless repugnant to its context shall mean and include its successors, assigns, affiliates and related entities, of the **First Part**;
+1. **Wednesday Solutions**, a partnership firm, with its registered office at Unit No 509 & 510, Clover Hills Plaza, NIBM Road, Kondhwa, Pune 411048 which expression unless repugnant to its context shall mean and include its successors, assigns, affiliates and related entities, of the **First Part**;
 
 and
 
-2. **&lt;&lt;CLIENT&gt;&gt;**, having its registered office at &lt;&lt;CLIENT ADDRESS&gt;&gt; \(**Client**\) which expression unless repugnant to its context shall mean and include its successors, assigns, affiliates and related entities, of the **Second Part**.
+2. **&lt;&lt;CLIENT&gt;&gt;**, having its registered office at &lt;&lt;CLIENT ADDRESS&gt;&gt; \(**Client**\) which expression unless repugnant to its context shall mean and include its successors, assigns, affiliates, and related entities, of the **Second Part**.
 
 Wednesday Solutions and &lt;&lt;CLIENT&gt;&gt; shall be referred to individually as **Party**, and jointly as **Parties**, where the context so requires.
 
@@ -22,7 +22,7 @@ B. **&lt;&lt;CLIENT&gt;&gt;** desires that Wednesday Solutions provide certain S
 
 **NOW, THEREFORE**, in consideration of the foregoing recitals, of the mutual terms and conditions of this Agreement, and for other good and valuable consideration, the receipt and adequacy of which are acknowledged, the Parties agree as follows:
 
-## 1 Definitions
+## 1. Definitions
 
 When used in this Agreement or in each Statement of Work, the capitalized terms listed in this section shall have the meaning as provided below. Other capitalized terms used in this Agreement shall have the meaning respectively assigned to them elsewhere in this Agreement or in each Statement of Work.
 
@@ -46,7 +46,7 @@ When used in this Agreement or in each Statement of Work, the capitalized terms 
 
 **1.10  “Written” or “In Writing”** means any communication in a written form, which shall include, without limitation, any communication by telex, facsimile and electronic e-mail transmission.
 
-## 2 Services and Deliverables
+## 2. Services and Deliverables
 
 **2.1**  **Performance of Services/Deliverables.** Wednesday shall perform any Services or take steps to deliver the pre-agreed Deliverables on signing of or agreeing Statement of Work or otherwise agreeing In Writing. In the event that the terms of a Statement of Work are contrary to the terms in this Agreement, the terms of this Agreement shall be binding and shall prevail over the terms contained in that Statement of Work unless and to the extent that the Statement of Work explicitly provides that it is to take precedence over this Agreement and cross references the affected provisions of this Agreement.
 
@@ -56,11 +56,11 @@ When used in this Agreement or in each Statement of Work, the capitalized terms 
 
 **2.4**  **Change Order.** The Parties anticipate the modification of Statements of Work during the course of each Project. Either Party may propose a Change Order. Wednesday shall inform the Client in Writing within seven \(7\) days of receipt of a proposed Change Order as to the additional fees and expenses to be charged to carry out the proposed Change Order, and the new time of performance for the same and other terms and conditions. The additional or changed work shall commence only upon the execution of the Change Order. Notwithstanding any changes as above, the Client shall be responsible for and liable to pay for all the Deliverables or Services prior to a Change Order and for all non-cancelable committed Deliverables or Services and pre-approved materials ordered or services for Client.
 
-## 3 Reliance on Inputs
+## 3. Reliance on Inputs
 
 Client at its cost shall provide Wednesday with all information, documents, tools, designs, materials, non-standard hardware and software, directions, instructions, Specifications, functional requirements, specific software requirements and guidance access with appropriate rights \(**Inputs**\) that may be reasonably necessary for Wednesday’s performance of the Services or delivery of Deliverables. All Inputs required by Wednesday shall be given in a timely manner and when provided, will be complete, accurate and up to-date. Wednesday shall rely upon any Inputs relating to Wednesday’s performance of Services or delivery of Deliverables, provided to Wednesday by Client, Client’s Project Manager, or any person designated by Client or Client’s Project Manager. Wednesday shall in no event be liable to Client and/or any third party for any failure or defect caused due to Wednesday’s reliance upon any Inputs provided by the Client, or for any delay in performing the Services or delivering the Deliverables which arise from any delay caused by the dependency on Client, or by the Client in providing Inputs or assistance to Wednesday or on account of any occurrence, fact or circumstance resulting from Wednesday’s reasonable reliance upon such Inputs.
 
-## 4 Payment Terms
+## 4. Payment Terms
 
 **4.1**  Client warrants to pay Wednesday the amounts as per the terms, at the times and in the manner as set forth in this Agreement or Statements of Work. Unless otherwise specified in the Statement of Work, Deliverables and/or Services shall be provided to Client on a time and materials basis at Wednesday’s regular rates then in effect.  Additionally, Client shall pay, unless otherwise specified in the Statements of Work, \(i\) Wednesday’s reasonable out-of-pocket expenses incurred as a result of Wednesday’s performance of Services or delivery of Deliverables; and \(ii\) all taxes, including without limitation, sales, service, use, excise, or value-added taxes, other than franchise or income tax, based upon or measured by the charges as set forth in this Agreement, or based upon any Deliverables or Services provided.
 
@@ -68,7 +68,7 @@ Client at its cost shall provide Wednesday with all information, documents, tool
 
 **4.3**  If Client disputes the invoice, Client shall notify Wednesday in writing and to submit appropriate documentation justifying such dispute to Wednesday as soon as it is aware of the dispute, but in no event later than thirty \(30\) days after the invoice is received, failing which such dispute is waived. Notwithstanding any such dispute, Client agrees to pay the full amount of any such invoice pending the resolution of such dispute. Wednesday will respond to Client’s written dispute within thirty \(30\) days of receipt of such dispute. Wednesday and Client agree to use reasonable efforts to resolve all disputes and Wednesday agrees to promptly refund any amounts due upon dispute resolution.
 
-## 5 Term and Termination
+## 5. Term and Termination
 
 **5.1**  This Agreement will commence on the Effective Date specified above and, shall remain in effect for a period of Six months. Either Party may terminate this Agreement or Statement of Work for convenience by providing a thirty \(30\) calendar days prior notice in Writing to the other. In case of a breach of a material obligation under this Agreement and failure to remedy the same within a period of thirty \(30\) calendar days, the non-defaulting party may terminate the Agreement by proving a written notice.
 
@@ -76,11 +76,11 @@ Client at its cost shall provide Wednesday with all information, documents, tool
 
 **5.3**  Upon termination by Wednesday for non-payment by Client or any other basis permitted by this Agreement, Wednesday shall be entitled to retain all Deliverables and work product and/or output of the Services, and all right, title and interest, including, without limitation, all Intellectual Property Rights, in such Deliverables and/or output of Services until such time that Client has paid Wednesday in full for all Deliverables developed and/or Services executed by Wednesday in accordance with this Agreement and/or Statement of Work. If payment is not received or the Client’s breach is not cured within sixty \(60\) calendar days after written notification of default, Wednesday shall have the option to dispose of the Deliverables and/or output of Services, and all right and title thereto, by auction, private sale or other reasonable disposition, and to apply any proceeds of such sale or disposition, to that outstanding sum owed by Client to Wednesday.
 
-## 6 Intellectual Property
+## 6. Intellectual Property
 
 Client shall own the rights, title and interest in and to all Intellectual Property Rights for all Deliverables and/or output from Services only upon Client’s payment in full to Wednesday for all amounts due to Wednesday for such Deliverables and/or Services. Notwithstanding the preceding paragraph, Client acknowledges and agrees that the execution of the Services and/or delivery of Deliverables will involve the use by Wednesday of its methodologies, frameworks, solutions, software, tools, systems, processes, inventions, algorithms, procedures, techniques, experience, expertise, work approaches and like information and technology which are pre-existing at the date of this Agreement or which are subsequently brought into existence independently by Wednesday other than as a result of the performance under this Agreement \(“Wednesday Background Technology”\). All Intellectual Property Rights associated with Wednesday Background Technology shall remain the sole and exclusive property of Wednesday and Client shall acquire no rights to the same. Wednesday reserves the right to reuse, copy, and distribute, in its sole discretion, and without royalty or other obligation, standard development tools and standard modules and routines owned or used by Wednesday to develop or execute future deliverables and/or services for other clients. Client, to the extent required by law, hereby grants Wednesday, a non-exclusive, worldwide perpetual and irrevocable license to do the same.
 
-## 7 Confidentiality Obligations
+## 7. Confidentiality Obligations
 
 **7.1**  For the purpose of this Agreement, the Party disclosing Confidential Information shall be referred to as the “Disclosing Party” and the Party receiving Confidential Information shall be referred to as the “Receiving Party”. The term “Confidential Information” as used in this Agreement shall mean any and all information and material that may be disclosed by the Disclosing Party to the Receiving Party in the course of this Agreement in written or otherwise tangible form which is clearly marked “Confidential” or “Proprietary”, or is of such nature that the Parties in their reasonable judgment ought to consider it as confidential.
 
@@ -97,47 +97,47 @@ Client shall own the rights, title and interest in and to all Intellectual Prope
 
 **7.4**  The Receiving Party shall \(i\) promptly notify the Disclosing Party to the extent lawful and practical to enable the Disclosing Party to protect its Confidential Information, \(ii\) at the request and sole expense of the Disclosing Party, cooperate reasonably with the Disclosing Party’s efforts to contest or limit the scope of the order or directive and \(iii\) limit any disclosure to the minimum that is necessary to comply with the regulation, order or directive.
 
-## 8 Independent Parties
+## 8. Independent Parties
 
 This Agreement is neither intended to nor will it be construed as creating a joint venture, partnership or other form of business association between the parties, nor an obligation to buy or sell products using or incorporating the Confidential Information.
 
-## 9 Disclaimer
+## 9. Disclaimer
 
 Except as expressly set forth herein, both Parties hereby disclaim all warranties to each other and all third-parties, with respect to express, implied, statutory warranties including, without limitation, with respect to the services or deliverables \(and all portion or components thereof\), implied warranties of merchantability, quality, non-infringement, and fitness for a particular purpose.
 
-## 10 No Waiver
+## 10. No Waiver
 
 The failure of either party to enforce any right resulting from breach of any provision of this Agreement by the other party will not be deemed a waiver of any right relating to a subsequent breach of such provision or of any other right hereunder.
 
-## 11 Governing Law
+## 11. Governing Law
 
-This Agreement will be governed by the laws of India without reference to conflict of law principles, if any. Any disputes arising from this Agreement shall be subject to the jurisdiction of the courts in Mumbai, Maharashtra.
+This Agreement will be governed by the laws of India without reference to conflict of law principles if any. Any disputes arising from this Agreement shall be subject to the jurisdiction of the courts in Mumbai, Maharashtra.
 
-## 12 Entire Agreement
+## 12. Entire Agreement
 
 This Agreement constitutes the sole and entire agreement between the parties with respect to the Confidential Information and all restrictions thereon; it supersedes any and all prior or contemporaneous oral or written agreements, negotiations, communications, understandings and terms, whether express or implied regarding the Confidential Information, and may not be amended except in a writing signed by a duly authorized representative of the respective parties. Any other agreements between the parties, including non-disclosure agreements, will not be affected by this Agreement.
 
-## 13 Liability
+## 13. Liability
 
 The Parties mutually agree to waive, to the fullest extent permitted by law, any claim, liability, prayer or recovery of any indirect, incidental, consequential, special, exemplary, punitive, restitutionary or disgorgement damages, reliance damages, speculative, damages, losses, damages, costs or expenses or any lost profits or lost contracts, lost goodwill, lost business, lost general overhead, loss of reputation, loss of market share, loss of data, loss of anticipated savings, business interruptions, loss of the use of money, interest payments incurred to third parties, and such like claims of damages losses, damages, costs or expenses from the other party and any third party in connection with or arising out of this agreement \(even if such Party has been advised of the possibility of such damages, losses, costs or expenses whether based on an action or claim in contract, equity, negligence, tort or any other theory of law\). In consideration for the fees as set forth in this agreement, the Parties mutually agree that either Party’s total liability under this Agreement and any relevant statement of work shall be limited to the total fees paid by the client to &lt;&lt;COMPANY&gt;&gt; in the preceding six \(6\) months under the said statement of work, under which the liability or claim for damages arose.
 
-## 14 Force Majeure
+## 14. Force Majeure
 
 A Party shall not be liable for any event that is beyond the control of that Party or which could not have been reasonably foreseen, including without limitation, acts of god, man or state, civil unrest, terrorism, explosions, floods, hurricanes, earthquakes, mechanical breakdowns, strikes, labor unrest, breakdown in essential utilities, medical or other emergencies  \(**Force Majeure**\).
 
-## 15 Publicity
+## 15. Publicity
 
 Wednesday shall be entitled to advertise and represent that the Client is a customer of Wednesday and the broad nature of work performed by Wednesday for the Client. Wednesday’s publicity shall not disclose any Confidential Information.
 
-## 16 Counterparts
+## 16. Counterparts
 
 This Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument. An electronic copy of an executed signature page delivered by facsimile transmission or e-mail shall be binding to the same extent as an original copy of an executed signature page delivered otherwise. A Party that delivers an electronic copy of an executed signature page agrees to later deliver an original counterpart to the other Party, if requested.
 
-## 17 Headings
+## 17. Headings
 
-The headings used in this Agreement are for convenience and identification only, and shall not be deemed to limit, amplify or define the contents of the respective sections or paragraphs to which they pertain.
+The headings used in this Agreement are for convenience and identification only, and shall not be deemed to limit, amplify, or define the contents of the respective sections or paragraphs to which they pertain.
 
-## 18 Severability
+## 18. Severability
 
 If any provision or part of this Agreement shall be determined to be illegal, invalid or unenforceable, that part shall be severed from this Agreement and the remaining parts shall be valid and enforceable.
 
