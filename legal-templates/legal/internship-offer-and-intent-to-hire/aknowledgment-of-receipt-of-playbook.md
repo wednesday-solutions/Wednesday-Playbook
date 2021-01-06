@@ -1,4 +1,4 @@
-# Acknowledgment of receipt of Playbook
+# Aknowledgment of receipt of Playbook
 
 I acknowledge I have read a copy of the Wednesday Solutions Playbook at [playbook.wednesday.is](https://playbook.wednesday.is), and I have understood its provisions. I further understand that if I have a question, I am obligated to ask the CEO for clarification of any provisions in the Employee Handbook.
 

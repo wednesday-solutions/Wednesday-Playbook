@@ -22,11 +22,13 @@ Please submit all the documents mentioned in **Annexure - 1** at the time of joi
 
 **2. Reporting Officer**
 
-\[Insert Name and Designation\]
+**&lt;&lt;Insert Name and Designation&gt;&gt;**
 
 **3. Location**
 
-You will be based in Pune. In the present circumstances of lockdown due to COVID-19, you are advised to start working remotely, from home starting from your joining date. You agree to relocate to Pune and start working from WS Pune office on a mutually agreed date. Further, depending upon Wednesday Solutions’ requirements, you may be required to travel and/ or be posted temporarily or permanently at other offices/ locations. 
+Unless otherwise agreed to in writing you will be based in Pune. In the present circumstances of lockdown due to COVID-19, you are advised to start working remotely, from home starting from your joining date. You agree to relocate to Pune and start working from WS Pune office on a mutually agreed date. Further, depending upon Wednesday Solutions’ requirements, you may be required to travel and/ or be posted temporarily or permanently at other offices/ locations. 
+
+If agreed to in writing you may work remotely for the duration of your tenure with WS.
 
 WS will provide you the necessary induction and indoctrination over teleconference. WS will courier to your residential address, a laptop/monitors, converters, power cord, carrying case along with licenses for any online services, design tools, software development licenses, software development frameworks, and software development IDEs and other hardware \(“**WS’s Property**”\) as is required to work on the projects assigned to you. You agree and understand that you will be responsible for maintaining WS’s Property in the same condition in which it was handed over to you. Any damage/theft of WS’s Property after it is handed over to you shall be recovered from you. Please note that if you fail/refuse to commence work with WS on your joining date, you shall promptly return WS’s Property.
 
@@ -57,7 +59,7 @@ This offer of employment is contingent upon a review of your education credentia
 
 **8. Annual Leave**
 
-You will be entitled to a certain amount of paid leave which are governed by the relevant policy of WS available at [playbook.wednesday.is](http://playbook.wednesday.is)., as applicable from time to time. 
+You will be entitled to a certain amount of paid leaves which is governed by the relevant policy of WS available at [playbook.wednesday.is](http://playbook.wednesday.is)., as applicable from time to time. 
 
 **9. Background Verification Report** 
 
@@ -69,7 +71,7 @@ Upon your joining, WS or its client may directly or through a third party, carry
 2. You agree to use all tools provided by WS for professional purposes only. Internet and email access are provided to you as business communication tools for appropriate internal and external business uses. Generation, transmission, or storage of potentially offensive information is not allowed. You also agree to always act in the interest of WS. Should you not respect this requirement of professional use, WS will have a right to take disciplinary action which may lead up to and including termination of employment.
 3. During the period of your employment, you shall be governed by all the applicable rules, regulations, policies, procedures, and notices that are in force currently and that may come into force from time to time and they shall form the basis of your employment and shall govern all matters whether specified herein or not, including on matters such as designation, working hours, emoluments and the structure thereof, etc. WS’s decisions on all such matters will be final and binding on you. Any subsequent variations by WS to any terms, conditions, rules, or regulations generally governing the members of WS’s staff will prevail and be applicable to you. Violation of such policies could lead to disciplinary actions up to and including termination of employment.
 
-**11. Non- Solicitation and Non-Competition:**
+**11. Non- Solicitation, and Non-Competition:**
 
 You agree that in consideration of your engagement with WS, and other good and valuable consideration, the receipt of which is hereby acknowledged, during the term of the employment with WS and for a period of two \(2\) years from the termination of your employment, you shall not, directly or indirectly, either as an individual on your own account or as a partner, employee, consultant, advisor, agent, contractor, director, trustee, committee member, office bearer, or shareholder \(or in a similar capacity or function\)
 
@@ -82,7 +84,7 @@ You agree that in consideration of your engagement with WS, and other good and v
 
 1. This clause relates to the Personal Data that you may be requested to provide in connection with your employment. Personal Data includes any information related to a natural person that is, in a combination of other information or otherwise, is capable of identifying such person notably including financial information such as Bank account or credit card or debit card or other payment instrument details, physical, physiological and mental health condition, sexual orientation, medical records and history, biometric information, any information or detail relating to previous employment details, educational qualifications, and criminal record. 
 2. You hereby understand and consent to Company, without any reservations, too \(i\) collect any of your Personal Data or other data from your last employer or through any internal or external agencies appointed for this purpose, \(ii\) use or process such data in connection with your employment with WS or any matters arising from such employment, and \(iii\) sharing such data with any outside agencies or third parties including Company’s client for verification and validation of this information, processing in relation to employment or matters arising from such employment, or in compliance with WS’s contractual or statutory obligations.
-3. You understand that you may withdraw the consent by informing in writing to Company’s designated representative for this purpose. You also consent and accept that if such withdrawal of consent affects the purpose for which your Personal Data was sought, Company reserves the right to take steps as it deems appropriate. You understand that this consent is obtained by WS to ensure compliance of The Information Technology \(Reasonable Security Practices and Procedures and Sensitive Personal Data or Information\) Rules, 2011 and any successor laws regarding the subject.
+3. You understand that you may withdraw the consent by informing in writing to Company’s designated representative for this purpose. You also consent and accept that if such withdrawal of consent affects the purpose for which your Personal Data was sought, Company reserves the right to take steps as it deems appropriate. You understand that this consent is obtained by WS to ensure compliance of The Information Technology \(Reasonable Security Practices and Procedures and Sensitive Personal Data or Information\) Rules, 2011, and any successor laws regarding the subject.
 
 **13. Changes in Personal Details**
 

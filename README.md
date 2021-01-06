@@ -1,14 +1,24 @@
-# Wednesday Playbook
+# Welcome to our Playbook
 
-At Wednesday we're working hard to build an environment that is inclusive, open and appreciative. We've found that building a value driven company has helped us hire some of the best people who not only build amazing software but are also really nice to work with.
+At Wednesday we're working hard to build an environment that is inclusive, open, and appreciative. Building a value-driven company has helped us hire the best people who not only build amazing software but are also nice to work with.
 
-As we expand our team we were looking for a starter-kit that explains how we work and the policies we follow.
+As we grow we were looking for a place to write the policies & processes we follow and what we are looking for while hiring. By no means is this book complete, in fact, this is ever-evolving and will continue to change as we grow. We encourage everyone to provide their feedback and suggestions. We love positive discussions as that is the only way to build an inclusive workplace.
 
-This book contains everything you need to know about the way we work, the practices we follow, how we hire and deliver amazing experiences to our customers.
+After reading this if you feel like this is a place where you'd like to work please take a look at the open positions [here](https://www.wednesday.is/hiring).
 
-After reading this if you feel like this is a place where you will fit send us an email at hello@wednesday.is.
+| Table of Contents |
+| :--- |
+| [Employee Handbook](employee-handbook-1/hiring-at-wednesday/) |
+| [Engineering Playbook](engineering-playbook/engineering-handbook.md) |
+| [Legal Templates](legal-templates/client-contracts/) |
+| [Website](https://wednesday.is) |
+| [Showroom](https://www.wednesday.is/showroom) |
+| [Job Listings](https://www.wednesday.is/hiring) |
+| [Github](http://github.com/wednesday-solutions/) |
+| [The Wednesday Show](https://podcast.wednesday.is/) |
+| [Wednesday University](https://university.wednesday.is/) |
 
----- Ali
+### Acknowledgements
 
-CEO - Wednesday
+The Wednesday Playbook is a derivative of the [Obvious Playbook](https://playbook.obvious.in/) which itself has been derived from the work other companies have done to ensure all their policies and practices are public. 
 

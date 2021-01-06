@@ -2,7 +2,7 @@
 
 Project Details, Terms, And Conditions Between &lt;&lt;CLIENT&gt;&gt; & Wednesday Solutions
 
-&lt;&lt;DATE&gt;&gt;
+**&lt;&lt;DATE&gt;&gt;**
 
 This Master Services Agreement \(**Agreement**\) is entered into and made effective on &lt;&lt;DATE&gt;&gt; by and between
 

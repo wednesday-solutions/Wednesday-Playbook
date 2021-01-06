@@ -1,29 +1,32 @@
 # Table of contents
 
-* [Wednesday Playbook](README.md)
-* [Employee Handbook](employee-handbook/README.md)
-  * [Starting at Wednesday](employee-handbook/hiring-at-wednesday/README.md)
-    * [Your first day](employee-handbook/hiring-at-wednesday/your-first-day.md)
-    * [Becoming a permanent employee](employee-handbook/hiring-at-wednesday/becoming-a-permanent-employee.md)
-    * [Getting paid](employee-handbook/hiring-at-wednesday/getting-paid.md)
-    * [Dress Code](employee-handbook/hiring-at-wednesday/dress-code.md)
-    * [Work Hours](employee-handbook/hiring-at-wednesday/work-hours.md)
-  * [Leave Policy](employee-handbook/leave-policy/README.md)
-    * [Holiday List](employee-handbook/leave-policy/holiday-list.md)
-  * [Benefits and Perks](employee-handbook/benefits-and-perks.md)
+* [Welcome to our Playbook](README.md)
 
-## Legal Templates
+## Employee Handbook <a id="employee-handbook-1"></a>
 
-* [Client Contracts](legal-templates/client-contracts/README.md)
-  * [Master Services Agreement](legal-templates/client-contracts/master-services-agreement.md)
-* [Employee Contracts](legal-templates/legal/README.md)
-  * [Offer Letter](legal-templates/legal/offer-letter-1/README.md)
-    * [Offer Cum Acceptance Letter Template](legal-templates/legal/offer-letter-1/offer-letter.md)
-    * [Annexure 1](legal-templates/legal/offer-letter-1/annexure-1.md)
-    * [Acknowledgment of receipt of Playbook](legal-templates/legal/offer-letter-1/acknowledgment-of-receipt-of-playbook.md)
-  * [Contractor Agreement](legal-templates/legal/contractor-agreement/README.md)
-    * [Contractor Agreement Template](legal-templates/legal/contractor-agreement/vendor-contractor-agreement-template.md)
-    * [Annexure A](legal-templates/legal/contractor-agreement/annexure-a.md)
+* [Introduction](employee-handbook-1/introduction/README.md)
+  * [Our Values](employee-handbook-1/introduction/our-values.md)
+  * [Dream Team](employee-handbook-1/introduction/dream-team.md)
+* [Employment Policies](employee-handbook-1/employment-policies/README.md)
+  * [Equal Opportunity Employment](employee-handbook-1/employment-policies/equal-opportunity-employment.md)
+  * [At-Will Employment Policy](employee-handbook-1/employment-policies/at-will-employment-policy.md)
+  * [Code of Conduct](employee-handbook-1/employment-policies/code-of-conduct.md)
+  * [Employee Privacy](employee-handbook-1/employment-policies/employee-privacy.md)
+  * [Compensation](employee-handbook-1/employment-policies/compensation.md)
+* [Starting at Wednesday](employee-handbook-1/hiring-at-wednesday/README.md)
+  * [Your first day](employee-handbook-1/hiring-at-wednesday/your-first-day/README.md)
+    * [Onboarding Checklist](employee-handbook-1/hiring-at-wednesday/your-first-day/onboarding-checklist.md)
+  * [Becoming a permanent employee](employee-handbook-1/hiring-at-wednesday/becoming-a-permanent-employee.md)
+  * [Getting Paid](employee-handbook-1/hiring-at-wednesday/getting-paid.md)
+  * [Dress Code](employee-handbook-1/hiring-at-wednesday/dress-code.md)
+  * [Work Hours](employee-handbook-1/hiring-at-wednesday/work-hours.md)
+* [Benefits and Perks](employee-handbook-1/benefits-and-perks/README.md)
+  * [Paid Time Off](employee-handbook-1/benefits-and-perks/paid-time-off.md)
+  * [Holiday List](employee-handbook-1/benefits-and-perks/holiday-list.md)
+  * [Speaking at Conferences](employee-handbook-1/benefits-and-perks/speaking-at-conferences.md)
+  * [Hardware](employee-handbook-1/benefits-and-perks/hardware.md)
+  * [Referral Bonuses](employee-handbook-1/benefits-and-perks/referral-bonuses.md)
+* [Leave Policy](employee-handbook-1/leave-policy.md)
 
 ## Engineering Playbook
 
@@ -40,4 +43,32 @@
   * [Emberjs](engineering-playbook/the-wednesday-way/emberjs.md)
   * [Android](engineering-playbook/the-wednesday-way/android.md)
   * [iOS](engineering-playbook/the-wednesday-way/ios.md)
+
+## Legal Templates
+
+* [Client Contracts](legal-templates/client-contracts/README.md)
+  * [Master Services Agreement](legal-templates/client-contracts/master-services-agreement.md)
+* [Employee Contracts](legal-templates/legal/README.md)
+  * [Internship Offer & Intent to Hire](legal-templates/legal/internship-offer-and-intent-to-hire/README.md)
+    * [Internship Offer & Intent to Hire Template](legal-templates/legal/internship-offer-and-intent-to-hire/internship-offer-and-intent-to-hire-template.md)
+    * [Annexure 1 - List of Documents](legal-templates/legal/internship-offer-and-intent-to-hire/annexure-1-list-of-documents.md)
+    * [Aknowledgment of receipt of Playbook](legal-templates/legal/internship-offer-and-intent-to-hire/aknowledgment-of-receipt-of-playbook.md)
+    * [Letter of Intent to Hire](legal-templates/legal/internship-offer-and-intent-to-hire/letter-of-intent-to-hire.md)
+  * [Offer cum Appointment Letter](legal-templates/legal/offer-letter-1/README.md)
+    * [Offer Cum Acceptance Letter Template](legal-templates/legal/offer-letter-1/offer-letter.md)
+    * [Annexure 1 - List of Documents](legal-templates/legal/offer-letter-1/annexure-1.md)
+    * [Acknowledgment of receipt of Playbook](legal-templates/legal/offer-letter-1/acknowledgment-of-receipt-of-playbook.md)
+  * [Contractor Agreement](legal-templates/legal/contractor-agreement/README.md)
+    * [Contractor Agreement Template](legal-templates/legal/contractor-agreement/vendor-contractor-agreement-template.md)
+    * [Annexure A](legal-templates/legal/contractor-agreement/annexure-a.md)
+
+## Elsewhere
+
+* [Website](https://wednesday.is)
+* [Showroom](https://www.wednesday.is/showroom)
+* [Job Listings](https://www.wednesday.is/hiring)
+* [The Wednesday Library](https://www.wednesday.is/reading)
+* [The Wednesday Show](https://podcast.wednesday.is/)
+* [Wednesday University](https://university.wednesday.is/)
+* [Github](http://github.com/wednesday-solutions/)
 
