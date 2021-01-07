@@ -23,10 +23,12 @@
 * [Benefits and Perks](employee-handbook-1/benefits-and-perks/README.md)
   * [Paid Time Off](employee-handbook-1/benefits-and-perks/paid-time-off.md)
   * [Holiday List](employee-handbook-1/benefits-and-perks/holiday-list.md)
-  * [Speaking at Conferences](employee-handbook-1/benefits-and-perks/speaking-at-conferences.md)
-  * [Hardware](employee-handbook-1/benefits-and-perks/hardware.md)
-  * [Referral Bonuses](employee-handbook-1/benefits-and-perks/referral-bonuses.md)
-* [Leave Policy](employee-handbook-1/leave-policy.md)
+  * [Conferences](employee-handbook-1/benefits-and-perks/speaking-at-conferences.md)
+  * [Hardware & Software Licenses](employee-handbook-1/benefits-and-perks/hardware.md)
+* [How we work](employee-handbook-1/how-we-work/README.md)
+  * [Leave Policy](employee-handbook-1/how-we-work/leave-policy.md)
+  * [Communication](employee-handbook-1/how-we-work/communication.md)
+  * [Security Practices](employee-handbook-1/how-we-work/security-policy.md)
 
 ## Engineering Playbook
 

@@ -1,6 +1,6 @@
 # Our Values
 
-We started Wednesday with the idea to build a team of makers. A team that is passionate about building great digital products. Writing these values down has helped us document what we believe in. If these are in line with your ideal workplace we might be a good fit.
+We started Wednesday with the idea to build a team of makers. A team that is passionate about building great digital products. Writing these values down has helped us document what we believe in.
 
 ## A common goal but loosely coupled
 
@@ -10,9 +10,9 @@ What framework would best suit the customer’s needs? What design language to u
 
 ## We are Responsible
 
-We want everyone to do the right thing. Not because you were told to do it simply because that's what we should be doing in the first place.
+We want everyone to do the right thing. Not because you were told to do it, simply because that's what we should be doing in the first place.
 
-We want you to take ownership in terms of mentoring others, learning something new to further a project, or putting your dirty dishes in the sink. What sets us apart is no adhering to the “This is not a part of my job” attitude.
+We want you to take ownership in terms of mentoring others or learning something new to further a project. What sets us apart is not adhering to the “This is not a part of my job” attitude.
 
 ## We are always learning
 
@@ -24,7 +24,7 @@ We want you to be on top of what is happening in your respective field. You have
 
 Each individual has a unique set of beliefs, views, and aspirations. In these differences lies the essence of building a product that truly caters to us all.
 
-We want you to voice your opinion. We want you to disagree on something if it doesn’t adhere to what you think the product should do. However, give positive criticism only, _With great power comes great responsibility_. We want you to communicate in a manner that promotes learning.
+We want you to voice your opinion. We want you to disagree on something if it doesn’t adhere to what you think the product should do. However, give positive criticism only. We want you to communicate in a manner that promotes positive conversation.
 
 ## We are Selfless
 

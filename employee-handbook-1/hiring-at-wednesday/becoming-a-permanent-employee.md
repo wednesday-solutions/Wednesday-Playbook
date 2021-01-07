@@ -1,8 +1,8 @@
 # Becoming a permanent employee
 
-Everyone starts on probation. We set a small period of three months but it may vary on the role. During this period the perks and some of the leaves we offer will not apply. Please refer to the [Benefits and Perks](../benefits-and-perks/) document to know more.
+All full-time employees start on probation. The minimum duration is three months but can change depending on the role you are hired for. During this period the benefits & perks and some of the leaves types we offer will not apply. Please refer to the [Benefits and Perks](../benefits-and-perks/) and [Leave Policy](../how-we-work/leave-policy.md) documents to know more.
 
-We schedule check-ins/1-1 meetings once a month to understand how things are going. We give you feedback about areas where we think you're doing well and areas where you can improve. We also want to hear from you on how you think we're functioning. We believe in improving our processes. So if you think we can be more efficient let us know.
+We schedule check-ins/1-1 meetings once a month to understand how things are going. We give you feedback about areas where we think you're doing well in and areas where you can improve. We use these meetings are markers to understand if we're the right fit for you during your probation.
 
-After you finish your probation period and your performance is in line with our expectations you become a permanent employee. All the benefits of a permanent employee kick-in.
+After you finish your probation and your performance is in line with our expectations you become a permanent employee. All the benefits of a permanent employee kick-in.
 
