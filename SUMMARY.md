@@ -32,7 +32,7 @@
 
 ## Hiring <a id="hiring-at-wednesday"></a>
 
-* [Hiring Philosophy](hiring-at-wednesday/untitled.md)
+* [Hiring Philosophy](hiring-at-wednesday/hiring-philosophy.md)
 * [Hiring Engineers](hiring-at-wednesday/hiring-engineers.md)
 * [Hiring Designers](hiring-at-wednesday/hiring-designers.md)
 
