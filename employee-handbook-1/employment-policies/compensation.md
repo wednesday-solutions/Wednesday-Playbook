@@ -13,5 +13,5 @@ Wednesday evaluates compensation annually. Our ability to offer raises is depend
 
 ### Retention Bonus
 
-Wednesday only offers retention bonus on completion on a year. The details of this bonus \(if applicable\) will be clearly mentioned in your offer.
+Wednesday only offers a retention bonus on completion of a year. The details of this bonus \(if applicable\) will be clearly mentioned in your offer.
 

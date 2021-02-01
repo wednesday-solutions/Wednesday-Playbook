@@ -1,6 +1,6 @@
 # Paid Time Off
 
-Time-off can help you rejuvenate and clear your mind. We think this is critical to do your best work. In addition to the holidays, we provide in the [Holiday List](holiday-list.md) we also provide the following types of paid leaves.
+Time-off can help you rejuvenate and clear your mind. This is critical to do your best work. In addition to the holidays, we provide in the [Holiday List](holiday-list.md) we also provide the following types of paid leaves.
 
 | Leave Type | Duration in days |
 | :--- | :--- |

@@ -28,11 +28,11 @@ The email system is intended for official Company business. If you send personal
 
 ### All Conduct Rules Apply to Email
 
-All of our policies and rules of conduct apply to employee use of the email system. This means, for example, that you may not use the email system to send harassing or discriminatory messages, including messages with explicit sexual content or pornographic images; to send threatening messages; or to reveal company confidential information.
+All of our policies and rules of conduct apply to employee use of the email system. This means, for example, that you may not use the email system to send harassing or discriminatory messages, including messages with explicit sexual content or pornographic images; to send threatening messages, or to reveal company confidential information.
 
 ### Professional Tone and Content
 
-We expect you to exercise discretion in your electronic communications. When you send email using a Wednesday email address or Wednesday social account, you are representing Wednesday. Make sure that your messages are professional and appropriate, in tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
+We expect you to exercise discretion in your electronic communications. When you send an email using a Wednesday email address or Wednesday social account, you are representing Wednesday. Make sure that your messages are professional and appropriate, in tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
 
 ### Email Security
 

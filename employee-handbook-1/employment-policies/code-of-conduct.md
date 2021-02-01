@@ -16,12 +16,12 @@ All employees and consultants are expected to meet established performance and c
 
 * Falsifying information on any forms, reports, records, including personal absence, sickness, and timesheets
 * Falsely stating or making claims of injury
-* Removing or using, without authority, property, records or other materials of the Company or other persons
+* Removing or using, without authority, property, records, or other materials of the Company or other persons
 * Theft or inappropriate removal or possession of property
 * Fighting, assaulting, threatening, intimidating, or coercing any visitor or employee
 * Refusing to follow the supervisor's directions or instructions or other insubordinate conduct
 * Violating safety, health rules and practices, or engaging in conduct, which creates a safety hazard
-* Engaging in unlawful or improper conduct off the work premises or during non-working hours, which affects an employee's relationship to work, fellow employees, supervisors or Company’s property, reputation or goodwill in the community
+* Engaging in unlawful or improper conduct off the work premises or during non-working hours, which affects an employee's relationship to work, fellow employees, supervisors, or Company’s property, reputation, or goodwill in the community
 * Excessive absenteeism or any absence without notice
 * Carrying or concealing any weapon into the office premises
 * Working under influence of alcohol or illegal drugs
@@ -42,7 +42,7 @@ In order to avoid _\(even the appearance of a conflict of interest\)_, employees
 
 ### Dress Code
 
-All employees are expected to use good judgment in dressing in order to present a neat, well- groomed appearance while conducting business, in or outside of the office.
+All employees are expected to use good judgment in dressing in order to present a neat, well-groomed appearance while conducting business, in or outside of the office.
 
 ### Use of Office Assets
 
