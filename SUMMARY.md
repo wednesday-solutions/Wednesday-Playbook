@@ -30,11 +30,14 @@
   * [Communication](employee-handbook-1/how-we-work/communication.md)
   * [Security Practices](employee-handbook-1/how-we-work/security-policy.md)
 
-## Hiring <a id="hiring-at-wednesday"></a>
+## Hiring at Wednesday
 
-* [Hiring Philosophy](hiring-at-wednesday/hiring-philosophy.md)
-* [Hiring Engineers](hiring-at-wednesday/hiring-engineers.md)
-* [Hiring Designers](hiring-at-wednesday/hiring-designers.md)
+## Hiring <a id="hiring-at-wednesday-1"></a>
+
+* [Untitled](hiring-at-wednesday-1/untitled.md)
+* [Hiring Philosophy](hiring-at-wednesday-1/hiring-philosophy.md)
+* [Hiring Engineers](hiring-at-wednesday-1/hiring-engineers.md)
+* [Hiring Designers](hiring-at-wednesday-1/hiring-designers.md)
 
 ## Engineering Playbook
 
