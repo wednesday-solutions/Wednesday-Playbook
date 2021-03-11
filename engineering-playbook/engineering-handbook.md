@@ -1,21 +1,8 @@
 # Introduction
 
-## Getting Super Powers
+This handbook is meant for engineers. It explains our approach to software development.
 
-Becoming a super hero is a fairly straight forward process:
+There are many things that can go wrong with product development. In most cases \(if the team is competent\) the reasons aren't technical. Projects fail because of the soft side of software development. This includes - communication, code reviews, style guides, continuous integration, tests, etc.
 
-```
-$ give me super-powers
-```
-
-**Super powers are granted randomly so please submit an issue if you're not happy with yours.**
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
+This handbook brings all the engineers working with Wednesday on the same page.
 

@@ -39,18 +39,19 @@
 ## Engineering Playbook
 
 * [Introduction](engineering-playbook/engineering-handbook.md)
-* [Sprint Planning](engineering-playbook/untitled.md)
-* [Standups](engineering-playbook/daily-standups.md)
-* [Delivery and Release Engineering](engineering-playbook/release-and-delivery/README.md)
+* [Project Management](engineering-playbook/project-management/README.md)
+  * [JIRA](engineering-playbook/project-management/jira/README.md)
+    * [Workflow](engineering-playbook/project-management/jira/workflow.md)
+  * [Sprint Planning](engineering-playbook/project-management/untitled.md)
+  * [Standups](engineering-playbook/project-management/daily-standups.md)
+  * [Retrospectives & Demos](engineering-playbook/project-management/retrospectives-and-demos.md)
+* [System Architecture & Design](engineering-playbook/system-architecture-and-design/README.md)
+  * [Templates](engineering-playbook/system-architecture-and-design/templates.md)
+* [Release Engineering](engineering-playbook/release-and-delivery/README.md)
   * [Git-flow](engineering-playbook/release-and-delivery/git-flow.md)
   * [Code reviews](engineering-playbook/release-and-delivery/code-reviews.md)
+  * [Commit Messages](engineering-playbook/release-and-delivery/commit-messages.md)
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
-* [The Wednesday Way](engineering-playbook/the-wednesday-way/README.md)
-  * [React](engineering-playbook/the-wednesday-way/react.md)
-  * [React-Native](engineering-playbook/the-wednesday-way/react-native.md)
-  * [Emberjs](engineering-playbook/the-wednesday-way/emberjs.md)
-  * [Android](engineering-playbook/the-wednesday-way/android.md)
-  * [iOS](engineering-playbook/the-wednesday-way/ios.md)
 
 ## Legal Templates
 
