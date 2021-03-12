@@ -52,6 +52,7 @@
   * [Code reviews](engineering-playbook/release-and-delivery/code-reviews.md)
   * [Commit Messages](engineering-playbook/release-and-delivery/commit-messages.md)
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
+* [Career Growth](engineering-playbook/career-growth.md)
 
 ## Legal Templates
 
