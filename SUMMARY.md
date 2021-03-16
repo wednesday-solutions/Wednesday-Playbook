@@ -4,9 +4,9 @@
 
 ## Employee Handbook <a id="employee-handbook-1"></a>
 
-* [Introduction](employee-handbook-1/introduction/README.md)
-  * [Our Values](employee-handbook-1/introduction/our-values.md)
-  * [Dream Team](employee-handbook-1/introduction/dream-team.md)
+* [How we work](employee-handbook-1/how-we-work-1/README.md)
+  * [Our Values](employee-handbook-1/how-we-work-1/our-values.md)
+  * [Dream Team](employee-handbook-1/how-we-work-1/dream-team.md)
 * [Employment Policies](employee-handbook-1/employment-policies/README.md)
   * [Equal Opportunity Employment](employee-handbook-1/employment-policies/equal-opportunity-employment.md)
   * [At-Will Employment Policy](employee-handbook-1/employment-policies/at-will-employment-policy.md)
@@ -30,11 +30,11 @@
   * [Communication](employee-handbook-1/how-we-work/communication.md)
   * [Security Practices](employee-handbook-1/how-we-work/security-policy.md)
 
-## Hiring <a id="hiring-at-wednesday-1"></a>
+## Hiring <a id="hiring-at-wednesday"></a>
 
-* [Hiring Philosophy](hiring-at-wednesday-1/hiring-philosophy.md)
-* [Hiring Engineers](hiring-at-wednesday-1/hiring-engineers.md)
-* [Hiring Designers](hiring-at-wednesday-1/hiring-designers.md)
+* [Hiring Philosophy](hiring-at-wednesday/hiring-philosophy.md)
+* [Hiring Engineers](hiring-at-wednesday/hiring-engineers.md)
+* [Hiring Designers](hiring-at-wednesday/hiring-designers.md)
 
 ## Engineering Playbook
 
