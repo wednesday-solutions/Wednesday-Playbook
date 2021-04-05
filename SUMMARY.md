@@ -54,6 +54,22 @@
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
 * [Career Growth](engineering-playbook/career-growth.md)
 
+## Project Management Playbook
+
+* [Introduction](project-management-playbook/introduction.md)
+* [Checklists](project-management-playbook/checklists/README.md)
+  * [Internal Checklist](project-management-playbook/checklists/internal-checklist.md)
+  * [Customer Onboarding Checklist](project-management-playbook/checklists/customer-onboarding-checklist.md)
+* [Stakeholder Management](project-management-playbook/stakeholder-management/README.md)
+  * [Documentation](project-management-playbook/stakeholder-management/documentation.md)
+* [Delivery Management](project-management-playbook/agile-ceremonies/README.md)
+  * [Agile Ceremonies](project-management-playbook/agile-ceremonies/agile-ceremonies-1/README.md)
+    * [Sprint Planning](project-management-playbook/agile-ceremonies/agile-ceremonies-1/sprint-planning.md)
+    * [Daily Standups](project-management-playbook/agile-ceremonies/agile-ceremonies-1/daily-standups.md)
+    * [Demo](project-management-playbook/agile-ceremonies/agile-ceremonies-1/demo.md)
+    * [Retrospectives](project-management-playbook/agile-ceremonies/agile-ceremonies-1/retrospectives.md)
+  * [Team Management](project-management-playbook/agile-ceremonies/team-management.md)
+
 ## Legal Templates
 
 * [Client Contracts](legal-templates/client-contracts/README.md)
