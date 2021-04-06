@@ -1,6 +1,6 @@
 # Checklists
 
-These checklists help you implement a principled approach to stakeholder and deliver management.
+These checklists will help you implement a principled approach to stakeholder and delivery management.
 
 
 

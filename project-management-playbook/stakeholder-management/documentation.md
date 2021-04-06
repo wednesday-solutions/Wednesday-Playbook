@@ -1,10 +1,10 @@
 # Documentation
 
-Document everything - decisions, milestones, feature requests, change requests etc.
+Document everything - decisions, milestones, feature requests, change requests, etc.
 
 ### Product Backlog
 
-Write user stories. Think about the feature from the user's perspective, draw out the actions to be performed and write it down. Involve the customer in making decisions related to the actions, workflow, copy, and wireframe.
+Write user stories. Think about the feature from the user's perspective, draw out the actions to be performed and write it down. Involve the customer in making decisions related to the actions, workflow, copy, and wireframes.
 
 ### Change Requests
 
@@ -12,7 +12,7 @@ If you're working on a turn-key project keep a track of all change requests. Eac
 
 ### Meetings
 
-After each meeting with the customer write down the minutes and track the decisions taken. These are extremely important to track.
+After each meeting with the customer write down the minutes and track the decisions taken. 
 
 ### Release Notes
 

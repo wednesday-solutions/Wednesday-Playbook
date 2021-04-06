@@ -1,3 +1,9 @@
+---
+description: >-
+  Use this checklist to help the customer understand our software development
+  process.
+---
+
 # Customer Onboarding Checklist
 
 * **Process**: Explain our software development and design process. Entrepreneurs may or may not have a background in product development. Use presentations and emphasize the "how" rather than the "why".

@@ -10,7 +10,7 @@ It's not mandatory to run this meeting every sprint but you should do it in the 
 
 * What went well - Ask the team to write down what went well.
 * What didn't go well - Ask the team to write down what didn't go well.
-* Action plan to improve - Prioritise the areas to improve on and create an action plan. Be diciplined and work on the actions.
+* Action plan to improve - Prioritise the areas to improve on and create an action plan. Be disciplined and work on the actions.
 
 ### Miscellaneous
 
