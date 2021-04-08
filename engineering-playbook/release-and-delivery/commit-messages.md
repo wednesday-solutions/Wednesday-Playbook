@@ -8,7 +8,7 @@ Please take a look at these seven rules for great git commit messages:
 * [Limit the subject line to 50 characters](https://chris.beams.io/posts/git-commit/#limit-50)
 * [Capitalize the subject line](https://chris.beams.io/posts/git-commit/#capitalize)
 * [Do not end the subject line with a period](https://chris.beams.io/posts/git-commit/#end)
-* [Use the impreative mood in the subject line](https://chris.beams.io/posts/git-commit/#imperative)
+* [Use the imperative mood in the subject line](https://chris.beams.io/posts/git-commit/#imperative)
 * [Wrap the body at 72 characters](https://chris.beams.io/posts/git-commit/#wrap-72)
 * [Use the body to explain what and why vs. how](https://chris.beams.io/posts/git-commit/#why-not-how)
 
