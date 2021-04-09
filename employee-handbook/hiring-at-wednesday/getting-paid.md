@@ -1,13 +1,10 @@
-# Getting paid
+# Getting Paid
 
-All salaries are paid on the first of the month. In the occasional case where the first is a holiday it will be scheduled for the next working day
+All salaries are paid on the first of the month. In the case the first is a holiday, it will be scheduled for the next working day
 
-We also have another payment cycle which is on the 15th of the month. We pay all vendors and fulfil reimbursements in this cycle.
+Taxes are deducted on your behalf and submitted to the governments as per the income tax slab and labor laws. These deductions will be clearly mentioned in your payslip and we will issue a form 16 at the end of the financial year as proof of payment.
 
-If you have incurred any expenses/want to purchase any equipment for work. Please provide the following details before the 15th of the month:
+If you have incurred any expenses please reach out to finance@wednesday.is with the details of the expense. If your manager approves this, we will reimburse the amount with your salary.
 
-* Original bill with our company GST details \(Please get these from finances@wednesay.is\)
-* An approval from your manager for the expense incurred \(Send an email to finances@wednesday.is\)
 
-Wednesday will make the necessary TDS deductions and complete the payment on the 15th.
 

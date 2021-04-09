@@ -8,7 +8,7 @@ After reading this if you feel like this is a place where you'd like to work ple
 
 | Table of Contents |
 | :--- |
-| [Employee Handbook](employee-handbook-1/hiring-at-wednesday/) |
+| [Employee Handbook](employee-handbook/hiring-at-wednesday/) |
 | [Engineering Playbook](engineering-playbook/engineering-handbook.md) |
 | [Legal Templates](legal-templates/client-contracts/) |
 | [Website](https://wednesday.is) |
