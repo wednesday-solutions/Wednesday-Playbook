@@ -71,6 +71,38 @@
     * [Retrospectives](project-management-playbook/agile-ceremonies/agile-ceremonies-1/retrospectives.md)
   * [Team Management](project-management-playbook/agile-ceremonies/team-management.md)
 
+## Communications
+
+* [Introduction](communications/introduction.md)
+* [Content](communications/content/README.md)
+  * [Channels](communications/content/channels.md)
+  * [Processes](communications/content/processes/README.md)
+    * [Articles](communications/content/processes/articles/README.md)
+      * [Article Structure](communications/content/processes/articles/article-structure/README.md)
+        * [Introduction Section](communications/content/processes/articles/article-structure/introduction-section.md)
+        * [Instruction Sections](communications/content/processes/articles/article-structure/instruction-sections.md)
+        * [Getting Started Section](communications/content/processes/articles/article-structure/getting-started-section.md)
+        * [Theory Section](communications/content/processes/articles/article-structure/theory-section.md)
+        * [Reference Sections](communications/content/processes/articles/article-structure/reference-sections.md)
+        * ["Where to go from here" section](communications/content/processes/articles/article-structure/where-to-go-from-here-section.md)
+      * [Choose your topic](communications/content/processes/articles/choose-your-topic.md)
+      * [Write your outline](communications/content/processes/articles/write-your-outline/README.md)
+        * [Research the topic](communications/content/processes/articles/write-your-outline/research-the-topic.md)
+        * [Create your article outline](communications/content/processes/articles/write-your-outline/create-your-article-outline.md)
+      * [Sample project](communications/content/processes/articles/sample-project/README.md)
+        * [Follow the four commandments](communications/content/processes/articles/sample-project/follow-the-four-commandments.md)
+        * [Create a starter project](communications/content/processes/articles/sample-project/create-a-starter-project.md)
+      * [First draft](communications/content/processes/articles/first-draft/README.md)
+        * [Think of the reader as a beginnner](communications/content/processes/articles/first-draft/think-of-the-reader-as-a-beginnner.md)
+        * [Stay in limit](communications/content/processes/articles/first-draft/stay-in-limit.md)
+        * [Make it scannable](communications/content/processes/articles/first-draft/make-it-scannable.md)
+        * [Explain Code](communications/content/processes/articles/first-draft/explain-code.md)
+      * [Polish your draft](communications/content/processes/articles/polish-your-draft/README.md)
+        * [Use Hemingway](communications/content/processes/articles/polish-your-draft/use-hemingway.md)
+        * [Review as a reader](communications/content/processes/articles/polish-your-draft/review-as-a-reader.md)
+* [Growth](communications/growth.md)
+* [Brand Assets](communications/brand-assets.md)
+
 ## Legal Templates
 
 * [Client Contracts](legal-templates/client-contracts/README.md)
