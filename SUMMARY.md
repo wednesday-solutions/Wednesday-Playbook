@@ -101,7 +101,10 @@
         * [Use Hemingway](communications/content/processes/articles/polish-your-draft/use-hemingway.md)
         * [Review as a reader](communications/content/processes/articles/polish-your-draft/review-as-a-reader.md)
 * [Growth](communications/growth.md)
-* [Brand Assets](communications/brand-assets.md)
+* [Brand Assets](communications/brand-assets/README.md)
+  * [Wednesday](communications/brand-assets/wednesday.md)
+  * [The Wednesday University](communications/brand-assets/the-wednesday-university.md)
+  * [The Wednesday Show](communications/brand-assets/the-wednesday-show.md)
 
 ## Legal Templates
 
