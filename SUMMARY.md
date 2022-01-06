@@ -21,8 +21,9 @@
   * [Dress Code](employee-handbook/hiring-at-wednesday/dress-code.md)
   * [Work Hours](employee-handbook/hiring-at-wednesday/work-hours.md)
 * [Benefits and Perks](employee-handbook/benefits-and-perks/README.md)
-  * [Paid Time Off](employee-handbook/benefits-and-perks/paid-time-off.md)
   * [Holiday List](employee-handbook/benefits-and-perks/holiday-list.md)
+  * [Paid Time Off](employee-handbook/benefits-and-perks/paid-time-off.md)
+  * [Group Health Insurance](employee-handbook/benefits-and-perks/group-health-insurance.md)
   * [Conferences](employee-handbook/benefits-and-perks/speaking-at-conferences.md)
   * [Hardware & Software Licenses](employee-handbook/benefits-and-perks/hardware.md)
 * [How we work](employee-handbook/how-we-work/README.md)
@@ -30,7 +31,7 @@
   * [Communication](employee-handbook/how-we-work/communication.md)
   * [Security Practices](employee-handbook/how-we-work/security-policy.md)
 
-## Hiring <a id="hiring-at-wednesday"></a>
+## Hiring <a href="#hiring-at-wednesday" id="hiring-at-wednesday"></a>
 
 * [Hiring Philosophy](hiring-at-wednesday/hiring-philosophy.md)
 * [Hiring Engineers](hiring-at-wednesday/hiring-engineers.md)
@@ -130,7 +131,6 @@
 * [Showroom](https://www.wednesday.is/showroom)
 * [Job Listings](https://www.wednesday.is/hiring)
 * [The Wednesday Library](https://www.wednesday.is/reading)
-* [The Wednesday Show](https://podcast.wednesday.is/)
-* [Wednesday University](https://university.wednesday.is/)
+* [The Wednesday Show](https://podcast.wednesday.is)
+* [Wednesday University](https://university.wednesday.is)
 * [Github](http://github.com/wednesday-solutions/)
-
