@@ -7,6 +7,7 @@
 * [How we work](employee-handbook/how-wework/README.md)
   * [Our Values](employee-handbook/how-wework/our-values.md)
   * [Dream Team](employee-handbook/how-wework/dream-team.md)
+* [Page 1](employee-handbook/page-1.md)
 * [Employment Policies](employee-handbook/employment-policies/README.md)
   * [Equal Opportunity Employment](employee-handbook/employment-policies/equal-opportunity-employment.md)
   * [At-Will Employment Policy](employee-handbook/employment-policies/at-will-employment-policy.md)
@@ -55,6 +56,10 @@
   * [Pull requests](engineering-playbook/release-and-delivery/pull-requests.md)
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
 * [Career Growth](engineering-playbook/career-growth.md)
+
+***
+
+* [Untitled](untitled.md)
 
 ## Project Management Playbook
 
@@ -110,7 +115,12 @@
 ## Legal Templates
 
 * [Client Contracts](legal-templates/client-contracts/README.md)
-  * [Master Services Agreement](legal-templates/client-contracts/master-services-agreement.md)
+  * [Fixed Cost](legal-templates/client-contracts/fixed-cost/README.md)
+    * [Master Service Agreement](legal-templates/client-contracts/fixed-cost/master-service-agreement.md)
+    * [Statement of Work](legal-templates/client-contracts/fixed-cost/statement-of-work.md)
+  * [Time and Material](legal-templates/client-contracts/time-and-material/README.md)
+    * [Master Service Agreement](legal-templates/client-contracts/time-and-material/master-service-agreement.md)
+    * [Statement Of Work](legal-templates/client-contracts/time-and-material/statement-of-work.md)
 * [Employee Contracts](legal-templates/legal/README.md)
   * [Internship Offer & Intent to Hire](legal-templates/legal/internship-offer-and-intent-to-hire/README.md)
     * [Internship Offer & Intent to Hire Template](legal-templates/legal/internship-offer-and-intent-to-hire/internship-offer-and-intent-to-hire-template.md)
