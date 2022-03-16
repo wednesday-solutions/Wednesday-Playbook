@@ -7,7 +7,6 @@
 * [How we work](employee-handbook/how-wework/README.md)
   * [Our Values](employee-handbook/how-wework/our-values.md)
   * [Dream Team](employee-handbook/how-wework/dream-team.md)
-* [Page 1](employee-handbook/page-1.md)
 * [Employment Policies](employee-handbook/employment-policies/README.md)
   * [Equal Opportunity Employment](employee-handbook/employment-policies/equal-opportunity-employment.md)
   * [At-Will Employment Policy](employee-handbook/employment-policies/at-will-employment-policy.md)
