@@ -56,10 +56,6 @@
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
 * [Career Growth](engineering-playbook/career-growth.md)
 
-***
-
-* [Untitled](untitled.md)
-
 ## Project Management Playbook
 
 * [Introduction](project-management-playbook/introduction.md)
