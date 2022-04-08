@@ -4,9 +4,12 @@
 
 ## Employee Handbook
 
-* [How we work](employee-handbook/how-wework/README.md)
-  * [Our Values](employee-handbook/how-wework/our-values.md)
-  * [Dream Team](employee-handbook/how-wework/dream-team.md)
+* [How we work](employee-handbook/how-we-work/README.md)
+  * [Our Values](employee-handbook/how-we-work/our-values.md)
+  * [Dream Team](employee-handbook/how-we-work/dream-team.md)
+  * [Leave Policy](employee-handbook/how-we-work/leave-policy.md)
+  * [Communication](employee-handbook/how-we-work/communication.md)
+  * [Security Practices](employee-handbook/how-we-work/security-policy.md)
 * [Employment Policies](employee-handbook/employment-policies/README.md)
   * [Equal Opportunity Employment](employee-handbook/employment-policies/equal-opportunity-employment.md)
   * [At-Will Employment Policy](employee-handbook/employment-policies/at-will-employment-policy.md)
@@ -26,10 +29,6 @@
   * [Group Health Insurance](employee-handbook/benefits-and-perks/group-health-insurance.md)
   * [Conferences](employee-handbook/benefits-and-perks/speaking-at-conferences.md)
   * [Hardware & Software Licenses](employee-handbook/benefits-and-perks/hardware.md)
-* [How we work](employee-handbook/how-we-work/README.md)
-  * [Leave Policy](employee-handbook/how-we-work/leave-policy.md)
-  * [Communication](employee-handbook/how-we-work/communication.md)
-  * [Security Practices](employee-handbook/how-we-work/security-policy.md)
 
 ## Hiring <a href="#hiring-at-wednesday" id="hiring-at-wednesday"></a>
 
