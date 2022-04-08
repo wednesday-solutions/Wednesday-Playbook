@@ -56,6 +56,14 @@
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
 * [Career Growth](engineering-playbook/career-growth.md)
 
+## DESIGN PLAYBOOK
+
+* [Introduction to the Design Playbook](design-playbook/introduction-to-the-design-playbook.md)
+* [Who we are](design-playbook/who-we-are/README.md)
+  * [Our Journey](design-playbook/who-we-are/our-journey.md)
+* [Why us](design-playbook/why-us/README.md)
+  * [Our Values](design-playbook/why-us/our-values.md)
+
 ## Project Management Playbook
 
 * [Introduction](project-management-playbook/introduction.md)
