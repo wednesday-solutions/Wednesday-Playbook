@@ -10,6 +10,7 @@
   * [Leave Policy](employee-handbook/how-we-work/leave-policy.md)
   * [Communication](employee-handbook/how-we-work/communication.md)
   * [Security Practices](employee-handbook/how-we-work/security-policy.md)
+  * [Hiring Philosophy](employee-handbook/how-we-work/hiring-philosophy.md)
 * [Employment Policies](employee-handbook/employment-policies/README.md)
   * [Equal Opportunity Employment](employee-handbook/employment-policies/equal-opportunity-employment.md)
   * [At-Will Employment Policy](employee-handbook/employment-policies/at-will-employment-policy.md)
@@ -30,12 +31,6 @@
   * [Conferences](employee-handbook/benefits-and-perks/speaking-at-conferences.md)
   * [Hardware & Software Licenses](employee-handbook/benefits-and-perks/hardware.md)
 
-## Hiring <a href="#hiring-at-wednesday" id="hiring-at-wednesday"></a>
-
-* [Hiring Philosophy](hiring-at-wednesday/hiring-philosophy.md)
-* [Hiring Engineers](hiring-at-wednesday/hiring-engineers.md)
-* [Hiring Designers](hiring-at-wednesday/hiring-designers.md)
-
 ## Engineering Playbook
 
 * [Introduction](engineering-playbook/engineering-handbook.md)
@@ -53,7 +48,9 @@
   * [Commit Messages](engineering-playbook/release-and-delivery/commit-messages.md)
   * [Pull requests](engineering-playbook/release-and-delivery/pull-requests.md)
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
-* [Career Growth](engineering-playbook/career-growth.md)
+* [Careers](engineering-playbook/careers/README.md)
+  * [Career Growth](engineering-playbook/careers/career-growth.md)
+  * [Hiring](engineering-playbook/careers/hiring-engineers.md)
 
 ## DESIGN PLAYBOOK
 
@@ -62,6 +59,8 @@
   * [Our Journey](design-playbook/who-we-are/our-journey.md)
 * [Why us](design-playbook/why-us/README.md)
   * [Our Values](design-playbook/why-us/our-values.md)
+* [Careers](design-playbook/careers/README.md)
+  * [Hiring](design-playbook/careers/hiring-designers.md)
 
 ## Project Management Playbook
 
