@@ -54,7 +54,7 @@
 
 ## DESIGN PLAYBOOK
 
-* [Introduction to the Design Playbook](design-playbook/introduction-to-the-design-playbook.md)
+* [Introduction](design-playbook/introduction.md)
 * [Who we are](design-playbook/who-we-are/README.md)
   * [Our Journey](design-playbook/who-we-are/our-journey.md)
 * [Why us](design-playbook/why-us/README.md)
