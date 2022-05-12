@@ -133,10 +133,7 @@
 
 ## Elsewhere
 
-* [Website](https://wednesday.is)
 * [Showroom](https://www.wednesday.is/showroom)
-* [Job Listings](https://www.wednesday.is/hiring)
 * [The Wednesday Library](https://www.wednesday.is/reading)
 * [The Wednesday Show](https://podcast.wednesday.is)
 * [Wednesday University](https://university.wednesday.is)
-* [Github](http://github.com/wednesday-solutions/)

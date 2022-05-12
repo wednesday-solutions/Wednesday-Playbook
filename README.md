@@ -6,20 +6,19 @@ As we grow we were looking for a place to write the policies & processes we foll
 
 After reading this if you feel like this is a place where you'd like to work please take a look at the open positions [here](https://www.wednesday.is/hiring).
 
-| Table of Contents |
-| :--- |
-| [Employee Handbook](employee-handbook/hiring-at-wednesday/) |
+| Table of Contents                                                    |
+| -------------------------------------------------------------------- |
+| [Employee Handbook](employee-handbook/hiring-at-wednesday/)          |
 | [Engineering Playbook](engineering-playbook/engineering-handbook.md) |
-| [Legal Templates](legal-templates/client-contracts/) |
-| [Website](https://wednesday.is) |
-| [Showroom](https://www.wednesday.is/showroom) |
-| [Job Listings](https://www.wednesday.is/hiring) |
-| [The Wednesday Library](https://wednesday.is/reading) |
-| [The Wednesday Show](https://podcast.wednesday.is/) |
-| [Wednesday University](https://university.wednesday.is/) |
-| [Github](http://github.com/wednesday-solutions) |
+| [Design Playbook](broken-reference)                                  |
+| [Project Management Playbook](broken-reference)                      |
+| [Communications](broken-reference)                                   |
+| [Legal Templates](legal-templates/client-contracts/)                 |
+| [Showroom](https://www.wednesday.is/showroom)                        |
+| [The Wednesday Library](https://wednesday.is/reading)                |
+| [The Wednesday Show](https://podcast.wednesday.is)                   |
+| [Wednesday University](https://university.wednesday.is)              |
 
-### Acknowledgements
+### Acknowledgments
 
-The Wednesday Playbook is a derivative of the [Obvious Playbook](https://playbook.obvious.in/) which itself has been derived from the work other companies have done to ensure all their policies and practices are public. 
-
+The Wednesday Playbook is a derivative of the [Obvious Playbook](https://playbook.obvious.in) which itself has been derived from the work other companies have done to ensure all their policies and practices are public.&#x20;
