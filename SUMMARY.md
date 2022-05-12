@@ -34,12 +34,6 @@
 ## Engineering Playbook
 
 * [Introduction](engineering-playbook/engineering-handbook.md)
-* [Project Management](engineering-playbook/project-management/README.md)
-  * [JIRA](engineering-playbook/project-management/jira/README.md)
-    * [Workflow](engineering-playbook/project-management/jira/workflow.md)
-  * [Sprint Planning](engineering-playbook/project-management/untitled.md)
-  * [Standups](engineering-playbook/project-management/daily-standups.md)
-  * [Retrospectives & Demos](engineering-playbook/project-management/retrospectives-and-demos.md)
 * [System Architecture & Design](engineering-playbook/system-architecture-and-design/README.md)
   * [Templates](engineering-playbook/system-architecture-and-design/templates.md)
 * [Release Engineering](engineering-playbook/release-and-delivery/README.md)
@@ -65,18 +59,18 @@
 ## Project Management Playbook
 
 * [Introduction](project-management-playbook/introduction.md)
-* [Checklists](project-management-playbook/checklists/README.md)
-  * [Internal Checklist](project-management-playbook/checklists/internal-checklist.md)
-  * [Customer Onboarding Checklist](project-management-playbook/checklists/customer-onboarding-checklist.md)
-* [Stakeholder Management](project-management-playbook/stakeholder-management/README.md)
-  * [Documentation](project-management-playbook/stakeholder-management/documentation.md)
-* [Delivery Management](project-management-playbook/agile-ceremonies/README.md)
-  * [Agile Ceremonies](project-management-playbook/agile-ceremonies/agile-ceremonies-1/README.md)
-    * [Sprint Planning](project-management-playbook/agile-ceremonies/agile-ceremonies-1/sprint-planning.md)
-    * [Daily Standups](project-management-playbook/agile-ceremonies/agile-ceremonies-1/daily-standups.md)
-    * [Demo](project-management-playbook/agile-ceremonies/agile-ceremonies-1/demo.md)
-    * [Retrospectives](project-management-playbook/agile-ceremonies/agile-ceremonies-1/retrospectives.md)
-  * [Team Management](project-management-playbook/agile-ceremonies/team-management.md)
+* [General Guidelines](project-management-playbook/general-guidelines/README.md)
+  * [Checklists](project-management-playbook/general-guidelines/checklists/README.md)
+    * [Internal Checklist](project-management-playbook/general-guidelines/checklists/internal-checklist.md)
+    * [Customer Onboarding Checklist](project-management-playbook/general-guidelines/checklists/customer-onboarding-checklist.md)
+* [Our Approach](project-management-playbook/our-approach/README.md)
+  * [Agile Ceremonies](project-management-playbook/our-approach/agile-ceremonies/README.md)
+    * [Sprint Planning](project-management-playbook/our-approach/agile-ceremonies/sprint-planning.md)
+    * [Standups](project-management-playbook/our-approach/agile-ceremonies/standups.md)
+    * [Retrospectives & Demos](project-management-playbook/our-approach/agile-ceremonies/retrospectives-and-demos.md)
+  * [Stakeholder Management](project-management-playbook/our-approach/stakeholder-management/README.md)
+    * [Documentation](project-management-playbook/our-approach/stakeholder-management/documentation.md)
+  * [Team Management](project-management-playbook/our-approach/team-management.md)
 
 ## Communications
 
