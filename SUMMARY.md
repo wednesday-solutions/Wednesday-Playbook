@@ -71,6 +71,7 @@
   * [Stakeholder Management](project-management-playbook/our-approach/stakeholder-management/README.md)
     * [Documentation](project-management-playbook/our-approach/stakeholder-management/documentation.md)
   * [Team Management](project-management-playbook/our-approach/team-management.md)
+* [Careers](project-management-playbook/careers.md)
 
 ## Communications
 
