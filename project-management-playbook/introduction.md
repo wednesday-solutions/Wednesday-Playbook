@@ -1,3 +1,7 @@
+---
+description: Learn about how we practice project management.
+---
+
 # Introduction
 
 The role of a project manager is different in different companies. This book outlines how we practice project management. It doesn’t go into the details of project management as a practice (there are enough books on that). Rather it focuses on our differentiators. The areas where we think a project manager should focus on to improve customer experience.

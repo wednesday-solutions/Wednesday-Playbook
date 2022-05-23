@@ -1,12 +1,8 @@
----
-description: Wednesday logos.
----
-
 # Wednesday
 
 ### Wednesday Logo
 
-![Wednesday logo](../../.gitbook/assets/wednesday\_logo.svg)
+![Wednesday logo](../../.gitbook/assets/wednesday_logo.svg)
 
 ### Wednesday Logo Shorthand
 
@@ -19,3 +15,4 @@ description: Wednesday logos.
 ### Wednesday Logo Shorthand - Reversed
 
 ![Wednesday Logo Shorthand - Reversed](../../.gitbook/assets/logo-with-black-bg.png)
+

@@ -1,3 +1,10 @@
+---
+description: >-
+  Go through our values to understand what we look for. If those resonate and
+  you'd like to explore working with us here is the process we follow for
+  project management.
+---
+
 # Careers
 
 ### Hiring Process

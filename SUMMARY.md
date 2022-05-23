@@ -43,8 +43,8 @@
   * [Pull requests](engineering-playbook/release-and-delivery/pull-requests.md)
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
 * [Careers](engineering-playbook/careers/README.md)
-  * [Career Growth](engineering-playbook/careers/career-growth.md)
   * [Hiring](engineering-playbook/careers/hiring-engineers.md)
+  * [Career Growth](engineering-playbook/careers/career-growth.md)
 
 ## DESIGN PLAYBOOK
 

@@ -1,7 +1,7 @@
 ---
-description: This is Us
+description: The Wednesday Design Team
 ---
 
 # Who we are
 
-![](<../../.gitbook/assets/The Design Team.png>)
+![The Wednesday Design Team](<../../.gitbook/assets/The Design Team.png>)
