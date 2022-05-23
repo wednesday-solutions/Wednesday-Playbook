@@ -1,3 +1,7 @@
+---
+description: Annexure to express our intent to hire.
+---
+
 # Letter of Intent to Hire
 
 To whomsoever, it may concern.

@@ -1,3 +1,7 @@
+---
+description: Our Statement of Work for Time & Material projects.
+---
+
 # Statement Of Work
 
 ## I. **Introduction**
@@ -28,7 +32,7 @@ The SOW shall remain valid until the Parties terminate the Agreement or Either P
 * Process: The Parties agree that they will adhere to the procedure mentioned herein below for the term of this SOW or unless mutually agreed between the Parties
 * Parties agree that they will adhere to an agile product development process. The high-level details are mentioned below:
 
-1. print planning: Wednesday personnel will schedule a planning meeting at the start of the sprint. The scope of the sprint will be discussed, and user stories will be written.
+1. Sprint planning: Wednesday personnel will schedule a planning meeting at the start of the sprint. The scope of the sprint will be discussed, and user stories will be written.
 2. Communication: Wednesday will add the customer to their slack channel for verbose communication and daily updates will be shared to the Client.
 3. Sprint demos: Wednesday personnel will demo the work done at the end of the sprint.
 4. Retrospectives & incorporating feedback: Wednesday personnel will schedule a retrospective meeting to incorporate feedback and improve.
@@ -60,7 +64,7 @@ The SOW shall remain valid until the Parties terminate the Agreement or Either P
 #### Monthly Rates:
 
 1. &#x20;Rates specified in the table above are exclusive of applicable taxes and shall be charged extra.
-2. A person month shall comprise <<20>> working days with minimum 8 hours of work per day.
+2. A person's month shall comprise <<20>> working days with a minimum of 8 hours of work per day.
 3. &#x20;Invoices shall be raised at the end of each month.
 4. &#x20;Rates agreed under this SOW shall be valid for a period agreed between the Parties, subject to revision by Wednesday at its discretion.
 5. Payments under this SOW shall be made as per the terms of the Agreement.

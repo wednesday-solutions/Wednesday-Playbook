@@ -1,4 +1,8 @@
-# Internship Offer & Intent to Hire Template
+---
+description: Offer letter shared with all Interns.
+---
+
+# Internship Offer Template
 
 \[Insert Date]
 

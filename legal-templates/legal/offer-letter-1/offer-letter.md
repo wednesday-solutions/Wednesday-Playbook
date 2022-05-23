@@ -1,3 +1,7 @@
+---
+description: A template of our offer cum acceptance letter.
+---
+
 # Offer Cum Acceptance Letter Template
 
 \[Insert Date]

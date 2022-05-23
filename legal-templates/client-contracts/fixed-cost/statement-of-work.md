@@ -1,3 +1,7 @@
+---
+description: Our Statement of Work for Fixed Cost projects.
+---
+
 # Statement of Work
 
 ## &#x20;**I. Introduction**
@@ -18,7 +22,7 @@ Parties agree to the following terms herein;
 
 ### **2. Duration:**&#x20;
 
-\_\_\_\_\_ Twelve (12) months from the Effective Date.
+<\<Duration>>
 
 ### 3. **Scope of Work/Services and Deliverables:**
 
@@ -87,8 +91,8 @@ Invoices shall be raised as per the timelines specified in the table below:
 
 1. The payment should be made in the name of “**Wednesday Solutions**” payable at \_\_\_\_\_.  Wednesday shall raise invoices to the client as per the defined schedule above. All fees are payable to Wednesday within seven (7) days from the date of receipt of invoice or expense report by Client.&#x20;
 2. The fees stated in the SOW are exclusive of all applicable taxes. The client shall be responsible for the payment of all applicable taxes including but not limited to sales, service, use, and export taxes.&#x20;
-3. Wednesday reserves the right to charge an interest of 1.5% per month in case the client fails to make payments within the aforesaid due date. In addition to other remedies available to Wednesday, in case of non-payment of fees by Client under this Agreement, Wednesday shall be relieved of its obligations under this SOW and the Agreement.&#x20;
-4. Wednesday would have the right to Stop Work hereunder upon non-payment of invoices or expense report within 20 calendar days from the date of invoice/expense report.
+3. Wednesday reserves the right to charge an interest of 1.5% per month in case the client fails to make payments within the aforesaid due date. In addition to other remedies available to Wednesday, in case of non-payment of fees by the Client under this Agreement, Wednesday shall be relieved of its obligations under this SOW and the Agreement.&#x20;
+4. Wednesday would have the right to Stop Work hereunder upon non-payment of invoices or expense reports within 20 calendar days from the date of invoice/expense report.
 5. In the event of a breach of payment terms by Client; Wednesday shall be entitled to withhold the Work product and all rights therein until receipt of payment from the Client.
 
 ### **9. Expenses**:
@@ -117,7 +121,7 @@ Invoices shall be raised as per the timelines specified in the table below:
 
 Any change to the aforementioned scope of services and changes as per clause 7 of this SOW will have the following hourly rates applicable:
 
-SOW # 01 approved and acknowledged.
+<\<Rates>>
 
 | For Client  | For Wednesday |
 | ----------- | ------------- |

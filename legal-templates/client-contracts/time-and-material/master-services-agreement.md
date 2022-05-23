@@ -1,4 +1,8 @@
-# Master Service Agreement
+---
+description: Our Master Services Agreement for Time & Material projects.
+---
+
+# Master Services Agreement
 
 &#x20;Terms, And Conditions Between <\<CLIENT>> & Wednesday Solutions
 
