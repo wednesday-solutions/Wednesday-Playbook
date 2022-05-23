@@ -1,6 +1,9 @@
+---
+description: The Wednesday University logo
+---
+
 # The Wednesday University
 
-![The Wednesday University](../../.gitbook/assets/ic_wednesday_university.svg)
+![The Wednesday University](../../.gitbook/assets/ic\_wednesday\_university.svg)
 
-### 
-
+###
