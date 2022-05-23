@@ -135,5 +135,5 @@
 
 * [Showroom](https://www.wednesday.is/showroom)
 * [The Wednesday Library](https://www.wednesday.is/reading)
-* [The Wednesday Show](https://podcast.wednesday.is)
-* [Wednesday University](https://university.wednesday.is)
+* [The Wednesday Show](https://podcast.wednesday.is/)
+* [Wednesday University](https://university.wednesday.is/)
