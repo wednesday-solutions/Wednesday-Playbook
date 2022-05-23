@@ -4,10 +4,10 @@
 
 ## Employee Handbook
 
-* [How we work](employee-handbook/how-we-work/README.md)
+* [How We Work](employee-handbook/how-we-work/README.md)
   * [Our Values](employee-handbook/how-we-work/our-values.md)
-  * [Dream Team](employee-handbook/how-we-work/dream-team.md)
-  * [Leave Policy](employee-handbook/how-we-work/leave-policy.md)
+  * [Our Dream Team](employee-handbook/how-we-work/dream-team.md)
+  * [Our Leave Policy](employee-handbook/how-we-work/leave-policy.md)
   * [Communication](employee-handbook/how-we-work/communication.md)
   * [Security Practices](employee-handbook/how-we-work/security-policy.md)
   * [Hiring Philosophy](employee-handbook/how-we-work/hiring-philosophy.md)

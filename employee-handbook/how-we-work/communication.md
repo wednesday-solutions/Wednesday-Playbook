@@ -1,3 +1,7 @@
+---
+description: Communication tools we use and the guidelines to follow.
+---
+
 # Communication
 
 ## Slack
@@ -16,4 +20,3 @@ Meeting your lead, team, and customer is required to understand priorities and t
 
 1. **Keep it short:** Meetings should be short, just enough time to go through the agenda and get everyone on the same page.
 2. **Schedule check-ins:** Regular check-ins ensure everyone is aware of priorities and blockers can be discussed.
-

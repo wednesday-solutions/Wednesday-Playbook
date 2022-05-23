@@ -1,4 +1,11 @@
-# Dream Team
+---
+description: >-
+  We've on a quest to build a stellar team. A team of makers, learners, and
+  doers. A team that enjoys working together to build products for the next
+  billion.
+---
+
+# Our Dream Team
 
 We think a small group of skilled people who have our [values](our-values.md) is a force to reckon with. Over the years we’ve built such a team and are always looking for like-minded people.
 

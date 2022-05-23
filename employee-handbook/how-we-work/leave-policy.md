@@ -1,4 +1,8 @@
-# Leave Policy
+---
+description: Learn about the leave types, the leave cycle, and how to apply for leaves.
+---
+
+# Our Leave Policy
 
 Here is the [list of holidays](../benefits-and-perks/holiday-list.md) we follow.
 

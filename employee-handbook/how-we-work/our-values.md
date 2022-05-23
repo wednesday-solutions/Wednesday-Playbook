@@ -1,3 +1,9 @@
+---
+description: >-
+  These values stand as our guiding light. They have helped us build a team that
+  we wanted to. If you associate yourself with them, do consider joining us.
+---
+
 # Our Values
 
 We started Wednesday with the idea to build a team of makers. A team that is passionate about building great digital products. Writing these values down has helped us document what we believe in.
@@ -29,6 +35,4 @@ We want you to voice your opinion. We want you to disagree on something if it do
 ## We are Selfless
 
 Do what’s right for Wednesday, our customers, their users, and not what’s right for you. When we all start practicing this you may notice that your needs will automatically be met.
-
-
 

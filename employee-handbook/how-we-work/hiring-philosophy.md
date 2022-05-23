@@ -1,3 +1,9 @@
+---
+description: >-
+  We believe in a "always be hiring" philosophy. Learn about the people we're
+  looking for and what we value.
+---
+
 # Hiring Philosophy
 
 Irrespective of the demands we have on client projects we believe in an "always be hiring" philosophy. We aren't chasing a growth number. We only focus on hiring good people to work with.&#x20;
