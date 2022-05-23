@@ -1,3 +1,7 @@
+---
+description: Directory of public channels we post content on.
+---
+
 # Channels
 
 | Name                                 | URL                                                                                                                                                               |
