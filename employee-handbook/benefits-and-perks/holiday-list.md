@@ -7,7 +7,7 @@
 | 4  | Ambedkar Jayanti      | 14-Apr-2022 |
 | 5  | Eid                   | 02-May-2022 |
 | 6  | Independence Day      | 15-Aug-2022 |
-| 7  | Deepawali             | 04-Nov-2022 |
+| 7  | Deepawali             | 24-Oct-2022 |
 | 8  | Christmas             | 26-Dec-2022 |
 | 9  | Winter Shutdown (PTO) | 27-Dec-2022 |
 | 10 | Winter Shutdown (PTO) | 28-Dec-2022 |
