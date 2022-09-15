@@ -120,7 +120,7 @@
   * [Internship Offer & Intent to Hire](legal-templates/legal/internship-offer-and-intent-to-hire/README.md)
     * [Internship Offer Template](legal-templates/legal/internship-offer-and-intent-to-hire/internship-offer-and-intent-to-hire-template.md)
     * [Annexure 1 - List of Documents](legal-templates/legal/internship-offer-and-intent-to-hire/annexure-1-list-of-documents.md)
-    * [Aknowledgment of receipt of Playbook](legal-templates/legal/internship-offer-and-intent-to-hire/aknowledgment-of-receipt-of-playbook.md)
+    * [Acknowledgment of receipt of Playbook](legal-templates/legal/internship-offer-and-intent-to-hire/acknowledgment-of-receipt-of-playbook.md)
     * [Letter of Intent to Hire](legal-templates/legal/internship-offer-and-intent-to-hire/letter-of-intent-to-hire.md)
   * [Offer cum Appointment Letter for full-time personnel](legal-templates/legal/offer-letter/README.md)
     * [Offer Cum Acceptance Letter Template](legal-templates/legal/offer-letter/offer-letter.md)
