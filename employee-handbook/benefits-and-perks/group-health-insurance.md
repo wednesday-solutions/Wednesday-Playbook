@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of the Group Health Insurance policy that you get as a perk when
+  you join Wednesday.
+---
+
 # Group Health Insurance
 
 Our group health insurance covers hospital expenses for injuries and diseases.&#x20;

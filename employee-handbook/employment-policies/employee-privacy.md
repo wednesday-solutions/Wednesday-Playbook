@@ -1,3 +1,9 @@
+---
+description: >-
+  Get an in-depth look on Wednesday's Employee Privacy Policy. Things like
+  Personnel Records, Email Privacy and usage of Communication Tools.
+---
+
 # Employee Privacy
 
 ## Personnel Records
@@ -38,11 +44,10 @@ We expect you to exercise discretion in your electronic communications. When you
 
 To avoid email viruses, phishing for account information, and other threats, employees should not open email attachments from people and businesses they don’t recognize, particularly if the email appears to have been forwarded multiple times or has a nonexistent or peculiar subject heading. Even if you know the sender, do not open an email attachment that has a strange name or is not referenced in the body of the email; it may have been transmitted automatically, without the sender’s knowledge.
 
-If you believe your computer has been infected by a virus, worm, or other security threat to Wednesday’s system, you must inform the Chief Security Office \(currently Ali\) immediately.
+If you believe your computer has been infected by a virus, worm, or other security threat to Wednesday’s system, you must inform the Chief Security Office (currently Ali) immediately.
 
 Employees may not share their email passwords with anyone, including coworkers or family members.
 
 ## Privacy when using Wednesday's Communication Tools
 
 Some Wednesday employees have administrative access to some or all of Wednesday's communication and collaboration tools, including Wednesday-managed Google apps and accounts, Slack, and JIRA. We reserve the right to monitor employee use of the Wednesday's communication tools at any time. You should not expect that your use of these communication tools, including but not limited to the sites you visit and the communications you have, will be private.
-

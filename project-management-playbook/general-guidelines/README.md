@@ -1,6 +1,10 @@
+---
+description: >-
+  A quick overview of the guidelines to be followed while managing and running
+  any project at Wednesday.
+---
+
 # General Guidelines
-
-
 
 Successful delivery of a project isn’t just about building software to spec. Wednesday is a services business. Referrals are very important to us. To get referrals we need to ensure the customer has a good experience working with Wednesday.
 

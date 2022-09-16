@@ -1,4 +1,10 @@
-# Why us
+---
+description: >-
+  Why should you go with Wednesday for your product design projects? This
+  section here goes into the details and answers this question.
+---
+
+# Why Us
 
 To design for scale we need to step into the shoes of all the actors involved in the product. We need to think and act like them to understand what incentivises them. This is no easy task. Everyone has a different perspective. It’s important to set aside biases, focus on the facts, and listen.
 

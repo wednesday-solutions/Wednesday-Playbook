@@ -1,4 +1,10 @@
-# Our Values
+---
+description: >-
+  An overview of the core values we follow and stick to, as designers at
+  Wednesday.
+---
+
+# Our Values As Designers
 
 * _Listen_: We cannot design for our customers and their users if we don’t start here.
 * _Learn & Share_: We encourage independent learning. Each one learns a separate skill. We share our learnings so as a group we cover more ground.

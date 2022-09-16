@@ -1,3 +1,7 @@
+---
+description: The list of holidays observed at Wednesday.
+---
+
 # Holiday List
 
 | 1  | New Years Day         | 01-Jan-2022 |

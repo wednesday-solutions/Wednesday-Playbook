@@ -1,3 +1,9 @@
+---
+description: >-
+  A brief look at what Career Growth looks like at Wednesday. Check out how the
+  Roles & Responsibilities and Appraisals work.
+---
+
 # Career Growth
 
 Titles are external only. An environment where people have a "this is not a part of my job description" attitude is not what we like. Titles however allow our customers to understand your roles and responsibilities.

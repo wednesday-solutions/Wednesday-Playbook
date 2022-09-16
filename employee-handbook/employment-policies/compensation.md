@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of how Compensation works at Wednesday. Take a look at how
+  Salaries and Bonuses work here.
+---
+
 # Compensation
 
 ### Salary
@@ -13,5 +19,4 @@ Wednesday evaluates compensation annually. Our ability to offer raises is depend
 
 ### Retention Bonus
 
-Wednesday only offers a retention bonus on completion of a year. The details of this bonus \(if applicable\) will be clearly mentioned in your offer.
-
+Wednesday only offers a retention bonus on completion of a year. The details of this bonus (if applicable) will be clearly mentioned in your offer.

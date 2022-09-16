@@ -1,3 +1,9 @@
+---
+description: >-
+  A quick guide on how to explain and talk about code, when writing the first
+  draft of your article pieces.
+---
+
 # Explain Code
 
 There are 5 steps to take whenever you instruct the reader to write some code:

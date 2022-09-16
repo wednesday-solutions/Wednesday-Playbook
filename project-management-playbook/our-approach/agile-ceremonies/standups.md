@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of how we do standups at Wednesday. We also go into a few tips to
+  ensure effective standups.
+---
+
 # Standups
 
 Depending on what works for your team please choose the right frequency. Some projects conduct these thrice a week whereas on others it might make sense to do these daily.

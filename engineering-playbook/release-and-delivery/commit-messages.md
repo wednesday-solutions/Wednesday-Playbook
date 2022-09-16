@@ -1,3 +1,9 @@
+---
+description: >-
+  Get an overview of how we use Git commit messages to communicate within the
+  team. Plus, seven rules to make great messages.
+---
+
 # Commit Messages
 
 Git commit messages are a way to communicate change to fellow developers. To communicate change understanding context and why that change is necessary is important. We want all our repositories to have a commit log that is easy to consume and understand.
@@ -13,4 +19,3 @@ Please take a look at these seven rules for great git commit messages:
 * [Use the body to explain what and why vs. how](https://chris.beams.io/posts/git-commit/#why-not-how)
 
 Before starting a new project discuss with the team and agree to a consistent commit message strategy.
-

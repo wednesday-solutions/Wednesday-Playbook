@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of our article writing process and how we ensure effective content
+  production at Wednesday.
+---
+
 # Articles
 
 Articles are detailed, longer, and show thought leadership. Each article should be between 3500 to 4000 words in length.
@@ -13,4 +19,3 @@ Articles are detailed, longer, and show thought leadership. Each article should 
 ### The Board
 
 We maintain a board with swimlanes and a calendar on Notion. Access to this workspace will be given to all writers.
-

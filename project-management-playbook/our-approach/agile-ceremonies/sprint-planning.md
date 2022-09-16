@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of our sprint planning methodology. We go into what is it, and a
+  few tips to help plan effective sprints.
+---
+
 # Sprint Planning
 
 A sprint planning session is held on the first day of a sprint. A sprint for us is usually two weeks long.

@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of what the Theory section should consist of within each article.
+  This should be kept in mind when creating content for Wednesday.
+---
+
 # Theory Section
 
 Theory sections are sections without step-by-step instructions. Instead, they explain the high-level theory that you need to understand before you dive into the code.
@@ -9,4 +15,3 @@ Theory sections are incredibly important so that you can explain the “why” b
 * **Explain just in time:** Don't overcomplicate by spending too much time in theory. Explain the theory right before you're going to implement it.
 * **Explain complicated material:** The more complicated the more theory
 * Use images and illustrations: Get in touch with Ali to get custom illustrations.
-

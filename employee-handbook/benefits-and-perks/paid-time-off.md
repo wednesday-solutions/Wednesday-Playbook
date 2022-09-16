@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of how Paid Time Off works at Wednesday. Get to know the leave
+  types and the duration of each to help plan in advance.
+---
+
 # Paid Time Off
 
 Time-off can help you rejuvenate and clear your mind. This is critical to do your best work. In addition to the holidays, we provide in the [Holiday List](holiday-list.md) we also provide the following types of paid leaves.

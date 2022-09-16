@@ -1,3 +1,9 @@
+---
+description: >-
+  Here are the things to keep in mind when developing your sample project once
+  your outline is ready.
+---
+
 # Sample project
 
 Whew! Your outline is done, so now you’re ready for the next step: developing your sample project.
@@ -7,4 +13,3 @@ Before you begin coding your sample project, take some time to read through this
 * The 4 Commandments of Sample Projects.
 * The code style you should use.
 * How to split your project into a starter project and a final project.
-

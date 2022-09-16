@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of how we do documentation at Wednesday. We go into the various
+  aspects of it as well to help you quickly get up to speed.
+---
+
 # Documentation
 
 Document everything - decisions, milestones, feature requests, change requests, etc.

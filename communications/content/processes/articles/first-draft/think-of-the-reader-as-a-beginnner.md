@@ -1,3 +1,9 @@
+---
+description: >-
+  A quick guide on how to think about your reader when writing the first draft
+  of your article pieces.
+---
+
 # Think of the reader as a beginnner
 
 When you write your article, try and imagine yourself in the shoes of a beginner to your subject. Ask yourself:
@@ -28,9 +34,7 @@ But actually, you do. This is because a reader might be advanced on your platfor
 
 In general, readers have two different levels of experience:
 
-1. **Experience level with your topic**: You should assume _almost always_ that a reader is a beginner to your topic: After all, that’s why they’re reading your article. For example, if you were making a book on TDD in iOS, you shouldn’t assume any prior knowledge of TDD or testing in general.
+1.  **Experience level with your topic**: You should assume _almost always_ that a reader is a beginner to your topic: After all, that’s why they’re reading your article. For example, if you were making a book on TDD in iOS, you shouldn’t assume any prior knowledge of TDD or testing in general.
 
-   If your article is an Android article on specific parts of using a Room database, your reader might have experience with Room, but not with the specific aspect of it covered in your article.
-
+    If your article is an Android article on specific parts of using a Room database, your reader might have experience with Room, but not with the specific aspect of it covered in your article.
 2. **Experience level with your platform**: It’s OK to require a certain experience level for the platform you’re developing on. For example, if you were making a book on TDD in iOS, you can assume basic Swift knowledge, basic iOS app making knowledge, etc.
-

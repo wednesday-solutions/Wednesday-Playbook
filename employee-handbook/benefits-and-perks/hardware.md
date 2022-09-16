@@ -1,3 +1,9 @@
+---
+description: >-
+  A list of the hardware and software licenses provided at Wednesday. We also go
+  into how you can  get access to these, depending on what you're working on.
+---
+
 # Hardware & Software Licenses
 
 We invest heavily in hardware and software licenses that allow you to do great work. This allows you to focus on your work and build on top of what is available.

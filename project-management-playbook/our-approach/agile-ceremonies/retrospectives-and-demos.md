@@ -1,3 +1,9 @@
+---
+description: >-
+  An overview of our how we do Retrospectives & Demos. We go into what they are,
+  and a few tips to make them effective.
+---
+
 # Retrospectives & Demos
 
 ### Retrospectives

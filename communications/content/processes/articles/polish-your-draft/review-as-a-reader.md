@@ -1,3 +1,9 @@
+---
+description: >-
+  A quick guide on reviewing your article pieces as a reader before publishing
+  the final draft on the Wednesday website.
+---
+
 # Review as a reader
 
 Once you have written your article, you should go through the article one last time yourself, as if you are a reader!
@@ -12,4 +18,3 @@ During your review, ask yourself these questions to make sure your article has:
 * **Readable**: Is the article concise, fun, or easy to read?
 * **Educational**: Does the article have enough **theory sections** so the reader understands how everything works? Does the article have enough **reference sections** so the reader understands the other options that are available? Does the article explain the **why** behind every step?
 * **Deep**: Does the article include enough explanations or information to help the reader’s understanding go to a deeper level?
-

@@ -1,6 +1,12 @@
+---
+description: >-
+  Here are the things to keep in mind when deciding on the topic to write about
+  at Wednesday.
+---
+
 # Choose your topic
 
-Before you start writing you need to decide what you're going to write about. You will either be assigned a topic or you can pick from our pool on notion.
+Before you start writing you need to decide what you're going to write about. You will either be assigned a topic or you can pick from our pool on Notion.
 
 You can even submit your own ideas. To submit please write a brief following the template below:
 
@@ -15,4 +21,3 @@ _How-to: Teach how to build a module or application. Focus on the steps taken, d
 **Key points**: List of points that you will cover in the article.
 
 **Sample app idea:** If you're trying to explain a concept and want to do it by creating a hypothetical application please submit the details of the application and what it will do.
-

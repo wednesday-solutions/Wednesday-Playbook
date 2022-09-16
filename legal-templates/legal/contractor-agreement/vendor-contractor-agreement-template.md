@@ -1,3 +1,9 @@
+---
+description: >-
+  The template that we follow for all Contractor Agreements that we share at
+  Wednesday.
+---
+
 # Contractor Agreement Template
 
 This Consultancy Agreement (**Agreement**) is entered into and made effective on **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,** by and between
