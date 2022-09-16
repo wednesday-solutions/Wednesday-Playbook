@@ -42,19 +42,19 @@
   * [Commit Messages](engineering-playbook/release-and-delivery/commit-messages.md)
   * [Pull requests](engineering-playbook/release-and-delivery/pull-requests.md)
   * [Continuous Integration and Delivery](engineering-playbook/release-and-delivery/deployment-and-continuous-integration.md)
-* [Careers in Engineering](engineering-playbook/careers-in-engineering/README.md)
-  * [Hiring Engineers](engineering-playbook/careers-in-engineering/hiring-engineers.md)
-  * [Career Growth](engineering-playbook/careers-in-engineering/career-growth.md)
+* [Careers in Engineering](engineering-playbook/careers/README.md)
+  * [Hiring Engineers](engineering-playbook/careers/hiring-engineers.md)
+  * [Career Growth](engineering-playbook/careers/career-growth.md)
 
 ## DESIGN PLAYBOOK
 
-* [Introduction to Our Design Playbook](design-playbook/introduction-to-our-design-playbook.md)
+* [Introduction to Our Design Playbook](design-playbook/introduction.md)
 * [Who we are](design-playbook/who-we-are/README.md)
   * [Our Journey](design-playbook/who-we-are/our-journey.md)
 * [Why Us](design-playbook/why-us/README.md)
-  * [Our Values As Designers](design-playbook/why-us/our-values-as-designers.md)
-* [Careers in Product Design](design-playbook/careers-in-product-design/README.md)
-  * [Hiring Designers](design-playbook/careers-in-product-design/hiring-designers.md)
+  * [Our Values As Designers](design-playbook/why-us/our-values.md)
+* [Careers in Product Design](design-playbook/careers/README.md)
+  * [Hiring Designers](design-playbook/careers/hiring-designers.md)
 
 ## Project Management Playbook
 
@@ -71,7 +71,7 @@
   * [Stakeholder Management](project-management-playbook/our-approach/stakeholder-management/README.md)
     * [Documentation](project-management-playbook/our-approach/stakeholder-management/documentation.md)
   * [Team Management](project-management-playbook/our-approach/team-management.md)
-* [Careers in Project Management](project-management-playbook/careers-in-project-management.md)
+* [Careers in Project Management](project-management-playbook/careers.md)
 
 ## Communications
 
@@ -111,11 +111,11 @@
 
 * [Client Contracts](legal-templates/client-contracts/README.md)
   * [Fixed Cost](legal-templates/client-contracts/fixed-cost/README.md)
-    * [Master Services Agreement for Fixed Cost](legal-templates/client-contracts/fixed-cost/master-services-agreement-for-fixed-cost.md)
-    * [Statement of Work for Fixed Cost Projects](legal-templates/client-contracts/fixed-cost/statement-of-work-for-fixed-cost-projects.md)
+    * [Master Services Agreement for Fixed Cost](legal-templates/client-contracts/fixed-cost/master-services-agreement.md)
+    * [Statement of Work for Fixed Cost Projects](legal-templates/client-contracts/fixed-cost/statement-of-work.md)
   * [Time and Material](legal-templates/client-contracts/time-and-material/README.md)
-    * [Master Services Agreement for T\&M](legal-templates/client-contracts/time-and-material/master-services-agreement-for-t-and-m.md)
-    * [Statement Of Work for T\&M Projects](legal-templates/client-contracts/time-and-material/statement-of-work-for-t-and-m-projects.md)
+    * [Master Services Agreement for T\&M](legal-templates/client-contracts/time-and-material/master-services-agreement.md)
+    * [Statement Of Work for T\&M Projects](legal-templates/client-contracts/time-and-material/statement-of-work.md)
 * [Personnel Contracts](legal-templates/legal/README.md)
   * [Internship Offer & Intent to Hire](legal-templates/legal/internship-offer-and-intent-to-hire/README.md)
     * [Internship Offer Template](legal-templates/legal/internship-offer-and-intent-to-hire/internship-offer-and-intent-to-hire-template.md)

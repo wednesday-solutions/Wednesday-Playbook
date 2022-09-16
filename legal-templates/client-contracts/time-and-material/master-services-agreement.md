@@ -2,7 +2,7 @@
 description: Our Master Services Agreement for Time & Material projects.
 ---
 
-# Master Services Agreement
+# Master Services Agreement for T\&M
 
 &#x20;Terms, And Conditions Between <\<CLIENT>> & Wednesday Solutions
 

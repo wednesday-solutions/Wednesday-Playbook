@@ -2,7 +2,7 @@
 description: Our Master Services Agreement for Fixed Cost projects.
 ---
 
-# Master Services Agreement
+# Master Services Agreement for Fixed Cost
 
 Project Details, Terms, And Conditions Between  <\<CLIENT>> & Wednesday Solutions
 

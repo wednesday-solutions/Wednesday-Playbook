@@ -2,7 +2,7 @@
 description: Our Statement of Work for Time & Material projects.
 ---
 
-# Statement Of Work
+# Statement Of Work for T\&M Projects
 
 ## I. **Introduction**
 

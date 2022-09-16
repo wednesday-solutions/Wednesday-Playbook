@@ -2,7 +2,7 @@
 description: Our Statement of Work for Fixed Cost projects.
 ---
 
-# Statement of Work
+# Statement of Work for Fixed Cost Projects
 
 ## &#x20;**I. Introduction**
 

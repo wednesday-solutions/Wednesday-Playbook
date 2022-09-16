@@ -1,7 +1,7 @@
 ---
 description: >-
-  Get an overview of the benefits and perks you while working with Wednesday.
-  Time offs, insurance, conferences, etc.
+  Get an overview of the benefits and perks you have while working with
+  Wednesday. Time offs, insurance, conferences, etc.
 ---
 
 # Benefits and Perks

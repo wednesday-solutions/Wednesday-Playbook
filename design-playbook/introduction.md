@@ -2,7 +2,7 @@
 description: Learn how we practice product design.
 ---
 
-# Introduction
+# Introduction to Our Design Playbook
 
 This handbook is for product designers. It explains our approach to product design - the what, how, when, and more.
 

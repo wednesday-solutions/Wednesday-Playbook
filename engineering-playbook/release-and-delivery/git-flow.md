@@ -1,7 +1,7 @@
 ---
 description: >-
-  A quick look at how Git-flow is utilized at Wednesday to visualize and ship
-  projects.
+  Git-flow is a git workflow strategy used to manage git branches. We use this
+  across several of our projects.
 ---
 
 # Git-flow

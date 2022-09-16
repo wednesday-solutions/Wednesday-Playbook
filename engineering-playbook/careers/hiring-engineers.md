@@ -12,7 +12,7 @@ description: >-
 
 Please go through the job description and the roles and responsibilities. This will help avoid any last-minute surprises.
 
-### 2. Technical Interview \(s\)
+### 2. Technical Interview (s)
 
 Upon receipt of your application, we will schedule technical interviews.
 
@@ -33,4 +33,3 @@ Upon receipt of your application, we will schedule technical interviews.
 * After each step in the interview process, we will let you know the outcome within 2-3 working days.
 * **Motivation**: All the work we do at Wednesday requires you to perform permutations and come up with a novel solution. There is no algorithm to do what we do. Given this what we look for are examples of what you have built on your own. Have you learned a new programming language? Have you built/contributed to an open-source project? If you've been doing it so far you'll continue to do it ahead.
 * We do not ask you to answer questions about algorithms you've learned in college. What we focus on is hands-on expertise with the frameworks you know.
-

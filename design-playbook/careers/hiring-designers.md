@@ -44,4 +44,3 @@ Depending on the seniority we may conduct two rounds of the design interview.
 ## **Miscellaneous**
 
 * After each step in the interview process we will let you know the outcome within 2-3 working days.
-

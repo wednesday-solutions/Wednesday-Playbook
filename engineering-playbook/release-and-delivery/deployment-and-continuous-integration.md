@@ -1,7 +1,7 @@
 ---
 description: >-
-  A brief look at how Wednesday uses Continuous Delivery and Integration deliver
-  software projects effectively.
+  A brief look at how Wednesday uses Continuous Delivery and Integration to
+  deliver software projects effectively.
 ---
 
 # Continuous Integration and Delivery
