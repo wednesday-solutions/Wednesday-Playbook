@@ -8,6 +8,7 @@
   * [Our Values](employee-handbook/how-we-work/our-values.md)
   * [Our Dream Team](employee-handbook/how-we-work/dream-team.md)
   * [Our Leave Policy](employee-handbook/how-we-work/leave-policy.md)
+  * [Out of Office](employee-handbook/how-we-work/out-of-office.md)
   * [Communication](employee-handbook/how-we-work/communication.md)
   * [Security Practices](employee-handbook/how-we-work/security-policy.md)
   * [Hiring Philosophy](employee-handbook/how-we-work/hiring-philosophy.md)
