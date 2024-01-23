@@ -18,9 +18,9 @@ Roadmap Creation_:_ The "Sprint 0" output is a tech roadmap. The short-term item
 
 _Execution:_ Flawed planning can still be overcome by immaculate execution. But not the other way. Never the other way. Battle-tested processes,  constant innovation and rapid adoption create a truly agile recipe for success, unlocking high-velocity teams that deliver.
 
-
-
+{% hint style="info" %}
 Customers acquired through Control usually move to Amplify once the extreme deadlines are met and product development is processified and seamless.
+{% endhint %}
 
 ### Sprint 0
 
