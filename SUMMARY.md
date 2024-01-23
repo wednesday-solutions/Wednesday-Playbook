@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Welcome to our Playbook](README.md)
+* [Services - What we do](services-what-we-do/README.md)
+  * [Launch - Startups and Early Stage Companies](services-what-we-do/launch-startups-and-early-stage-companies.md)
+  * [Amplify - Scaleups and Hyper-Growth Companies](services-what-we-do/amplify-scaleups-and-hyper-growth-companies.md)
+  * [Catalyse - For companies looking for staff augmentation services](services-what-we-do/catalyse-for-companies-looking-for-staff-augmentation-services.md)
+  * [Control - Fast-paced tight-deadline projects with moonshot ROI potential](services-what-we-do/control-fast-paced-tight-deadline-projects-with-moonshot-roi-potential.md)
 
 ## Employee Handbook
 
