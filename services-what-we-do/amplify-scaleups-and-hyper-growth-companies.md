@@ -19,10 +19,6 @@ _Build:_ This is the implementation phase - the magic is in being able to plan s
 ### Audit
 
 {% tabs %}
-{% tab title="Design Audits" %}
-ASOS reduced cart abandonment by 50% with better UX, while Expedia raked in $12mn by removing a single optional input field in the checkout form.
-{% endtab %}
-
 {% tab title="Code-base Audits" %}
 It is a detailed analysis of the codebase, the expected product flows, third-party integrations, & software choices. We’ll use tools for automation to reduce the time to get critical information and take data-driven action and decisions.
 
