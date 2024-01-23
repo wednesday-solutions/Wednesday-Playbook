@@ -24,11 +24,10 @@ While following these practices is important, it is equally important, if not mo
 
 In a nutshell
 
-[_**Launch**:_  Work with the customer to hit PMF](launch-startups-and-early-stage-companies.md)
+[_**Launch**_](launch-startups-and-early-stage-companies.md)_:_  Work with the customer to hit PMF
 
-[_**Amplify**_: Work with a post-PMF customer (could be a previous Launch customer) and help them scale sustainably and profitably.](amplify-scaleups-and-hyper-growth-companies.md)
+[_**Amplify**_:](amplify-scaleups-and-hyper-growth-companies.md) Work with a post-PMF customer (could be a previous Launch customer) and help them scale sustainably and profitably.
 
-[_**Catalyse**_: Work with conventions laid down by the customer to increase product development velocity.](catalyse-for-companies-looking-for-staff-augmentation-services.md)
+[_**Catalyse**_](catalyse-for-companies-looking-for-staff-augmentation-services.md): Work with conventions laid down by the customer to increase product development velocity.
 
-[_**Control**_: Work with enterprises on fast-paced tight-deadline projects with moonshot ROI.](control-fast-paced-tight-deadline-projects-with-moonshot-roi-potential.md)
-
+[_**Control**_](control-fast-paced-tight-deadline-projects-with-moonshot-roi-potential.md): Work with enterprises on fast-paced tight-deadline projects with moonshot ROI.
