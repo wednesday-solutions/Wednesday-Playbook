@@ -24,18 +24,11 @@ While following these practices is important, it is equally important, if not mo
 
 In a nutshell
 
-_**Launch**:_  Work with the customer to hit PMF
+[_**Launch**:_  Work with the customer to hit PMF](launch-startups-and-early-stage-companies.md)
 
-_**Amplify**_: Work with a post-PMF customer (could be a previous Launch customer) and help them scale sustainably and profitably.
+[_**Amplify**_: Work with a post-PMF customer (could be a previous Launch customer) and help them scale sustainably and profitably.](amplify-scaleups-and-hyper-growth-companies.md)
 
-_**Catalyse**_: Work with conventions laid down by the customer to increase product development velocity.
+[_**Catalyse**_: Work with conventions laid down by the customer to increase product development velocity.](catalyse-for-companies-looking-for-staff-augmentation-services.md)
 
-_**Control**_: Work with enterprises on fast-paced tight-deadline projects with moonshot ROI.
-
-|                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Launch - Startups and Early Stage Companies](launch-startups-and-early-stage-companies.md)                                                           |
-| [Amplify - Scaleups and Hyper-Growth Companies](amplify-scaleups-and-hyper-growth-companies.md)                                                       |
-| [Catalyse - For Companies looking for staff augmentation services](catalyse-for-companies-looking-for-staff-augmentation-services.md)                 |
-| [Control - Fast-paced tight-deadline projects with moonshot ROI potential](control-fast-paced-tight-deadline-projects-with-moonshot-roi-potential.md) |
+[_**Control**_: Work with enterprises on fast-paced tight-deadline projects with moonshot ROI.](control-fast-paced-tight-deadline-projects-with-moonshot-roi-potential.md)
 
