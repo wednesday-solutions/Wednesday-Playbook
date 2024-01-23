@@ -142,6 +142,5 @@
 ## Elsewhere
 
 * [Our Products](https://www.wednesday.is/building-products)
-* [The Wednesday Library](https://www.wednesday.is/reading)
 * [The Wednesday Show](https://podcast.wednesday.is/)
 * [Wednesday University](https://university.wednesday.is/)
