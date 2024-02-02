@@ -20,6 +20,8 @@ _Build:_ This is the implementation phase - the magic is in being able to plan s
 
 {% tabs %}
 {% tab title="Code-base Audits" %}
+#### Code-base Audits
+
 It is a detailed analysis of the codebase, the expected product flows, third-party integrations, & software choices. We’ll use tools for automation to reduce the time to get critical information and take data-driven action and decisions.
 
 The first thing to do when you’re in a hole is to stop digging. Essentially, you need to know what not to do. Instead of gut and intuition, we must use data to identify what not to do, and what is the highest priority items that need attention.&#x20;
@@ -34,6 +36,8 @@ _**Performance Profiling:**_ Profile the application across various Key User Flo
 {% endtab %}
 
 {% tab title="Infrastructure Audits" %}
+#### Infrastructure Audits
+
 This involves the identification of all the components in the infrastructure, the need for it, and its impact. This helps meeting economic, security, redundancy and traffic/scale needs.
 
 For example, a simple infrastructure refactor by Burns & McDonnel led to a 30% reduction in costs.&#x20;
@@ -53,7 +57,9 @@ _**Observability Audit:**_ Evaluate the level of visibility into the system - re
 _**Uptime & SLA Audit:**_ Configure or compute the UpTime information, and understand the current SLAs in place. In case of missing SLAs use the sample SLA doc by Praveen and work towards creating one specific for your project.&#x20;
 {% endtab %}
 
-{% tab title="Compliance Audit" %}
+{% tab title="Compliance Audits" %}
+#### Compliance Audits
+
 Depending on the vertical that the customers business is operating in they will be subject to certain compliance norms. We need to assess how these norms are applicable to them, and any potential breaches in them. We will provide a detailed report on how compliant the product and will offer recommendations on remedies.
 
 Heavy economic penalties are levied by regulators for non-compliance, and a breach could cause exposure of customer PII and other sensitive information that could irrevocably cause loss of reputation and customers.
@@ -74,6 +80,8 @@ _**Data Governance Audit:**_ Analyse the system to identify geographic footprint
 
 {% tabs %}
 {% tab title="Release Management" %}
+#### Release Management
+
 Release management is an art. You've been working tirelessly to get a better experience out to your users, don't miss the boat for not crossing a few t's and dotting some i's. \
 Release management is about deciding when to release, what activities to perform before the releases, during and after it. And then it's about doing all of those things. It starts from the very basics - what should this release include. You see what I did there, when you kick start a new endeavour, or a sprint the release cycle needs to be very clear. Good releases don't just happen, they are orchestrated.&#x20;
 
@@ -102,11 +110,11 @@ _**Rollback plan:**_ Though this is important I hope we never use it. If this is
 _**Dependency Mapping:**_ When you're releasing a part of an ecosystem it's important to ensure that the effort is coordinated across all verticals and there is alignment in the release strategy. \
 \
 _**Monitoring Observability:**_ We've already got alerts set up and we'll be proactively notified when the thresholds are breached - however post releasing, we've just added a new variable in the equation. Monitor very closely to ensure there are no signs of failure.&#x20;
-
-
 {% endtab %}
 
 {% tab title="Site Reliability Engineering" %}
+#### Site Reliability Engineering
+
 Each module, feature or product we build exists to provide value to the user and the business. It doesn't need to be an “all-or-nothing result” measured at the end of every year. \
 Engineering metrics determining the system’s ability and stability in providing value and an enhanced customer experience are primary indicators of whether we are poised to meet the product goals. \
 These include the number of errors, p99 response times, uptime, etc. When the metrics degrade beyond predefined thresholds, proactive alerting enables corrective actions before dramatic disasters.
@@ -144,10 +152,14 @@ _**Compliance & Security:**_ Successful Information Security (InfoSec) Audits, a
 {% endtab %}
 {% endtabs %}
 
+
+
 ### Build
 
 {% tabs %}
 {% tab title="Visualisation and Business Intelligence" %}
+#### Visualisation and Business Intelligence
+
 It includes collecting data about the user's activities, the screens they visit, and the difficulties they face. Data collection is the first part, and making sense of this data to forecast patterns, and predict outcomes requires it to be analysed through visualisations and algorithms.
 
 It enables us to identify feature acceptance & usage, increases understanding of user intents and encourages building features and products that enhance the user experience. It allows us to increase engagement and catalyse growth.
@@ -164,6 +176,8 @@ _**Visualisations and Intelligence:**_ Leverage tools like tableau, powoerBI, qu
 {% endtab %}
 
 {% tab title="Product Led Growth" %}
+#### Product Led Growth
+
 We use the product to fast-pace new user acquisition, and drive revenue through increased engagement of users. \
 \
 We've seen first hand the impact of the [Fogg Behavioural Model](https://behaviormodel.org/) and how the trio of Ability, Trigger and Motivation can work wonders in bringing about a change in behaviour. \

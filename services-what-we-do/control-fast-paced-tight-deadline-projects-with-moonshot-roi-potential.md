@@ -26,6 +26,8 @@ Customers acquired through Control usually move to Amplify once the extreme dead
 
 {% tabs %}
 {% tab title="Product Discovery" %}
+#### Product Discovery
+
 In this activity you need to understand the product and the codebase. Take stock of all data & user flows and understand the challenges preventing completion or causing friction.&#x20;
 
 Product and code immersion provides a fresh perspective and the context needed to understand the cause of problems and formulate a plan of action to better it after knowing the full picture. This reduces the probability of fixing something in one place while breaking 15 other things
@@ -54,6 +56,8 @@ _**Test Coverage Report:**_ Merge the reports from all the different automation 
 {% endtab %}
 
 {% tab title="Control Audit" %}
+#### Control Audit
+
 In order to provide immediate relief through quick action, this audit is focused on the problem areas. We quickly need to get down at the grass roots level and perform a Root Cause Analysis (RCA), reach out to Shounak for template for this. During this part of the engagement we need to identify the problem fast, and create a plan of action to validate the thought process and then implement it. \
 \
 During a Control audit you will perform the following activity for each incident type in terms of impact priority
@@ -68,10 +72,12 @@ _**Investigation and Root Cause Identification:**_ We will get information from 
 
 _**Implementation Plan:**_ Create a short-term implementation plan that will get you out of the current problem and bring back stability, scale, economic-control or whatever other problem this incident was causing.&#x20;
 
-_**Proposed Long Term Solution:**_ If in the interest of time and urgency the short term solution was just a stop-gap arrangement, carve out the long term solution to the incident in terms of a Technical Requirement Document (TRD)
+_**Proposed Long Term Solution:**_ If in the interest of time and urgency the short term solution was just a stop-gap arrangement, carve out the long term solution to the incident in terms of a Technical Requirement Document (TRD)&#x20;
 {% endtab %}
 
 {% tab title="Hygiene" %}
+#### Hygiene
+
 This is a quick way to get a lay of the land. Run the codebase, product, infra & config under automated tools to understand areas that require attention.&#x20;
 
 _**Conventions and Configurations:**_ Check what conventions are being followed. Understand if there is enough material to understand the conventions, and check if there are automated mechanisms to ensure that conventions are being followed.&#x20;
@@ -90,21 +96,23 @@ _**Reporting Processes:**_ Identify blackboxes in reporting data, mechanisms and
 
 {% tabs %}
 {% tab title="Short Term Roadmap" %}
+#### Short Term&#x20;
+
 These are low-effort, high-impact items that can bring immediate relief. You will focus on ensuring no breakages, missed packets, API timeouts, or process omissions. The motive needs first to be business continuity. Features or products may require drastic changes; however, those would go in the long-term roadmap. In the short term, we must focus on showcasing meaningful results with minimal changes.
 
 With a live product and customers who are upset, we don’t have the luxury of time on our side. The need of the hour is business continuity. All our energies should be focused on ensuring we don’t lose a single customer and a single customer doesn’t lose value from our product or faith in our product.
 
-Basis the findings of the Control Audit and the Hygiene steps we need to identify items that will cause maximum short term impact, and make sense to add in unison. Use this to create the short term roadmap. This should not exceed more than 3 months.&#x20;
+Basis the findings of the Control Audit and the Hygiene steps we need to identify items that will cause maximum short term impact, and make sense to add in unison. Use this to create the short term roadmap. This should not exceed more than 3 months. &#x20;
 {% endtab %}
 
 {% tab title="Long Term Roadmap" %}
+#### Long Term Roadmap
+
 Your long-term product roadmap consists of optimisations that will increase your digital product's efficiency, stability, visibility and resilience. This is done via refactoring, restructuring, introducing new infrastructure or software components, or removing components that are no longer useful, amongst a slew of other tactics.
 
 Market share highly depends on providing what the market seeks. Legacy, opaque, unreliable & unpredictable systems limit your ability to adapt to changing market dynamics and hence cause your digital product to lose its competitive edge.
 
 In the internet world, the rate of innovation makes even staying abreast a challenge, let alone adoption. If you’re not actively working on providing more valuable features, products and experiences to the customer matching rate of tech innovation, your users will flock to competitors that can.
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -112,12 +120,16 @@ In the internet world, the rate of innovation makes even staying abreast a chall
 
 {% tabs %}
 {% tab title="Increased Stability" %}
+#### Increased Stability
+
 Increasing stability will include proactive error reporting, monitoring and alerting. It comprises of a comprehensive automation test strategy. It'll include running chaos tests on Key User Flows ensuring that it always holds. &#x20;
 
 It involves release automation to ensure seamless and friction-free movement and adoption in multiple environments.&#x20;
 {% endtab %}
 
 {% tab title="Increased Visbility" %}
+#### Increased Visibility
+
 Increasing visibility involves getting insights into how the system is performing at any point in time and historically.&#x20;
 
 It should depict resource utilisation, consumption, lag & performance, amongst other parameters.&#x20;
@@ -128,6 +140,8 @@ An increased visibility into the system's performance and functioning allows for
 {% endtab %}
 
 {% tab title="Scale" %}
+#### Scale
+
 Scale doesn’t only refer to users, & activity on the digital product. It additionally refers to ease of adding more developers, more features, making changes to the existing product, and codebase as well.&#x20;
 
 Activities need to be performed to ensure that the digital product is ready to be extended and modified with ease, making sure that we can adapt to changing market conditions efficiently and elegantly.&#x20;

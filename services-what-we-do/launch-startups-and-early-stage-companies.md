@@ -20,6 +20,8 @@ _Planning:_ A product plan tailored specifically for your business vertical, env
 
 {% tabs %}
 {% tab title="Validate Assumptions" %}
+#### Validate Assumptions
+
 We'll use rapid prototyping, user testing, recruitment, interviews, competitor analysis and data-driven insights to create and validate the business idea.
 
 These activities help increase confidence and conviction in ideas. They also help refine existing products or ideas. A successful “_**Validate Assumptions**_” Exercise could lead to pivoting, stopping, or doubling down.
@@ -39,6 +41,8 @@ _**Surveys and Questionnaires:**_ Gather feedback through surveys and questionna
 {% endtab %}
 
 {% tab title="Product Architecture Definition" %}
+#### Product Architecture Definition
+
 We use the [C4 model](https://c4model.com/) for defining and visualising software & product architecture.&#x20;
 
 This assists with communication, efficient onboarding, architecture reviews/evaluation, risk identification, threat modelling, etc.
@@ -57,6 +61,8 @@ _**Systems Integration:**_ Demarcate external points of integration clearly and 
 {% endtab %}
 
 {% tab title="Cloud set-up and maintenance" %}
+#### Cloud set-up and maintenance
+
 Making a digital product available to the public requires it to be hosted online. This needs computing and storage capacity. Various companies like AWS and GCP allow you to rent the necessary resources. Over and above this - they provide managed services that handle maintenance and auto-management of certain functions.
 
 All Cloud Infrastructure creation and maintenance must be done via IaC (Infrastructure as Code). No manual or console-based deployments.&#x20;
@@ -81,6 +87,8 @@ _**Observability:**_ Having complete visibility into system operations, resource
 
 {% tabs %}
 {% tab title="Code Architecture Set up" %}
+#### Code Architecture Set up
+
 This involves setting up standard conventions, patterns, test coverage and automation strategies need to be followed across the project. This is where you set the bar for your code base.
 
 This enables consistency in your codebase. Makes onboarding, contributing to the project and building features easily.
@@ -105,6 +113,8 @@ _**Multi Environment:**_ Leverage .env files, environment specific file injectio
 {% endtab %}
 
 {% tab title="Release Automation" %}
+#### Release Automation
+
 The release process is the final step before getting your product in the hands of the customers. CI/CD, Phased rollouts, monitoring, alerting, and greater visibility into the system all make the release and post-release process smoother.
 
 Keeping this phase manual leaves a lot of chance and human error. Automating this process ensures there is no duplicate work or mistake. Release automation enables you to control the user experience and gives you insights into how the system performs, how it is being used, and what is the experience of your users.
@@ -127,6 +137,8 @@ _**Database Migrations:**_ Ensure that you have environment independent automate
 {% endtab %}
 
 {% tab title="Quality Control Strategy" %}
+#### Quality Control Strategy
+
 Different types of tests need to be used to validate the working of features. It includes **Functional testing**, **System testing**, **Performance testing**, & **Security testing.**
 
 It ensures that what we’re building doesn’t have bugs, and it works as intended in various different scenarios. It prevents the same issues from repeating, guarantees that your application is secure and your users are protected, your product is able to handle the required load, and is able to adapt with traffic fluctuations.
@@ -163,6 +175,8 @@ _**On Call Roster:**_ Our responsibility truly begins once the product hits our 
 
 {% tabs %}
 {% tab title="Ceremonies" %}
+#### Ceremonies
+
 Scheduled Scrum ceremonies serve as consistent checkpoints in the project journey. It's primarily focused at alignment in delivery execution, and hence addresses each phase of execution.\
 \
 These ceremonies create a clear path of execution eliminating any what, why or how questions during execution. It ensures everybody knows exactly what to do, how to do it, and why it needs to be done. It additionally includes a feedback mechanism where open and honest communication leads to better sprint-on-sprint collaboration. \
@@ -182,6 +196,8 @@ _**Sprint Retrospective:**_ The goal is to learn how to increase efficiency and 
 {% endtab %}
 
 {% tab title="Documentation" %}
+#### Documentation
+
 Documentation is done for alignment amongst all the different stakeholders. The documents that must be created before implementation are - BRD, PRD, & TRDs. Once the implementation begins, structured reporting must be done through Weekly Sprint Reviews and Sprint Release notes.
 
 Documentation helps create structure and alignment among all the stakeholders. Creating structure & alignment before implementation starts is critical in ensuring seamless execution. While you’re building the product a variety of other functions like marketing, sales, and customer success need to operate in tandem for business success - clarity and proper reporting is crucial for these functions to execute effortlessly.
@@ -197,11 +213,11 @@ _**Sprint Release Notes:**_ This report highlights effects, changes, and impact 
 _**Internal Governance Call Report:**_ This is a weekly call where important updates are shared to and reviewed by Senior Solutions Engineers. This is the right forum to highlight any decisions that you are even slightly on the fence about, or concerns with architecture or even if you'd like to understand the reason behind certain architecture choices.&#x20;
 
 _**Product Roadmap:**_ This is a living, breathing document that serves as the guiding light for the entire digital Product Development team. It could span out to a year, or a couple quarters. It'll ensure that all the teams are aligned in Delivery
-
-
 {% endtab %}
 
 {% tab title="Automated Code Quality Control" %}
+#### Automated Code Quality Control
+
 Automated tools can quantitatively tell you the quality of your code, and therefore your product while building it. We leverage various automated tools like for static code analysis, security vulnerabilities, coverage calculation, reporting and gate-keeping to build high-quality products.&#x20;
 
 It allows streamlining of effort, reduces time spent in bugfixes, number of regressions, and security vulnerabilities and improves the quality of the product and productivity of the team.
@@ -221,6 +237,8 @@ _**Security Vulnerabilities:**_ Use automated toolling like Snyk, CodeQL, Depend
 _**Code Smells:**_ Use static code analysis, & tools like sonarlint to identify codesmells and proactively remove it.&#x20;
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
