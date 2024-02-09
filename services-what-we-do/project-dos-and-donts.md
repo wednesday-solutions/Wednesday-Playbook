@@ -31,6 +31,6 @@ I wanted to have a quick heart-to-heart about how we can all do our best work wh
 
 That's pretty much it. Simple, right? Just a few things to keep in mind as we do what we do best. Here's to making great stuff together and having a good time doing it.
 
-I'll see you on slack,\
+I'll see you on Slack,\
 Mac.
 
