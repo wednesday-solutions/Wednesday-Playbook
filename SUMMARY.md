@@ -7,6 +7,7 @@
   * [Catalyse - For companies looking for staff augmentation services](services-what-we-do/catalyse-for-companies-looking-for-staff-augmentation-services.md)
   * [Control - Fast-paced tight-deadline projects with moonshot ROI potential](services-what-we-do/control-fast-paced-tight-deadline-projects-with-moonshot-roi-potential.md)
   * [Ceremonies](services-what-we-do/ceremonies.md)
+  * [Project do's and don'ts](services-what-we-do/project-dos-and-donts.md)
 
 ## Employee Handbook
 
