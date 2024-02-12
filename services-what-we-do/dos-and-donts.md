@@ -2,7 +2,7 @@
 description: A few things that help us have fun, and deliver better.
 ---
 
-# Project do's and don'ts
+# Do's and don'ts
 
 Hey Team,
 

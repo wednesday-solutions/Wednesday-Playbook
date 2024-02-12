@@ -19,19 +19,19 @@ There are 5 steps to take whenever you instruct the reader to write some code:
 If you have a code block that needs more than one paragraph to explain, you should comment on different lines in the code block and include an ordered list to explain the code section by section.
 
 `import SpriteKit class GameScene: SKScene {`\
-``\
+\
 &#x20; `// 1`\
-``\
+\
 &#x20; `let player = SKSpriteNode(imageNamed: "player")`\
-``\
+\
 &#x20; `override func didMoveToView(view: SKView) {`\
-``\
+\
 &#x20;   `// 2`\
 &#x20;   `backgroundColor = SKColor.whiteColor()`\
-``\
+\
 &#x20;   `// 3`\
 &#x20;   `player.position = CGPoint(x: size.width * 0.1, y: size.height * 0.5)`\
-``\
+\
 &#x20;   `// 4`\
 &#x20;   `addChild(player)`\
 &#x20; `}`\

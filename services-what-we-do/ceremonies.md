@@ -37,3 +37,9 @@ These sessions are geared towards cross-functional sharing across the delivery t
 
 These are informal sharing sessions that need to be facilitated by Managers/Leads for intra-team sharing sessions. Use this to remove blind spots and democratise information about the project. Use it to share product and tech innovation opportunities. This isn’t a world is my oyster situation - it’s a bounded session where what we’re discussing affects and is part of the project that we’re on in some way or form.
 
+#### Cross Product Audits
+
+This practice fosters inter-team learning and encourages accountability. It involves performing external audits on products being built by the other teams at Wednesday.  The team being audited prepares for the audit by providing all of the necessary documentation needed for an external audit. The audit duration is capped at a week and includes performance, security, conventions, coding practices, automation, and stability audits. The auditing team fills out a report and submits their findings and learnings.
+
+
+

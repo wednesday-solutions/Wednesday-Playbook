@@ -6,7 +6,11 @@ description: Wednesday logos.
 
 ### Wednesday Logo
 
-![Wednesday logo](../../.gitbook/assets/wednesday\_logo.svg)
+<div align="center">
+
+<img src="../../.gitbook/assets/wednesday_logo.svg" alt="Wednesday logo">
+
+</div>
 
 ### Wednesday Logo Shorthand
 

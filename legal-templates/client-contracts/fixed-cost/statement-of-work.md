@@ -34,7 +34,7 @@ Parties agree to the following terms herein;
 |                      |                                                   |                                                                |
 |                      |                                                   |                                                                |
 
-* **Leaves**: Client agrees that Personnel performing Services or while delivering Deliverables under this SOW are eligible for leaves/holidays as mentioned [here](../../../employee-handbook/benefits-and-perks/). ****&#x20;
+* **Leaves**: Client agrees that Personnel performing Services or while delivering Deliverables under this SOW are eligible for leaves/holidays as mentioned [here](../../../employee-handbook/benefits-and-perks/).&#x20;
 
 ### 4.  Obligations of parties
 
@@ -107,7 +107,7 @@ Invoices shall be raised as per the timelines specified in the table below:
 
 ### **10. Work Location:**&#x20;
 
-&#x20;**** Pune, Maharashtra
+&#x20;Pune, Maharashtra
 
 ### **11.  Additional Terms:** &#x20;
 
@@ -115,7 +115,7 @@ Invoices shall be raised as per the timelines specified in the table below:
 
 ### **12.  Change Request:**
 
-&#x20;**** No terms of this SOW or Annexures in this SOW will be modified or amended, except by, execution of the change order in the format attached as Annexure A.   Any mutually agreed and executed change requests will have a commercial impact on the fees on an hourly basis as it will not form a part of the fixed price project**.**
+&#x20;No terms of this SOW or Annexures in this SOW will be modified or amended, except by, execution of the change order in the format attached as Annexure A.   Any mutually agreed and executed change requests will have a commercial impact on the fees on an hourly basis as it will not form a part of the fixed price project**.**
 
 ### **13.  Hourly Rates:**
 

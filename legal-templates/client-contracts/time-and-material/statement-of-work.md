@@ -71,7 +71,7 @@ The SOW shall remain valid until the Parties terminate the Agreement or Either P
 
 #### Hourly Rates:
 
-1. &#x20;**** Rates specified in the table above are exclusive of applicable taxes and shall be charged extra.
+1. &#x20;Rates specified in the table above are exclusive of applicable taxes and shall be charged extra.
 2. &#x20;Invoices shall be raised at the end of each month as per the hourly rates, assuming minimum of 8 hours (“Working Hours”) of work during Monday through Friday and <<20>> working days a month.  In the event Wednesday’s personnel render Services on public holidays, weekends, or beyond Working Hours, same will be invoiced to Client.
 3. Rates agreed under this SOW shall for a period agreed between the Parties, subject to revision by Wednesdays at its discretion.
 

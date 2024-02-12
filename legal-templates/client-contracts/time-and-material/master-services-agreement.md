@@ -19,7 +19,7 @@ Wednesday and <\<CLIENT>> shall be referred to individually as Party, and jointl
 **WHEREAS:**
 
 1. Wednesday is an IT design and development Company with knowledge in specific domains and is engaged inter alia in the business of providing services in relation to Product Design and Software Development.
-2. &#x20;<\<CLIENT>> **** desires that Wednesday to provide certain Services to Client, on the terms and conditions set forth below and as defined in the respective Statement(s) of Work
+2. &#x20;<\<CLIENT>> desires that Wednesday to provide certain Services to Client, on the terms and conditions set forth below and as defined in the respective Statement(s) of Work
 
 **NOW, THEREFORE, in consideration of the foregoing recitals, of the mutual terms and conditions of this Agreement, and for other good and valuable consideration, the receipt and adequacy of which are acknowledged, the Parties agree as follows**:
 
@@ -68,7 +68,7 @@ Client shall own the rights, title and interest in and to all Intellectual Prope
 * The confidentiality obligations specified in this Agreement shall not apply to any Confidential Information which:
 
 1. &#x20;is generally available to the public;
-2. &#x20;**** is in the Receiving Party's possession prior to receiving it;
+2. &#x20;is in the Receiving Party's possession prior to receiving it;
 3. is lawfully disclosed to the Receiving Party by a third party who to the best of Receiving Party’s knowledge does not bear a confidentiality obligation to the other party;  &#x20;
 4. was independently developed by the Receiving Party without use of the Confidential Information;
 5. is disclosed by the Receiving Party with the Disclosing Party’s prior approval in writing.   &#x20;
