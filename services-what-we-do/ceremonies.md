@@ -41,5 +41,9 @@ These are informal sharing sessions that need to be facilitated by Managers/Lead
 
 This practice fosters inter-team learning and encourages accountability. It involves performing external audits on products being built by the other teams at Wednesday.  The team being audited prepares for the audit by providing all of the necessary documentation needed for an external audit. The audit duration is capped at a week and includes performance, security, conventions, coding practices, automation, and stability audits. The auditing team fills out a report and submits their findings and learnings.
 
+#### Internal Governance Call
+
+This is a review meeting. We look back on what was done within the last week and ensure we are on track, and we look ahead towards what's coming and ensure we're heading in the right direction. This is a checkpoint in your Sprint. We demo progress and accomplishments to the Engineering Project Head and run through any ideas or items that require clarity. Any items discussed here should be noted, and we should take steps to address this genre in the Backlog Groomings itself. This is a good avenue to discuss discrepancies in TRDs and/or explain comments on TRDs created in the previous week. Comments and directions on Audit results should be further discussed here.&#x20;
+
 
 
