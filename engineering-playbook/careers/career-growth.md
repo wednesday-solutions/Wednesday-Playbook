@@ -8,7 +8,7 @@ description: >-
 
 Titles are external only. An environment where people have a "this is not a part of my job description" attitude is not what we like. Titles however allow our customers to understand your roles and responsibilities.
 
-<figure><img src="../../.gitbook/assets/Wednesday Career Ladder.png" alt="" width="375"><figcaption><p>Wednesday Career Ladder</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Wednesday Career Ladder (1).png" alt="" width="563"><figcaption><p>Wednesday Career Ladder</p></figcaption></figure>
 
 ## Roles & Responsibilities
 
