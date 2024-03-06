@@ -44,7 +44,7 @@ You’re expected to have vertical depth and expertise in your and your team's d
 
 You’ll work closely with the sales team to target, engage and close new customers. You will work with the marketing teams to organise conferences, meetups and other endeavours that put Wednesday’s name out there and give back to the community.
 
-<table><thead><tr><th width="157">Functions</th><th width="133">PM</th><th width="171">Sr. PM</th><th>Lead PM</th></tr></thead><tbody><tr><td><strong>Hiring</strong></td><td>Interviews</td><td>Hiring Goals</td><td>Ensure Hiring is done</td></tr><tr><td><strong>Marketing</strong></td><td>Writing</td><td>Speaking</td><td>Organising</td></tr><tr><td><strong>Sales</strong></td><td>Sprint 0</td><td>Pre-Sales</td><td>End-to-end</td></tr><tr><td><strong>Delivery</strong></td><td>Documented, on-time, high-quality, work towards PLG</td><td>PLG, Account management, growth, Cross team audits, and parity.</td><td>Framework creation, Account expansion, Business Strategy.</td></tr></tbody></table>
+<table><thead><tr><th>Functions</th><th width="167">PM</th><th width="213">Sr. PM</th><th>Lead PM</th></tr></thead><tbody><tr><td><strong>Hiring</strong></td><td>Interviews</td><td>Hiring Goals</td><td>Ensure Hiring is done</td></tr><tr><td><strong>Marketing</strong></td><td>Writing</td><td>Speaking</td><td>Organising</td></tr><tr><td><strong>Sales</strong></td><td>Sprint 0</td><td>Pre-Sales</td><td>End-to-end</td></tr><tr><td><strong>Delivery</strong></td><td>Documented, on-time, high-quality, work towards PLG</td><td>PLG, Account management, growth, Cross team audits, and parity.</td><td>Framework creation, Account expansion, Business Strategy.</td></tr></tbody></table>
 
 ## Appraisals
 
