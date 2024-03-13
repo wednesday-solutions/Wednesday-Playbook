@@ -148,7 +148,7 @@ Activities need to be performed to ensure that the digital product is ready to b
 
 Additional activities need to be performed to ensure that the team can be extended, and scaled efficiently when the need arrives.&#x20;
 
-The goal of any business is to do more - it could mean selling to more customers, or selling more to existing customers. However when you’re product gains or traction, or acceptance, tech shouldn't be the limiting factor for growth. It must scale as the business grows.
+The goal of any business is to do more - it could mean selling to more customers or selling more to existing customers. However, when you’re product gains traction or acceptance, tech shouldn't be the limiting factor for growth. It must scale as the business grows.
 {% endtab %}
 {% endtabs %}
 
