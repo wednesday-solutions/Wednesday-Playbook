@@ -4,16 +4,13 @@ description: The list of holidays observed at Wednesday.
 
 # Holiday List
 
-| 2  | Republic Day          | 26-Jan-2023 |
-| -- | --------------------- | ----------- |
-| 3  | Holi                  | 08-Mar-2023 |
-| 4  | Ambedkar Jayanti      | 14-Apr-2023 |
-| 5  | Eid                   | 22-Apr-2023 |
-| 6  | Independence Day      | 15-Aug-2023 |
-| 7  | Gandhi Jayanti        | 02-Oct-2023 |
-| 8  | Deepawali             | 12-Nov-2023 |
-| 9  | Christmas             | 25-Dec-2023 |
-| 10 | Winter Shutdown (PTO) | 28-Dec-2023 |
-| 11 | Winter Shutdown (PTO) | 29-Dec-2023 |
-| 12 | Winter Shutdown (PTO) | 30-Dec-2023 |
-| 13 | Winter Shutdown (PTO) | 31-Dec-2023 |
+| 2  | Republic Day     | 26-Jan-202 |
+| -- | ---------------- | ---------- |
+| 3  | Holi             | -Mar-202   |
+| 4  |                  | 1-Apr-202  |
+| 5  |                  | --202      |
+| 6  | Independence Day | 15-Aug-202 |
+| 7  | Gandhi Jayanti   | 02-Oct-202 |
+| 8  | Deepawali        | --202      |
+| 9  |                  | --202      |
+| 10 |                  | 2-Dec-202  |
