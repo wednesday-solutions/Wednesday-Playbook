@@ -10,8 +10,9 @@ Time-off can help you rejuvenate and clear your mind. This is critical to do you
 
 | **Leave Type**       | **Duration in days** |
 | -------------------- | -------------------- |
-| Marriage Leave       | 5                    |
 | Sick & Casual Leaves | 8                    |
+| Annual Leave         | 8                    |
+| Marriage Leave       | 5                    |
 | Paternity Leave      | 5                    |
 | Maternity Leave      | 84 - 182             |
 
