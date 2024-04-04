@@ -16,14 +16,14 @@ In a nutshell, project management involves two activities:
 
 ### Product Management Workflow
 
-* Product
+* **Product**
   * Runs 3 Sprints ahead of Engineering i.e planning and creating tickets and details for (t+45) - (t+60) days
   * Detailed small tickets so that there is lesser ambiguity and lower probability of rollover
   * Creates the BRD, PRD and Product Roadmap, Release Plan, etc.
-* Design
+* **Design**
   * Runs 2 Sprints ahead of Engineering i.e working on designs that will be picked up by Engineering in (t+15) - (t+30) days
   * Mockups, Low & High Fidelity Designs, Prototypes, Design-Dev Handover.
-* Engineering
+* **Engineering**
   * Engineering Leads are running 1 sprint ahead of the rest of Engineering i.e working on ensuring absolute clarity for items that the Engineering team will take up in (t+15) days
 
 <figure><img src="../.gitbook/assets/Product Management Workflow.png" alt=""><figcaption><p>Product Management Workflow</p></figcaption></figure>
