@@ -6,7 +6,7 @@ description: >-
 
 # Sprint Planning
 
-A sprint planning session is held on the first day of a sprint. A sprint for us is usually two weeks long.
+A sprint for us is usually two weeks long.
 
 ### What is it?
 

@@ -8,7 +8,7 @@ The role of a project manager is different in different companies. This book out
 
 This book is meant for both customers and people interested in working with us. If you’re the latter it will help you understand what we expect & if you’re a customer it will help you understand what to expect.
 
-In a nutshell, project management involves two activities:
+In a nutshell, project management involves the folllowing activities:
 
 * **Stakeholder Management**: Our motto is to "Teach and Tailor". Understand what the customer wants. Educate them about software development practices and tailor a solution that helps their business.
 * **Product Management**: Understand business goals, study different actors in the system, and work with the customer to build product workflows.
