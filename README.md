@@ -14,7 +14,7 @@ After reading this if you feel like this is a place where you'd like to work ple
 
 | Table of Contents                                                    |
 | -------------------------------------------------------------------- |
-| [Services - What we do](services-what-we-do/)                        |
+| [Services - What we do](what-we-do/our-services/)                    |
 | [Employee Handbook](employee-handbook/hiring-at-wednesday/)          |
 | [Engineering Playbook](engineering-playbook/engineering-handbook.md) |
 | [Design Playbook](broken-reference)                                  |

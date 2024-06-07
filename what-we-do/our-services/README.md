@@ -1,7 +1,7 @@
 ---
 description: >-
   Every successful product begins as an idea, but its journey to success is
-  complex and unique. The key lies in prioritising the right steps at the right
+  complex and unique. The key lies in prioritizing the right steps at the right
   time.
 layout:
   title:
@@ -16,7 +16,7 @@ layout:
     visible: false
 ---
 
-# Services - What we do
+# Our Services
 
 Through experience and failure, by observing and driving growth for various products, we’ve created battle-tested frameworks and processes tailored to different stages of product development. These theoretical models and real-world solutions are forged together, forming the base of our four core service lines.&#x20;
 

@@ -1,13 +1,21 @@
 # Table of contents
 
 * [Welcome to our Playbook](README.md)
-* [Services - What we do](services-what-we-do/README.md)
-  * [Catalyse - For companies looking for staff augmentation services](services-what-we-do/catalyse-for-companies-looking-for-staff-augmentation-services.md)
-  * [Launch - Startups and Early Stage Companies](services-what-we-do/launch-startups-and-early-stage-companies.md)
-  * [Control - Fast-paced tight-deadline projects with moonshot ROI potential](services-what-we-do/control-fast-paced-tight-deadline-projects-with-moonshot-roi-potential.md)
-  * [Amplify - Scaleups and Hyper-Growth Companies](services-what-we-do/amplify-scaleups-and-hyper-growth-companies.md)
-  * [Do's and don'ts](services-what-we-do/dos-and-donts.md)
-  * [Ceremonies](services-what-we-do/ceremonies.md)
+
+## What we do
+
+* [Our Services](what-we-do/our-services/README.md)
+  * [Catalyse - For companies looking for staff augmentation services](what-we-do/our-services/catalyse-for-companies-looking-for-staff-augmentation-services.md)
+  * [Launch - Startups and Early Stage Companies](what-we-do/our-services/launch-startups-and-early-stage-companies.md)
+  * [Control - Fast-paced tight-deadline projects with moonshot ROI potential](what-we-do/our-services/control-fast-paced-tight-deadline-projects-with-moonshot-roi-potential.md)
+  * [Amplify - Scaleups and Hyper-Growth Companies](what-we-do/our-services/amplify-scaleups-and-hyper-growth-companies.md)
+  * [Do's and don'ts](what-we-do/our-services/dos-and-donts.md)
+  * [Ceremonies](what-we-do/our-services/ceremonies.md)
+* [Our Partner Programs](what-we-do/our-partner-programs/README.md)
+  * [Agency Partner Program](what-we-do/our-partner-programs/agency-partner-program.md)
+  * [Advisor/Consultant Partner Program](what-we-do/our-partner-programs/advisor-consultant-partner-program.md)
+  * [Investor Partner Program](what-we-do/our-partner-programs/investor-partner-program.md)
+  * [Developer Tooling Partner Program](what-we-do/our-partner-programs/developer-tooling-partner-program.md)
 
 ## Employee Handbook
 
