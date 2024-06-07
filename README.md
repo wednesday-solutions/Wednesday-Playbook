@@ -10,21 +10,20 @@ At Wednesday we're working hard to build an environment that is inclusive, open,
 
 As we grow we were looking for a place to write the policies & processes we follow and what we are looking for while hiring. By no means is this playbook complete, in fact, this is ever-evolving and will continue to change as we grow. We encourage everyone to provide their feedback and suggestions. We love positive discussions as that is the only way to build an inclusive workplace.
 
-After reading this if you feel like this is a place where you'd like to work please take a look at the open positions [here](https://www.wednesday.is/hiring).
+After reading this, if you feel like this is a place where you'd like to work, please take a look at the open positions here.
 
-| Table of Contents                                                    |
-| -------------------------------------------------------------------- |
-| [Services - What we do](what-we-do/our-services/)                    |
-| [Employee Handbook](employee-handbook/hiring-at-wednesday/)          |
-| [Engineering Playbook](engineering-playbook/engineering-handbook.md) |
-| [Design Playbook](broken-reference)                                  |
-| [Project Management Playbook](broken-reference)                      |
-| [Communications](broken-reference)                                   |
-| [Legal Templates](legal-templates/client-contracts/)                 |
-| [Showroom](https://www.wednesday.is/showroom)                        |
-| [The Wednesday Library](https://wednesday.is/reading)                |
-| [The Wednesday Show](https://podcast.wednesday.is/)                  |
-| [Wednesday University](https://university.wednesday.is/)             |
+| Table of Contents                                        |
+| -------------------------------------------------------- |
+| [What we do](broken-reference)                           |
+| [Employee Handbook](broken-reference)                    |
+| [Engineering Playbook](broken-reference)                 |
+| [Design Playbook](broken-reference)                      |
+| [Project Management Playbook](broken-reference)          |
+| [Communications](broken-reference)                       |
+| [Legal Templates](legal-templates/client-contracts/)     |
+| [Showroom](https://www.wednesday.is/showroom)            |
+| [The Wednesday Show](https://podcast.wednesday.is/)      |
+| [Wednesday University](https://university.wednesday.is/) |
 
 ### Acknowledgments
 
