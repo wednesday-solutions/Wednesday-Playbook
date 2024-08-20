@@ -91,7 +91,7 @@ History is littered with examples of bad release management, for example, Knight
 \
 Here's a list of the different activities that we perform to enable smooth releases:\
 \
-_**Release Planning:**_ At the minimum we aspire to have a production release at the end of every release. What goes as part of this release needs to be clear before beginning the sprint. Parallel features in a release need to be accounted for with feature flags, we never want to hold back the release if a ticket isn't ready.&#x20;
+_**Release Planning:**_ At the minimum we aspire to have a production release at the end of every Sprint. What goes as part of this release needs to be clear before beginning the sprint. Parallel features in a release need to be accounted for with feature flags, we never want to hold back the release if a ticket isn't ready.&#x20;
 
 _**Sprint Release Notes:**_** SPRs** create transparency. It clearly highlights what the objectives of the release are, what artefacts are produced, performance metrics, deviation in quarterly goals, retrospective points, important decisions, etc. It's a checkpoint in the product journey and serves as a window into that release for future reference. \
 \
