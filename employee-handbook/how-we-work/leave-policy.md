@@ -47,13 +47,13 @@ As per the Maternity Benefit Act, eligible moms get paid leave and job protectio
 
 #### Note
 
-1. _You're eligible if you have worked for at least 80 days in the 12 months preceding your expected delivery date._
-2. _You can avail 26 weeks of paid leave for the first two children and 12 weeks for subsequent children._
-3. _You can take up to 8 weeks of this leave before your due date, allowing flexibility to prepare for childbirth._
-4. _You're also eligible for 6 weeks of leave in case of miscarriage or medical termination of pregnancy._
-5. _During the maternity leave, working for any other employer will terminate your employment with Wednesday._
-6. _Upon availing of this leave, you will be exempted from the regular performance cycle._
-7. _Try and give your team as much advance notice as possible._
+1. You're eligible if you have worked for at least 80 days in the 12 months preceding your expected delivery date.
+2. You can avail 26 weeks of paid leave for the first two children and 12 weeks for subsequent children.
+3. You can take up to 8 weeks of this leave before your due date, allowing flexibility to prepare for childbirth.
+4. You're also eligible for 6 weeks of leave in case of miscarriage or medical termination of pregnancy.
+5. During the maternity leave, working for any other employer will terminate your employment with Wednesday.
+6. Upon availing of this leave, you will be exempted from the regular performance cycle.
+7. Try and give your team as much advance notice as possible.
 
 ***
 
@@ -64,6 +64,8 @@ Team members may request Comp Off for working on weekends.
 1. Please note that approval from both the reporting manager and delivery head is required.
 2. Additionally, kindly ensure that the client is informed regarding the same.
 
+***
+
 ## Guidelines on how to apply for leaves
 
 Making sure your leave requests are smooth and efficient:
@@ -72,6 +74,8 @@ Making sure your leave requests are smooth and efficient:
 2. Let your manager/team know. This will allow them to support you during your absence, ensuring a smoother workflow for everyone. Aim to inform them 1-2 weeks before your planned leave.
 3. Remember to drop an email to [hr@wednesday.is](mailto:hr@wednesday.is) for your leave request.
 4. Absence without prior notice or approval will be treated as unapproved absence and may result in loss of pay or disciplinary action.
+
+***
 
 ## Miscellaneous&#x20;
 
