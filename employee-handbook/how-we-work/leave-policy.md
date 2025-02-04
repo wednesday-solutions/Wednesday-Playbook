@@ -32,7 +32,7 @@ The calendar year, i.e., starting 1st January to 31st December is what we use to
 3. Unused leave balances from each quarter carry over to the next, so you can plan your time off flexibly.
 4. You can carry forward your unused leave days for next year up to a maximum of 45 days.
 
-_Note:_
+### _Note:_
 
 * **Encashment:**
   * If you apply for annual leave at least 15 days in advance, and Wednesday refuses to approve it, you can encash any leave beyond 45 days.
