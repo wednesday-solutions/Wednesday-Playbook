@@ -45,7 +45,7 @@ The calendar year, i.e., starting 1st January to 31st December is what we use to
 
 As per the Maternity Benefit Act, eligible moms get paid leave and job protection (up to 26 weeks).
 
-_Note:_
+#### Note
 
 1. _You're eligible if you have worked for at least 80 days in the 12 months preceding your expected delivery date._
 2. _You can avail 26 weeks of paid leave for the first two children and 12 weeks for subsequent children._
@@ -81,4 +81,6 @@ Making sure your leave requests are smooth and efficient:
 4. For employees joining mid-year, leave entitlement will be calculated from the date of joining.
 5. This policy is subject to periodic review and may be amended in line with changes to applicable laws or company requirements.
 
-_Note: The above policies are only applicable to full-time employees. Interns are allowed sick leaves only._
+#### Note
+
+The above policies are only applicable to full-time employees. Interns are allowed sick leaves only.&#x20;
