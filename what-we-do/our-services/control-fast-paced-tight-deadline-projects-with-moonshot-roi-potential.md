@@ -14,7 +14,7 @@ These engagements will go through 3 phases:
 
 _Sprint 0:_ Sprint 0 helps you understand the problem's context and cause. Context is crucial; each problem is unique, and each situation requires understanding the different variables involved to be able to do more harm than good.
 
-Roadmap Creation_:_ The "Sprint 0" output is a tech roadmap. The short-term items need to be low-effort, high-impact changes that can bring about immediate relief. The long-term roadmap must align with the state of utopia the product should be in.
+Roadmap Creatio&#x6E;_:_ The "Sprint 0" output is a tech roadmap. The short-term items need to be low-effort, high-impact changes that can bring about immediate relief. The long-term roadmap must align with the state of utopia the product should be in.
 
 _Execution:_ Flawed planning can still be overcome by immaculate execution. But not the other way. Never the other way. Battle-tested processes,  constant innovation and rapid adoption create a truly agile recipe for success, unlocking high-velocity teams that deliver.
 

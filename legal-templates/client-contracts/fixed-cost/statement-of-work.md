@@ -115,7 +115,7 @@ Invoices shall be raised as per the timelines specified in the table below:
 
 ### **12.  Change Request:**
 
-&#x20;No terms of this SOW or Annexures in this SOW will be modified or amended, except by, execution of the change order in the format attached as Annexure A.   Any mutually agreed and executed change requests will have a commercial impact on the fees on an hourly basis as it will not form a part of the fixed price project**.**
+&#x20;No terms of this SOW or Annexures in this SOW will be modified or amended, except by, execution of the change order in the format attached as Annexure A.   Any mutually agreed and executed change requests will have a commercial impact on the fees on an hourly basis as it will not form a part of the fixed price projec&#x74;**.**
 
 ### **13.  Hourly Rates:**
 

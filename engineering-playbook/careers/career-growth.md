@@ -54,4 +54,4 @@ At this junction, responsibilities move towards owning business verticals and se
 
 ## Appraisals
 
-The appraisal policy has been documented [here](../../employee-handbook/employment-policies/performance-appraisal-policy/)
+The appraisal policy has been documented [here](../../employee-handbook/employment-policies/performance-appraisal-policy.md)

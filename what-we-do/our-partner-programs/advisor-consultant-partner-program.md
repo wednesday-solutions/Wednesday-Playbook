@@ -8,7 +8,7 @@ This program has been created to partner with independent advisors & consultants
 
 ### Evaluation Criteria
 
-* _Relevant Experience:_ Wednesday has a deep understanding of Health Tech, Ed Tech, Fin Tech, and Consumer Tech_._ We’re looking for partners with experience in these verticals.
+* _Relevant Experience:_ Wednesday has a deep understanding of Health Tech, Ed Tech, Fin Tech, and Consumer Tec&#x68;_._ We’re looking for partners with experience in these verticals.
 * _Strategic Alignment:_ Our goal is to use our expertise in Data Engineering, Product Development, & Applied AI to build digital products. We’re looking for people who advise businesses that require digital solutions for their customers.
 * _Business Growth:_ We closely track gross revenue per partner, new client acquisition, profit generated for partners, end client NPS score, and more. We’re looking for partners who also obsess over these metrics.
 * _Long-Term Relationship Potential:_ We’re in it for the long run and are looking for partners who share our goals.

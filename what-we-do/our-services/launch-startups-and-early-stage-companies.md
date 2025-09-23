@@ -133,7 +133,7 @@ _**Static Code Analysis:**_ Use tools like SonarQube and Codacy to leverage stat
 
 _**Coverage Annotations**_**:** Use test coverage annotation tools to highlight missed lines of code in-place on the PR itself. \
 \
-_**Database Migrations:**_ Ensure that you have environment independent automated database migration and rollback scripts.
+&#xNAN;_**Database Migrations:**_ Ensure that you have environment independent automated database migration and rollback scripts.
 {% endtab %}
 
 {% tab title="Quality Control Strategy" %}
@@ -182,9 +182,9 @@ Scheduled Scrum ceremonies serve as consistent checkpoints in the project journe
 These ceremonies create a clear path of execution eliminating any what, why or how questions during execution. It ensures everybody knows exactly what to do, how to do it, and why it needs to be done. It additionally includes a feedback mechanism where open and honest communication leads to better sprint-on-sprint collaboration. \
 \
 \
-_**Backlog Refinement:**_ Prior to these sessions the Product Owner along with key stakeholders must ensure that the backlog has been prioritised. These are one-hour sessions conducted once per week within which implementation team members will be briefed on the contents of the outcomes and the acceptance criteria for each of the items in the backlog, and will then issue story point estimates for them using [planning poker](https://www.planningpoker.com/) or other mechanisms.  It's important that each member already goes through the Product Backlog before the meeting. This is not a discovery session.\
+&#xNAN;_**Backlog Refinement:**_ Prior to these sessions the Product Owner along with key stakeholders must ensure that the backlog has been prioritised. These are one-hour sessions conducted once per week within which implementation team members will be briefed on the contents of the outcomes and the acceptance criteria for each of the items in the backlog, and will then issue story point estimates for them using [planning poker](https://www.planningpoker.com/) or other mechanisms.  It's important that each member already goes through the Product Backlog before the meeting. This is not a discovery session.\
 \
-_**Sprint Planning:**_ This ceremony is conducted 2 days before the start of the Sprint. In most cases we run 2-week sprints. Prior to this meeting we need to ensure that the goal and the objectives of the sprint have already been defined and are clear to everyone. In this meeting we simply join, distribute the work, do a sanity check to make sure that we haven’t missed anything, the plan of execution doesn’t block individual, etc. This meeting should also account for any _**“aha”**_ moment that the team members could have after the **Backlog** **Refinement**
+&#xNAN;_**Sprint Planning:**_ This ceremony is conducted 2 days before the start of the Sprint. In most cases we run 2-week sprints. Prior to this meeting we need to ensure that the goal and the objectives of the sprint have already been defined and are clear to everyone. In this meeting we simply join, distribute the work, do a sanity check to make sure that we haven’t missed anything, the plan of execution doesn’t block individual, etc. This meeting should also account for any _**“aha”**_ moment that the team members could have after the **Backlog** **Refinement**
 
 _**Daily Standup Meeting:**_ This is your daily check-in meeting. Each person provides an update on what they worked on since we last spoke, what they are working on, and if they are blocked on anything. Prior to this meeting each member must ensure that they have updated the board to reflect the latest status of their work. Other than the routine updates, use this meeting to share quick learnings that you have with the team - if it requires more than the stipulated 15 minutes consider organising brown-bag lunches with interested folks.&#x20;
 

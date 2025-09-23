@@ -3,17 +3,6 @@ description: >-
   Every successful product begins as an idea, but its journey to success is
   complex and unique. The key lies in prioritizing the right steps at the right
   time.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Our Services
