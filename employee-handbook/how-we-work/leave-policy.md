@@ -27,10 +27,11 @@ The calendar year, i.e., starting 1st January to 31st December is what we use to
 
 ### Annual Leave (AL)
 
-1. You will be credited 4 additional leaves at the beginning of the year 2025, representing the balance of the annual earned leave entitlement for 2024.
-2. For new joiners, once you hit your 90-day mark during your probation, you'll be eligible to take some well-deserved time off with annual leaves (on a pro-rata basis).
-3. Unused leave balances from each quarter carry over to the next, so you can plan your time off flexibly.
-4. You can carry forward your unused leave days for next year up to a maximum of 45 days.
+1. Employees are entitled to 12 days of Annual Leave per calendar year, credited at the beginning of each calendar year (January).
+2. New employees become eligible for Annual Leave after completing 90 days of continuous employment. Leave entitlement for the first year will be calculated on a pro-rata basis, based on the remaining months in the calendar year, however the leaves will be credited in January of the following year.
+3. Employees may carry forward unused Annual Leave to the following year, subject to a maximum accumulation limit of 45 days.
+4. All leave must be requested in advance and approved by the reporting manager, considering operational and business requirements.
+5. Employees serving a notice period are not entitled to annual leave.
 
 #### Note
 
